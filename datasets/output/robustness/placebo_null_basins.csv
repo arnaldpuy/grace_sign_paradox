@@ -1,0 +1,6 @@
+climate_zone,n,mean_recipe_median,pct_depleting,pct_sign_paradox,mean_sign_agree
+humid,122,0.005,40.2,88.5,0.759
+dry sub-humid,29,-0.052,48.3,79.3,0.821
+semi-arid,94,-0.106,42.6,75.5,0.854
+arid,29,-0.28,72.4,86.2,0.805
+hyper-arid,2,-0.587,100,50,0.91

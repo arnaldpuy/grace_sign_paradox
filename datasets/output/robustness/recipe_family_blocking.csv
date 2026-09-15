@@ -1,0 +1,8 @@
+axis,levels,n_blocks,flip_rate
+Smoothing filter,10,52992,36.1
+GIA model,4,132480,35.4
+Degree-1 / geocentre,2,264960,17.1
+Processing centre,3,176640,9
+Truncation degree,2,264960,2.9
+C20 treatment,2,264960,1.6
+C30 treatment,2,264960,0.2

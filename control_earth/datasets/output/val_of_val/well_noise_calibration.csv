@@ -1,0 +1,30 @@
+Study_area,n_wells,sd_trend_m_yr,median_trend_m_yr
+Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),3,0.0744594,-0.0702214
+Central Allegheny Plateau (Appalachian Plateaus),17,0.196037,-0.0182565
+Central High Plains (High Plains),832,0.620319,0.450049
+Central Minnesota Surficial and Buried Sand and Gravel Aquifers,218,0.0104253,-0.00579715
+Central Mississippi Embayment (Mississippi Embayment),1358,0.136354,0.0149122
+Central Parana Basin and Torres Syncline (Guarani Aquifer System),7,0.88266,-0.361879
+Central Piedmont Upland (Piedmont Plateau),16,0.05148,-0.0333717
+Dakota Aquifer System,48,0.0655697,-0.023655
+Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),48,0.310116,-0.0469807
+Eastern Carrizo-Wilcox (Carrizo-Wilcox),324,0.424002,-0.00801753
+Eastern Mississippi Embayment (Mississippi Embayment),76,0.108813,-0.0840076
+Edwards Plateau (Edwards-Trinity Aquifer System),264,0.305473,0.0347921
+Lafayette Area (Gulf Coast Regional Aquifer System),238,0.222857,-0.0324533
+Michigan Basin,26,0.0915529,-0.00970136
+Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),11,0.502382,-0.0265381
+Northern Guarani Aquifer (Guarani Aquifer System),8,0.231941,-0.0619697
+Northern High Plains (High Plains),4876,0.151093,-0.0123686
+Ozark Plateaus Aquifer System,193,0.668319,-0.0685364
+Paskapoo-Scollard,26,0.468032,-0.00841786
+Powder River Basin (Northern Great Plains),9,0.524247,0.00185703
+Rio Grande Delta (Gulf Coast Regional Aquifer System),101,0.248287,0.054244
+Southern High Plains (High Plains),2245,0.349349,0.142457
+Southern Piedmont Upland (Piedmont Plateau),67,0.268962,-0.0295885
+Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),6,0.0322024,-0.134742
+Trinity Aquifer System (Edwards-Trinity Aquifer System),423,0.957799,0.0434814
+Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),49,0.0262355,-0.00404314
+Western Parecis Basin (Parecis Basin),2,0.335126,0.155242
+Williston Basin (Northern Great Plains),59,0.166112,-0.029595
+Wisconsin Precambrian Aquifer,32,0.0456246,-0.023229

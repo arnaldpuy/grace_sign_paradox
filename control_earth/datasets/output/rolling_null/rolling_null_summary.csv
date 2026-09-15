@@ -1,0 +1,5 @@
+dataset,n_aq,win_flip,both,win_only,recipe_only,stable,med_frac_win_spans
+real_earth,73,68,55,13,1,4,0.6
+pilot_uniform_depletion_v2,73,62,51,11,6,5,1
+graded_floor_v2,73,72,70,2,1,0,1
+graded_floor_v3,73,69,61,8,0,4,1

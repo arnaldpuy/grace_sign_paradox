@@ -1,0 +1,1096 @@
+aquifer_idx,Study_area,win_start,n_recipes,frac_pos,med_trend_cmyr,spans
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2002,1920,0.367188,-0.100301,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2002,1920,0.146875,-0.191994,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2002,1920,0.220312,-0.338797,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2002,1920,0.665104,0.100368,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2002,1920,0.647396,0.2466,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2002,1920,0.809375,0.625762,True
+6,Northern Eromanga Basin (Great Artesian Basin),2002,1920,0.834896,0.598666,True
+7,Northern High Plains (High Plains),2002,1920,0.870833,0.680144,True
+8,Williston Basin (Northern Great Plains),2002,1920,0.558333,0.0938548,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2002,1920,0.833333,0.660117,True
+10,Western Parecis Basin (Parecis Basin),2002,1920,0.468229,-0.0570093,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2002,1920,0.557813,0.0865178,True
+12,Stampriet Kalahari Karoo Aquifer System,2002,1920,0.740104,0.486878,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2002,1920,0.173437,-0.295435,True
+14,Ozark Plateaus Aquifer System,2002,1920,0.622396,0.176525,True
+15,Western Karoo Basin (Main Karoo Basin),2002,1920,0.464583,-0.0329025,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2002,1920,0.205208,-0.327049,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2002,1920,0.238542,-0.281389,True
+18,Canning Basin,2002,1920,0.7,0.145711,True
+19,Central Karoo Basin (Main Karoo Basin),2002,1920,0.565625,0.0564493,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2002,1920,0.761458,0.383767,True
+21,Eastern Parecis Basin (Parecis Basin),2002,1920,0.202604,-0.424632,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2002,1920,0.900521,0.446872,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2002,1920,0.609896,0.195336,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2002,1920,0.729688,0.440466,True
+25,Dakota Aquifer System,2002,1920,0.773958,0.358182,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2002,1920,0.726562,0.212949,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2002,1920,0.613542,0.128804,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2002,1920,0.377604,-0.103036,True
+29,Central Mississippi Embayment (Mississippi Embayment),2002,1920,0.198437,-0.378709,True
+30,Northern Karoo Basin (Main Karoo Basin),2002,1920,0.664583,0.254325,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2002,1920,0.445312,-0.0873365,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2002,1920,0.571875,0.0780077,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2002,1920,0.341146,-0.139041,True
+34,Central Huaihe Plain (Huaihe River Basin),2002,1920,0.155208,-0.497153,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2002,1920,0.3375,-0.307885,True
+36,Southern High Plains (High Plains),2002,1920,0.341667,-0.34667,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2002,1920,0.157292,-0.585823,True
+38,Central High Plains (High Plains),2002,1920,0.375521,-0.232187,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2002,1920,0.650521,0.157887,True
+40,Wadi As-Sirhan Basin,2002,1920,0.308333,-0.189891,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2002,1920,0.755208,0.213257,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2002,1920,0.0380208,-0.974386,True
+43,Wisconsin Precambrian Aquifer,2002,1920,0.580729,0.1169,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2002,1920,0.385417,-0.17725,True
+45,Paskapoo-Scollard,2002,1920,0.595833,0.240326,True
+46,Western Surat Basin (Great Artesian Basin),2002,1920,0.817187,0.803928,True
+47,Coonamble Embayment (Great Artesian Basin),2002,1920,0.901042,0.927171,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2002,1920,0.801042,0.804201,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2002,1920,0.159375,-0.38556,True
+50,Powder River Basin (Northern Great Plains),2002,1920,0.794792,0.892755,True
+51,Central Eucla Basin (Eucla Basin),2002,1920,0.43125,-0.110578,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2002,1920,0.608854,0.106873,True
+53,Michigan Basin,2002,1920,0.634375,0.251173,True
+54,Southern Piedmont Upland (Piedmont Plateau),2002,1920,0.225521,-0.380423,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2002,1920,0.686458,0.304908,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2002,1920,0.725521,0.321623,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2002,1920,0.154688,-0.488846,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2002,1920,0.522917,0.0472784,True
+59,Southeastern System (Amadeus Basin),2002,1920,0.901563,0.44439,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2002,1920,0.28125,-0.38295,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2002,1920,0.6125,0.110802,True
+62,Eastside Lower Indus Valley (Indus Basin),2002,1920,0.689063,0.34846,True
+63,Central Piedmont Upland (Piedmont Plateau),2002,1920,0.04375,-1.10092,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2002,1920,0.198958,-0.542451,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2002,1920,0.932292,0.829625,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2002,1920,0.564583,0.114621,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2002,1920,0.370833,-0.130406,True
+68,Eastside Middle Indus Plain (Indus Basin),2002,1920,0.691667,0.381778,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2002,1920,0.475,-0.111608,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2002,1920,0.382812,-0.100212,True
+71,Southern Riverine Plains (Murray Basin),2002,1920,0.542708,0.0373536,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2002,1920,0.242708,-0.474408,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2003,1920,0.639062,0.072596,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2003,1920,0.692708,0.0905061,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2003,1920,0.404687,-0.0533723,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2003,1920,0.146354,-0.327656,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2003,1920,0.621875,0.213732,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2003,1920,0.984375,1.01228,True
+6,Northern Eromanga Basin (Great Artesian Basin),2003,1920,0.803125,0.453217,True
+7,Northern High Plains (High Plains),2003,1920,0.790104,0.448203,True
+8,Williston Basin (Northern Great Plains),2003,1920,0.589063,0.0887951,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2003,1920,0.996354,1.05612,True
+10,Western Parecis Basin (Parecis Basin),2003,1920,0.486458,-0.00814313,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2003,1920,0.319792,-0.213299,True
+12,Stampriet Kalahari Karoo Aquifer System,2003,1920,0.938021,0.809091,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2003,1920,0.0104167,-0.671194,True
+14,Ozark Plateaus Aquifer System,2003,1920,0.191667,-0.500049,True
+15,Western Karoo Basin (Main Karoo Basin),2003,1920,0.497396,-0.00910727,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2003,1920,0.194792,-0.313946,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2003,1920,0.133333,-0.472782,True
+18,Canning Basin,2003,1920,0.445833,-0.0423451,True
+19,Central Karoo Basin (Main Karoo Basin),2003,1920,0.626563,0.11241,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2003,1920,0.634375,0.10185,True
+21,Eastern Parecis Basin (Parecis Basin),2003,1920,0.189062,-0.255063,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2003,1920,0.397917,-0.133028,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2003,1920,0.600521,0.180993,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2003,1920,0.597917,0.114325,True
+25,Dakota Aquifer System,2003,1920,0.493229,-0.0136766,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2003,1920,0.821354,0.291737,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2003,1920,0.198958,-0.331396,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2003,1920,0.249479,-0.307972,True
+29,Central Mississippi Embayment (Mississippi Embayment),2003,1920,0.160938,-0.561909,True
+30,Northern Karoo Basin (Main Karoo Basin),2003,1920,0.565104,0.112331,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2003,1920,0.173958,-0.772425,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2003,1920,0.221875,-0.243176,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2003,1920,0.131771,-0.348175,True
+34,Central Huaihe Plain (Huaihe River Basin),2003,1920,0.0791667,-0.606341,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2003,1920,0.255729,-0.514099,True
+36,Southern High Plains (High Plains),2003,1920,0.328125,-0.404939,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2003,1920,0.313542,-0.269171,True
+38,Central High Plains (High Plains),2003,1920,0.243229,-0.526775,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2003,1920,0.741667,0.317588,True
+40,Wadi As-Sirhan Basin,2003,1920,0.476042,-0.0279117,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2003,1920,0.291667,-0.228909,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2003,1920,0.00104167,-1.02986,True
+43,Wisconsin Precambrian Aquifer,2003,1920,0.222917,-0.390836,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2003,1920,0.388542,-0.189914,True
+45,Paskapoo-Scollard,2003,1920,0.617708,0.22047,True
+46,Western Surat Basin (Great Artesian Basin),2003,1920,0.927604,0.976067,True
+47,Coonamble Embayment (Great Artesian Basin),2003,1920,0.878646,0.989154,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2003,1920,0.838021,0.939066,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2003,1920,0.242708,-0.380072,True
+50,Powder River Basin (Northern Great Plains),2003,1920,0.570833,0.17806,True
+51,Central Eucla Basin (Eucla Basin),2003,1920,0.649479,0.156791,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2003,1920,0.078125,-0.696359,True
+53,Michigan Basin,2003,1920,0.656771,0.275159,True
+54,Southern Piedmont Upland (Piedmont Plateau),2003,1920,0.203646,-0.534159,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2003,1920,0.55,0.0664459,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2003,1920,0.303125,-0.197778,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2003,1920,0.144271,-0.572121,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2003,1920,0.256771,-0.459721,True
+59,Southeastern System (Amadeus Basin),2003,1920,0.988542,0.604447,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2003,1920,0.234896,-0.498765,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2003,1920,0.344792,-0.106616,True
+62,Eastside Lower Indus Valley (Indus Basin),2003,1920,0.40625,-0.104617,True
+63,Central Piedmont Upland (Piedmont Plateau),2003,1920,0.0104167,-1.0817,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2003,1920,0.119792,-0.688485,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2003,1920,0.875,0.666632,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2003,1920,0.426042,-0.13088,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2003,1920,0.247396,-0.236071,True
+68,Eastside Middle Indus Plain (Indus Basin),2003,1920,0.324479,-0.152786,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2003,1920,0.227083,-0.425503,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2003,1920,0.125521,-0.316305,True
+71,Southern Riverine Plains (Murray Basin),2003,1920,0.819792,0.357636,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2003,1920,0.169271,-0.551837,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2004,1920,0.759375,0.185487,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2004,1920,0.718229,0.169815,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2004,1920,0.634896,0.0866985,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2004,1920,0.359896,-0.0777577,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2004,1920,0.780208,0.505044,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2004,1920,0.915625,0.747977,True
+6,Northern Eromanga Basin (Great Artesian Basin),2004,1920,0.753125,0.34142,True
+7,Northern High Plains (High Plains),2004,1920,0.571875,0.0944597,True
+8,Williston Basin (Northern Great Plains),2004,1920,0.442188,-0.08337,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2004,1920,1,1.12107,False
+10,Western Parecis Basin (Parecis Basin),2004,1920,0.825521,0.325974,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2004,1920,0.760417,0.242907,True
+12,Stampriet Kalahari Karoo Aquifer System,2004,1920,0.973437,0.733377,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2004,1920,0.226562,-0.432757,True
+14,Ozark Plateaus Aquifer System,2004,1920,0.200521,-0.365421,True
+15,Western Karoo Basin (Main Karoo Basin),2004,1920,0.248958,-0.217726,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2004,1920,0.439583,-0.0907412,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2004,1920,0.245312,-0.3258,True
+18,Canning Basin,2004,1920,0.583333,0.112786,True
+19,Central Karoo Basin (Main Karoo Basin),2004,1920,0.580729,0.0451439,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2004,1920,0.283854,-0.19309,True
+21,Eastern Parecis Basin (Parecis Basin),2004,1920,0.489063,-0.0131137,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2004,1920,0.481771,-0.0135915,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2004,1920,0.363021,-0.159559,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2004,1920,0.501042,0.00100887,True
+25,Dakota Aquifer System,2004,1920,0.489063,-0.0192922,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2004,1920,0.794792,0.470573,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2004,1920,0.416146,-0.109205,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2004,1920,0.250521,-0.316279,True
+29,Central Mississippi Embayment (Mississippi Embayment),2004,1920,0.273438,-0.28402,True
+30,Northern Karoo Basin (Main Karoo Basin),2004,1920,0.376042,-0.142241,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2004,1920,0.127083,-1.06237,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2004,1920,0.153646,-0.286376,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2004,1920,0.226042,-0.494809,True
+34,Central Huaihe Plain (Huaihe River Basin),2004,1920,0.344271,-0.217206,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2004,1920,0.157292,-0.748132,True
+36,Southern High Plains (High Plains),2004,1920,0.140625,-0.938823,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2004,1920,0.361979,-0.179542,True
+38,Central High Plains (High Plains),2004,1920,0.116667,-0.768097,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2004,1920,0.782292,0.483991,True
+40,Wadi As-Sirhan Basin,2004,1920,0.321875,-0.222257,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2004,1920,0.109375,-0.465789,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2004,1920,0,-1.03453,False
+43,Wisconsin Precambrian Aquifer,2004,1920,0.273438,-0.348217,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2004,1920,0.366146,-0.275414,True
+45,Paskapoo-Scollard,2004,1920,0.527083,0.042635,True
+46,Western Surat Basin (Great Artesian Basin),2004,1920,0.870313,0.667082,True
+47,Coonamble Embayment (Great Artesian Basin),2004,1920,0.894792,0.659814,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2004,1920,0.932813,0.641168,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2004,1920,0.536979,0.0890561,True
+50,Powder River Basin (Northern Great Plains),2004,1920,0.602083,0.13704,True
+51,Central Eucla Basin (Eucla Basin),2004,1920,0.697917,0.181926,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2004,1920,0.315104,-0.235338,True
+53,Michigan Basin,2004,1920,0.8,0.503819,True
+54,Southern Piedmont Upland (Piedmont Plateau),2004,1920,0.246875,-0.323907,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2004,1920,0.403646,-0.120815,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2004,1920,0.163021,-0.370853,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2004,1920,0.273958,-0.2711,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2004,1920,0.104167,-1.08124,True
+59,Southeastern System (Amadeus Basin),2004,1920,0.996875,0.626798,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2004,1920,0.189583,-0.612857,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2004,1920,0.333854,-0.158479,True
+62,Eastside Lower Indus Valley (Indus Basin),2004,1920,0.382292,-0.197387,True
+63,Central Piedmont Upland (Piedmont Plateau),2004,1920,0.0505208,-0.751855,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2004,1920,0.0234375,-0.853553,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2004,1920,0.539583,0.0534294,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2004,1920,0.302604,-0.401416,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2004,1920,0.401562,-0.0725939,True
+68,Eastside Middle Indus Plain (Indus Basin),2004,1920,0.179167,-0.508495,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2004,1920,0.414583,-0.21714,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2004,1920,0.279167,-0.192452,True
+71,Southern Riverine Plains (Murray Basin),2004,1920,0.909375,0.695216,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2004,1920,0.288021,-0.229331,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2005,1920,0.831771,0.423094,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2005,1920,0.653646,0.169562,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2005,1920,0.304167,-0.232067,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2005,1920,0.191146,-0.29315,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2005,1920,0.832812,0.384059,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2005,1920,0.769271,0.304684,True
+6,Northern Eromanga Basin (Great Artesian Basin),2005,1920,0.43125,-0.100385,True
+7,Northern High Plains (High Plains),2005,1920,0.372396,-0.182283,True
+8,Williston Basin (Northern Great Plains),2005,1920,0.497396,-0.00688728,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2005,1920,0.998958,0.933494,True
+10,Western Parecis Basin (Parecis Basin),2005,1920,0.45625,-0.0426438,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2005,1920,0.790625,0.399167,True
+12,Stampriet Kalahari Karoo Aquifer System,2005,1920,0.766667,0.277128,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2005,1920,0.4625,-0.0638797,True
+14,Ozark Plateaus Aquifer System,2005,1920,0.491146,-0.01451,True
+15,Western Karoo Basin (Main Karoo Basin),2005,1920,0.490104,-0.00798062,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2005,1920,0.0927083,-0.441344,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2005,1920,0.364063,-0.191417,True
+18,Canning Basin,2005,1920,0.93125,0.46254,True
+19,Central Karoo Basin (Main Karoo Basin),2005,1920,0.299479,-0.215786,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2005,1920,0.167187,-0.376833,True
+21,Eastern Parecis Basin (Parecis Basin),2005,1920,0.970313,0.619197,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2005,1920,0.310417,-0.200402,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2005,1920,0.598958,0.118675,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2005,1920,0.459896,-0.0554443,True
+25,Dakota Aquifer System,2005,1920,0.305208,-0.209013,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2005,1920,0.591667,0.177562,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2005,1920,0.560937,0.0923782,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2005,1920,0.445312,-0.0557957,True
+29,Central Mississippi Embayment (Mississippi Embayment),2005,1920,0.5625,0.0821562,True
+30,Northern Karoo Basin (Main Karoo Basin),2005,1920,0.23125,-0.356574,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2005,1920,0.235417,-0.560206,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2005,1920,0.122917,-0.459782,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2005,1920,0.223958,-0.496312,True
+34,Central Huaihe Plain (Huaihe River Basin),2005,1920,0.429688,-0.0949113,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2005,1920,0.159896,-0.789104,True
+36,Southern High Plains (High Plains),2005,1920,0.141146,-0.584983,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2005,1920,0.507812,0.00673044,True
+38,Central High Plains (High Plains),2005,1920,0.24375,-0.50913,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2005,1920,0.523438,0.0416125,True
+40,Wadi As-Sirhan Basin,2005,1920,0.227604,-0.225871,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2005,1920,0.259896,-0.279247,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2005,1920,0.204167,-0.562187,True
+43,Wisconsin Precambrian Aquifer,2005,1920,0.573958,0.115972,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2005,1920,0.667708,0.213986,True
+45,Paskapoo-Scollard,2005,1920,0.433333,-0.160691,True
+46,Western Surat Basin (Great Artesian Basin),2005,1920,0.693229,0.190631,True
+47,Coonamble Embayment (Great Artesian Basin),2005,1920,0.890625,0.440711,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2005,1920,0.55,0.0504789,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2005,1920,0.706771,0.556167,True
+50,Powder River Basin (Northern Great Plains),2005,1920,0.54375,0.05018,True
+51,Central Eucla Basin (Eucla Basin),2005,1920,0.863542,0.544727,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2005,1920,0.772917,0.489407,True
+53,Michigan Basin,2005,1920,0.929688,1.23017,True
+54,Southern Piedmont Upland (Piedmont Plateau),2005,1920,0.634375,0.192198,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2005,1920,0.428646,-0.0909201,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2005,1920,0.1,-0.669215,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2005,1920,0.657292,0.249972,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2005,1920,0.332813,-0.301458,True
+59,Southeastern System (Amadeus Basin),2005,1920,0.888542,0.54865,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2005,1920,0.143229,-0.526255,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2005,1920,0.486458,-0.0316105,True
+62,Eastside Lower Indus Valley (Indus Basin),2005,1920,0.432812,-0.199861,True
+63,Central Piedmont Upland (Piedmont Plateau),2005,1920,0.552083,0.0861293,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2005,1920,0.164583,-0.98739,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2005,1920,0.517188,0.0201704,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2005,1920,0.780208,0.525974,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2005,1920,0.526042,0.0538158,True
+68,Eastside Middle Indus Plain (Indus Basin),2005,1920,0.482292,-0.0301079,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2005,1920,0.713021,0.415015,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2005,1920,0.233333,-0.462555,True
+71,Southern Riverine Plains (Murray Basin),2005,1920,0.95,0.850336,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2005,1920,0.642188,0.224476,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2006,1920,0.959896,0.499009,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2006,1920,0.739062,0.246236,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2006,1920,0.481771,-0.025661,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2006,1920,0,-0.747589,False
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2006,1920,0.751563,0.217705,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2006,1920,0.361979,-0.0746578,True
+6,Northern Eromanga Basin (Great Artesian Basin),2006,1920,0.205729,-0.298659,True
+7,Northern High Plains (High Plains),2006,1920,0.0625,-0.727962,True
+8,Williston Basin (Northern Great Plains),2006,1920,0.322917,-0.245133,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2006,1920,0.830729,0.491338,True
+10,Western Parecis Basin (Parecis Basin),2006,1920,0.332813,-0.227844,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2006,1920,0.623958,0.157071,True
+12,Stampriet Kalahari Karoo Aquifer System,2006,1920,0.393229,-0.128299,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2006,1920,0.525,0.019,True
+14,Ozark Plateaus Aquifer System,2006,1920,0.258333,-0.437481,True
+15,Western Karoo Basin (Main Karoo Basin),2006,1920,0.511979,0.0313178,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2006,1920,0.100521,-0.627131,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2006,1920,0.379688,-0.132416,True
+18,Canning Basin,2006,1920,0.617708,0.0766568,True
+19,Central Karoo Basin (Main Karoo Basin),2006,1920,0.0166667,-0.706206,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2006,1920,0.122917,-0.484396,True
+21,Eastern Parecis Basin (Parecis Basin),2006,1920,0.876042,0.452683,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2006,1920,0.390104,-0.156958,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2006,1920,0.407813,-0.0983818,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2006,1920,0.291667,-0.165446,True
+25,Dakota Aquifer System,2006,1920,0.194792,-0.464481,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2006,1920,0.548438,0.0603892,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2006,1920,0.6375,0.193076,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2006,1920,0.685417,0.224054,True
+29,Central Mississippi Embayment (Mississippi Embayment),2006,1920,0.714063,0.281924,True
+30,Northern Karoo Basin (Main Karoo Basin),2006,1920,0.0911458,-0.732524,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2006,1920,0.209375,-0.58506,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2006,1920,0.181771,-0.439015,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2006,1920,0.325521,-0.318441,True
+34,Central Huaihe Plain (Huaihe River Basin),2006,1920,0.529167,0.0512555,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2006,1920,0.0463542,-1.08145,True
+36,Southern High Plains (High Plains),2006,1920,0.223958,-0.422647,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2006,1920,0.53125,0.0594934,True
+38,Central High Plains (High Plains),2006,1920,0.229167,-0.366197,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2006,1920,0.457292,-0.0643579,True
+40,Wadi As-Sirhan Basin,2006,1920,0.357812,-0.16588,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2006,1920,0.257292,-0.282358,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2006,1920,0.23125,-0.499076,True
+43,Wisconsin Precambrian Aquifer,2006,1920,0.504167,0.00253549,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2006,1920,0.509375,0.0120849,True
+45,Paskapoo-Scollard,2006,1920,0.444792,-0.110979,True
+46,Western Surat Basin (Great Artesian Basin),2006,1920,0.283854,-0.166909,True
+47,Coonamble Embayment (Great Artesian Basin),2006,1920,0.696354,0.143034,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2006,1920,0.117188,-0.360625,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2006,1920,0.775,0.646449,True
+50,Powder River Basin (Northern Great Plains),2006,1920,0.3875,-0.169932,True
+51,Central Eucla Basin (Eucla Basin),2006,1920,0.885938,0.49308,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2006,1920,0.873958,0.501693,True
+53,Michigan Basin,2006,1920,0.913542,1.06811,True
+54,Southern Piedmont Upland (Piedmont Plateau),2006,1920,0.767708,0.564073,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2006,1920,0.385937,-0.119799,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2006,1920,0.127083,-0.661139,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2006,1920,0.781771,0.487094,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2006,1920,0.240625,-0.5167,True
+59,Southeastern System (Amadeus Basin),2006,1920,0.557292,0.0621698,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2006,1920,0.160938,-0.538174,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2006,1920,0.639062,0.369457,True
+62,Eastside Lower Indus Valley (Indus Basin),2006,1920,0.1625,-0.533344,True
+63,Central Piedmont Upland (Piedmont Plateau),2006,1920,0.842187,0.664516,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2006,1920,0.164062,-0.822605,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2006,1920,0.378125,-0.118192,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2006,1920,0.688542,0.371101,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2006,1920,0.673438,0.515734,True
+68,Eastside Middle Indus Plain (Indus Basin),2006,1920,0.250521,-0.338178,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2006,1920,0.7625,0.513836,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2006,1920,0.117188,-0.926526,True
+71,Southern Riverine Plains (Murray Basin),2006,1920,0.8875,0.690781,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2006,1920,0.751563,0.537141,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2007,1920,0.790104,0.346505,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2007,1920,0.924479,0.516864,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2007,1920,0.553125,0.0885106,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2007,1920,0.108333,-0.5566,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2007,1920,0.755208,0.2106,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2007,1920,0.0223958,-0.390174,True
+6,Northern Eromanga Basin (Great Artesian Basin),2007,1920,0.247917,-0.336725,True
+7,Northern High Plains (High Plains),2007,1920,0.00520833,-1.15097,True
+8,Williston Basin (Northern Great Plains),2007,1920,0.296875,-0.366717,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2007,1920,0.767188,0.690189,True
+10,Western Parecis Basin (Parecis Basin),2007,1920,0.331771,-0.206692,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2007,1920,0.351042,-0.179536,True
+12,Stampriet Kalahari Karoo Aquifer System,2007,1920,0.517708,0.0193334,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2007,1920,0.479167,-0.0152869,True
+14,Ozark Plateaus Aquifer System,2007,1920,0.186979,-0.612352,True
+15,Western Karoo Basin (Main Karoo Basin),2007,1920,0.486979,-0.0226563,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2007,1920,0.268229,-0.265834,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2007,1920,0.238542,-0.277514,True
+18,Canning Basin,2007,1920,0.690625,0.240746,True
+19,Central Karoo Basin (Main Karoo Basin),2007,1920,0.0270833,-0.581162,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2007,1920,0.128125,-0.604466,True
+21,Eastern Parecis Basin (Parecis Basin),2007,1920,0.91875,0.721651,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2007,1920,0.208333,-0.325356,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2007,1920,0.477604,-0.0267033,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2007,1920,0.257292,-0.18018,True
+25,Dakota Aquifer System,2007,1920,0.105729,-0.780124,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2007,1920,0.5125,0.0228003,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2007,1920,0.623958,0.227352,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2007,1920,0.633333,0.13956,True
+29,Central Mississippi Embayment (Mississippi Embayment),2007,1920,0.538021,0.0597195,True
+30,Northern Karoo Basin (Main Karoo Basin),2007,1920,0.142187,-0.702262,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2007,1920,0.256771,-0.656156,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2007,1920,0.154167,-0.395761,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2007,1920,0.393229,-0.175159,True
+34,Central Huaihe Plain (Huaihe River Basin),2007,1920,0.73125,0.273193,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2007,1920,0.135417,-0.911922,True
+36,Southern High Plains (High Plains),2007,1920,0.360417,-0.302725,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2007,1920,0.704167,0.372008,True
+38,Central High Plains (High Plains),2007,1920,0.417187,-0.0925597,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2007,1920,0.369271,-0.26656,True
+40,Wadi As-Sirhan Basin,2007,1920,0.715625,0.21988,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2007,1920,0.252604,-0.388723,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2007,1920,0.307812,-0.345498,True
+43,Wisconsin Precambrian Aquifer,2007,1920,0.358854,-0.284092,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2007,1920,0.429167,-0.196171,True
+45,Paskapoo-Scollard,2007,1920,0.401042,-0.170588,True
+46,Western Surat Basin (Great Artesian Basin),2007,1920,0,-0.950592,False
+47,Coonamble Embayment (Great Artesian Basin),2007,1920,0.349479,-0.145965,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2007,1920,0,-1.03999,False
+49,Wuyuer-Shuangyang System (Songnen Plain),2007,1920,0.857812,0.829152,True
+50,Powder River Basin (Northern Great Plains),2007,1920,0.303646,-0.423833,True
+51,Central Eucla Basin (Eucla Basin),2007,1920,0.815625,0.373592,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2007,1920,0.723958,0.402902,True
+53,Michigan Basin,2007,1920,0.850521,0.924447,True
+54,Southern Piedmont Upland (Piedmont Plateau),2007,1920,0.725,0.516045,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2007,1920,0.36875,-0.107526,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2007,1920,0.0677083,-0.841328,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2007,1920,0.690625,0.286081,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2007,1920,0.213542,-0.542109,True
+59,Southeastern System (Amadeus Basin),2007,1920,0.541146,0.043648,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2007,1920,0.366667,-0.276873,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2007,1920,0.636979,0.344917,True
+62,Eastside Lower Indus Valley (Indus Basin),2007,1920,0.153125,-0.672334,True
+63,Central Piedmont Upland (Piedmont Plateau),2007,1920,0.907292,1.01734,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2007,1920,0.145313,-0.926265,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2007,1920,0.40625,-0.116186,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2007,1920,0.490625,-0.0200957,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2007,1920,0.669271,0.375009,True
+68,Eastside Middle Indus Plain (Indus Basin),2007,1920,0.356771,-0.224849,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2007,1920,0.796875,0.594177,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2007,1920,0.264583,-0.511259,True
+71,Southern Riverine Plains (Murray Basin),2007,1920,0.868229,0.603706,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2007,1920,0.649479,0.256134,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2008,1920,0.863021,0.566366,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2008,1920,0.839063,0.420692,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2008,1920,0.836979,0.624878,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2008,1920,0.232813,-0.282626,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2008,1920,0.699479,0.230554,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2008,1920,0.103125,-0.53774,True
+6,Northern Eromanga Basin (Great Artesian Basin),2008,1920,0.318229,-0.303815,True
+7,Northern High Plains (High Plains),2008,1920,0.00677083,-1.31281,True
+8,Williston Basin (Northern Great Plains),2008,1920,0.160417,-0.724499,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2008,1920,0.767708,0.828938,True
+10,Western Parecis Basin (Parecis Basin),2008,1920,0.395313,-0.161742,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2008,1920,0.214583,-0.605086,True
+12,Stampriet Kalahari Karoo Aquifer System,2008,1920,0.243229,-0.37041,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2008,1920,0.74375,0.272986,True
+14,Ozark Plateaus Aquifer System,2008,1920,0.247396,-0.420109,True
+15,Western Karoo Basin (Main Karoo Basin),2008,1920,0.354687,-0.204502,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2008,1920,0.211458,-0.565369,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2008,1920,0.3125,-0.267581,True
+18,Canning Basin,2008,1920,0.843229,0.583582,True
+19,Central Karoo Basin (Main Karoo Basin),2008,1920,0.141146,-0.337059,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2008,1920,0.240104,-0.388343,True
+21,Eastern Parecis Basin (Parecis Basin),2008,1920,0.898438,0.861825,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2008,1920,0.234375,-0.397036,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2008,1920,0.666146,0.268072,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2008,1920,0.570312,0.0586239,True
+25,Dakota Aquifer System,2008,1920,0.0666667,-1.04418,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2008,1920,0.538542,0.0811237,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2008,1920,0.527083,0.0518709,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2008,1920,0.541667,0.0638885,True
+29,Central Mississippi Embayment (Mississippi Embayment),2008,1920,0.630729,0.220201,True
+30,Northern Karoo Basin (Main Karoo Basin),2008,1920,0.101042,-0.581299,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2008,1920,0.163542,-0.654211,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2008,1920,0.329688,-0.304808,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2008,1920,0.472917,-0.0426338,True
+34,Central Huaihe Plain (Huaihe River Basin),2008,1920,0.63125,0.253398,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2008,1920,0.116667,-1.00334,True
+36,Southern High Plains (High Plains),2008,1920,0.455729,-0.126278,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2008,1920,0.632292,0.144265,True
+38,Central High Plains (High Plains),2008,1920,0.510417,0.0143899,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2008,1920,0.4875,-0.01147,True
+40,Wadi As-Sirhan Basin,2008,1920,0.624479,0.152007,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2008,1920,0.205208,-0.333427,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2008,1920,0.564583,0.181202,True
+43,Wisconsin Precambrian Aquifer,2008,1920,0.379167,-0.246823,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2008,1920,0.584896,0.187009,True
+45,Paskapoo-Scollard,2008,1920,0.55,0.102295,True
+46,Western Surat Basin (Great Artesian Basin),2008,1920,0.0166667,-1.20833,True
+47,Coonamble Embayment (Great Artesian Basin),2008,1920,0.398958,-0.168168,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2008,1920,0,-1.47857,False
+49,Wuyuer-Shuangyang System (Songnen Plain),2008,1920,0.883333,0.794145,True
+50,Powder River Basin (Northern Great Plains),2008,1920,0.2125,-0.472865,True
+51,Central Eucla Basin (Eucla Basin),2008,1920,0.895312,0.606457,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2008,1920,0.735417,0.463832,True
+53,Michigan Basin,2008,1920,0.741146,0.490898,True
+54,Southern Piedmont Upland (Piedmont Plateau),2008,1920,0.515625,0.0358893,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2008,1920,0.454167,-0.160404,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2008,1920,0.159375,-0.697551,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2008,1920,0.681771,0.304485,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2008,1920,0.279687,-0.430338,True
+59,Southeastern System (Amadeus Basin),2008,1920,0.50625,0.00425202,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2008,1920,0.492188,-0.016944,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2008,1920,0.501042,0.0131475,True
+62,Eastside Lower Indus Valley (Indus Basin),2008,1920,0.298438,-0.548057,True
+63,Central Piedmont Upland (Piedmont Plateau),2008,1920,0.905208,0.973766,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2008,1920,0.364063,-0.265895,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2008,1920,0.43125,-0.0933242,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2008,1920,0.404687,-0.293217,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2008,1920,0.596354,0.260436,True
+68,Eastside Middle Indus Plain (Indus Basin),2008,1920,0.294271,-0.390475,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2008,1920,0.821354,0.635476,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2008,1920,0.25,-0.624195,True
+71,Southern Riverine Plains (Murray Basin),2008,1920,0.783333,0.687978,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2008,1920,0.630208,0.196493,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2009,1920,0.771354,0.297169,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2009,1920,0.565625,0.0467642,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2009,1920,0.639062,0.198112,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2009,1920,0.256771,-0.127442,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2009,1920,0.322917,-0.137586,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2009,1920,0,-1.19309,False
+6,Northern Eromanga Basin (Great Artesian Basin),2009,1920,0.315625,-0.480072,True
+7,Northern High Plains (High Plains),2009,1920,0.00729167,-1.03239,True
+8,Williston Basin (Northern Great Plains),2009,1920,0.0458333,-1.24483,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2009,1920,0.502604,0.00775875,True
+10,Western Parecis Basin (Parecis Basin),2009,1920,0.43125,-0.0957635,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2009,1920,0.157812,-0.600905,True
+12,Stampriet Kalahari Karoo Aquifer System,2009,1920,0.254167,-0.44199,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2009,1920,0.969271,0.722434,True
+14,Ozark Plateaus Aquifer System,2009,1920,0.677604,0.289373,True
+15,Western Karoo Basin (Main Karoo Basin),2009,1920,0.416667,-0.0637758,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2009,1920,0.243229,-0.654556,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2009,1920,0.617708,0.110008,True
+18,Canning Basin,2009,1920,0.4625,-0.0426875,True
+19,Central Karoo Basin (Main Karoo Basin),2009,1920,0.186458,-0.547958,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2009,1920,0.0739583,-0.718457,True
+21,Eastern Parecis Basin (Parecis Basin),2009,1920,0.868229,0.784961,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2009,1920,0.2125,-0.347415,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2009,1920,0.436979,-0.0963711,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2009,1920,0.330208,-0.197221,True
+25,Dakota Aquifer System,2009,1920,0.0833333,-1.09141,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2009,1920,0.318229,-0.167873,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2009,1920,0.507292,0.0100636,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2009,1920,0.557292,0.0553834,True
+29,Central Mississippi Embayment (Mississippi Embayment),2009,1920,0.857812,0.586875,True
+30,Northern Karoo Basin (Main Karoo Basin),2009,1920,0.0609375,-0.688002,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2009,1920,0.628646,0.170131,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2009,1920,0.5,0.00035659,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2009,1920,0.158333,-0.645709,True
+34,Central Huaihe Plain (Huaihe River Basin),2009,1920,0.733333,0.239068,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2009,1920,0.046875,-0.912287,True
+36,Southern High Plains (High Plains),2009,1920,0.638021,0.228076,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2009,1920,0.782813,0.297206,True
+38,Central High Plains (High Plains),2009,1920,0.810937,0.448056,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2009,1920,0.508854,0.00732561,True
+40,Wadi As-Sirhan Basin,2009,1920,0.626563,0.144583,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2009,1920,0.516667,0.0115764,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2009,1920,0.705208,0.281131,True
+43,Wisconsin Precambrian Aquifer,2009,1920,0.719271,0.314531,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2009,1920,0.870313,0.642932,True
+45,Paskapoo-Scollard,2009,1920,0.576042,0.118601,True
+46,Western Surat Basin (Great Artesian Basin),2009,1920,0.0177083,-1.64396,True
+47,Coonamble Embayment (Great Artesian Basin),2009,1920,0.116667,-0.908444,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2009,1920,0,-1.92879,False
+49,Wuyuer-Shuangyang System (Songnen Plain),2009,1920,0.871875,0.574645,True
+50,Powder River Basin (Northern Great Plains),2009,1920,0.102083,-0.934199,True
+51,Central Eucla Basin (Eucla Basin),2009,1920,0.841146,0.339954,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2009,1920,0.75,0.405036,True
+53,Michigan Basin,2009,1920,0.423958,-0.128757,True
+54,Southern Piedmont Upland (Piedmont Plateau),2009,1920,0.432812,-0.136496,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2009,1920,0.559375,0.0644011,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2009,1920,0.104688,-0.906789,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2009,1920,0.8375,0.563231,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2009,1920,0.525521,0.0524612,True
+59,Southeastern System (Amadeus Basin),2009,1920,0.0947917,-0.43013,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2009,1920,0.524479,0.0350788,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2009,1920,0.314063,-0.37881,True
+62,Eastside Lower Indus Valley (Indus Basin),2009,1920,0.269792,-0.479712,True
+63,Central Piedmont Upland (Piedmont Plateau),2009,1920,0.959375,1.33185,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2009,1920,0.603646,0.166954,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2009,1920,0.478646,-0.0295655,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2009,1920,0.630208,0.228586,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2009,1920,0.45,-0.0948815,True
+68,Eastside Middle Indus Plain (Indus Basin),2009,1920,0.181771,-0.589334,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2009,1920,0.919271,0.843909,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2009,1920,0.176042,-0.70417,True
+71,Southern Riverine Plains (Murray Basin),2009,1920,0.382812,-0.102554,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2009,1920,0.5875,0.133485,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2010,1920,0.213542,-0.207595,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2010,1920,0.408333,-0.0629098,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2010,1920,0.916667,0.404265,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2010,1920,0.493229,-0.00502887,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2010,1920,0.195312,-0.631468,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2010,1920,0,-1.93132,False
+6,Northern Eromanga Basin (Great Artesian Basin),2010,1920,0.15,-0.705518,True
+7,Northern High Plains (High Plains),2010,1920,0.338542,-0.243114,True
+8,Williston Basin (Northern Great Plains),2010,1920,0.00833333,-1.38461,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2010,1920,0.148438,-0.92748,True
+10,Western Parecis Basin (Parecis Basin),2010,1920,0.739583,0.307443,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2010,1920,0.175521,-0.480029,True
+12,Stampriet Kalahari Karoo Aquifer System,2010,1920,0.15,-0.606388,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2010,1920,0.964063,0.439458,True
+14,Ozark Plateaus Aquifer System,2010,1920,0.966146,1.05565,True
+15,Western Karoo Basin (Main Karoo Basin),2010,1920,0.388021,-0.117979,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2010,1920,0.258854,-0.373754,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2010,1920,0.9375,0.318035,True
+18,Canning Basin,2010,1920,0.395833,-0.21308,True
+19,Central Karoo Basin (Main Karoo Basin),2010,1920,0.0619792,-0.634734,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2010,1920,0.11875,-0.617752,True
+21,Eastern Parecis Basin (Parecis Basin),2010,1920,0.964583,0.752327,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2010,1920,0.359375,-0.105292,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2010,1920,0.196875,-0.630876,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2010,1920,0.153646,-0.700695,True
+25,Dakota Aquifer System,2010,1920,0.06875,-0.599038,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2010,1920,0.0421875,-0.555148,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2010,1920,0.358854,-0.25691,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2010,1920,0.639583,0.140276,True
+29,Central Mississippi Embayment (Mississippi Embayment),2010,1920,1,1.00783,False
+30,Northern Karoo Basin (Main Karoo Basin),2010,1920,0.1,-0.586264,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2010,1920,0.852604,0.588724,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2010,1920,0.240104,-0.26725,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2010,1920,0.245833,-0.372733,True
+34,Central Huaihe Plain (Huaihe River Basin),2010,1920,0.571875,0.0778771,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2010,1920,0.26875,-0.39585,True
+36,Southern High Plains (High Plains),2010,1920,0.814063,0.595892,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2010,1920,0.677604,0.165708,True
+38,Central High Plains (High Plains),2010,1920,0.975,1.00058,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2010,1920,0.491146,-0.00834802,True
+40,Wadi As-Sirhan Basin,2010,1920,0.526042,0.0126131,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2010,1920,0.544792,0.027532,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2010,1920,0.941667,0.797832,True
+43,Wisconsin Precambrian Aquifer,2010,1920,0.810937,0.426208,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2010,1920,0.886458,0.740933,True
+45,Paskapoo-Scollard,2010,1920,0.664062,0.251228,True
+46,Western Surat Basin (Great Artesian Basin),2010,1920,0,-2.08321,False
+47,Coonamble Embayment (Great Artesian Basin),2010,1920,0.0333333,-1.4431,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2010,1920,0,-1.76674,False
+49,Wuyuer-Shuangyang System (Songnen Plain),2010,1920,1,1.11678,False
+50,Powder River Basin (Northern Great Plains),2010,1920,0.347396,-0.254808,True
+51,Central Eucla Basin (Eucla Basin),2010,1920,0.413021,-0.0982655,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2010,1920,0.536979,0.0595499,True
+53,Michigan Basin,2010,1920,0.414583,-0.201589,True
+54,Southern Piedmont Upland (Piedmont Plateau),2010,1920,0.44375,-0.0806598,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2010,1920,0.527604,0.0322283,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2010,1920,0.201563,-0.464994,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2010,1920,0.936458,0.753205,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2010,1920,0.734896,0.447691,True
+59,Southeastern System (Amadeus Basin),2010,1920,0.0166667,-1.03953,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2010,1920,0.809896,0.454609,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2010,1920,0.50625,0.00866616,True
+62,Eastside Lower Indus Valley (Indus Basin),2010,1920,0.0833333,-0.63887,True
+63,Central Piedmont Upland (Piedmont Plateau),2010,1920,0.959375,1.15377,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2010,1920,0.807813,0.70401,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2010,1920,0.367708,-0.161236,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2010,1920,0.735417,0.46025,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2010,1920,0.585938,0.135467,True
+68,Eastside Middle Indus Plain (Indus Basin),2010,1920,0.226042,-0.313339,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2010,1920,0.738542,0.472747,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2010,1920,0.160417,-0.736559,True
+71,Southern Riverine Plains (Murray Basin),2010,1920,0.05,-0.692388,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2010,1920,0.694271,0.232983,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2011,1920,0.0104167,-0.626088,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2011,1920,0.136979,-0.330813,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2011,1920,0.672917,0.15446,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2011,1920,0.690625,0.129135,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2011,1920,0.130208,-0.75334,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2011,1920,0,-1.35469,False
+6,Northern Eromanga Basin (Great Artesian Basin),2011,1920,0.0677083,-0.570337,True
+7,Northern High Plains (High Plains),2011,1920,0.411458,-0.204795,True
+8,Williston Basin (Northern Great Plains),2011,1920,0.009375,-1.14922,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2011,1920,0.05,-0.922842,True
+10,Western Parecis Basin (Parecis Basin),2011,1920,0.184896,-0.336954,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2011,1920,0.120833,-0.454671,True
+12,Stampriet Kalahari Karoo Aquifer System,2011,1920,0.0333333,-0.846983,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2011,1920,0.886979,0.188333,True
+14,Ozark Plateaus Aquifer System,2011,1920,0.975,0.944766,True
+15,Western Karoo Basin (Main Karoo Basin),2011,1920,0.250521,-0.302006,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2011,1920,0.383333,-0.127502,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2011,1920,0.7625,0.206565,True
+18,Canning Basin,2011,1920,0.302083,-0.312367,True
+19,Central Karoo Basin (Main Karoo Basin),2011,1920,0.0166667,-0.67544,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2011,1920,0.220312,-0.314584,True
+21,Eastern Parecis Basin (Parecis Basin),2011,1920,0.383854,-0.0630838,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2011,1920,0.626042,0.0873348,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2011,1920,0.242188,-0.454503,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2011,1920,0.134896,-0.554454,True
+25,Dakota Aquifer System,2011,1920,0.210417,-0.32947,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2011,1920,0.0666667,-0.620798,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2011,1920,0.1,-0.682087,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2011,1920,0.351562,-0.183897,True
+29,Central Mississippi Embayment (Mississippi Embayment),2011,1920,0.9375,0.787186,True
+30,Northern Karoo Basin (Main Karoo Basin),2011,1920,0.116667,-0.588106,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2011,1920,0.915625,0.698986,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2011,1920,0.3125,-0.205285,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2011,1920,0.551042,0.0352812,True
+34,Central Huaihe Plain (Huaihe River Basin),2011,1920,0.80625,0.521038,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2011,1920,0.276562,-0.365784,True
+36,Southern High Plains (High Plains),2011,1920,0.874479,0.584682,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2011,1920,0.431771,-0.0961944,True
+38,Central High Plains (High Plains),2011,1920,0.902604,0.6717,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2011,1920,0.677083,0.191039,True
+40,Wadi As-Sirhan Basin,2011,1920,0.421354,-0.0834754,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2011,1920,0.455729,-0.0321814,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2011,1920,0.935937,0.812795,True
+43,Wisconsin Precambrian Aquifer,2011,1920,0.480729,-0.0167587,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2011,1920,0.857292,0.665902,True
+45,Paskapoo-Scollard,2011,1920,0.639062,0.190663,True
+46,Western Surat Basin (Great Artesian Basin),2011,1920,0.0119792,-1.3165,True
+47,Coonamble Embayment (Great Artesian Basin),2011,1920,0.119271,-0.874756,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2011,1920,0.0619792,-1.20719,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2011,1920,1,1.37742,False
+50,Powder River Basin (Northern Great Plains),2011,1920,0.500521,0.000894482,True
+51,Central Eucla Basin (Eucla Basin),2011,1920,0.128125,-0.350317,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2011,1920,0.544271,0.118857,True
+53,Michigan Basin,2011,1920,0.411458,-0.162615,True
+54,Southern Piedmont Upland (Piedmont Plateau),2011,1920,0.605729,0.128362,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2011,1920,0.802604,0.490183,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2011,1920,0.632292,0.16705,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2011,1920,0.836458,0.540237,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2011,1920,0.610417,0.11802,True
+59,Southeastern System (Amadeus Basin),2011,1920,0,-0.918371,False
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2011,1920,0.752083,0.369314,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2011,1920,0.704167,0.190082,True
+62,Eastside Lower Indus Valley (Indus Basin),2011,1920,0.200521,-0.308317,True
+63,Central Piedmont Upland (Piedmont Plateau),2011,1920,0.861979,0.615963,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2011,1920,1,1.22262,False
+65,Jiangsu Coastal Plain (Huaihe River Basin),2011,1920,0.879167,0.374915,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2011,1920,0.526563,0.0513778,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2011,1920,0.682813,0.181393,True
+68,Eastside Middle Indus Plain (Indus Basin),2011,1920,0.185938,-0.383321,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2011,1920,0.595313,0.191377,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2011,1920,0.00104167,-0.662067,True
+71,Southern Riverine Plains (Murray Basin),2011,1920,0.183333,-0.49161,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2011,1920,0.69375,0.320747,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2012,1920,0,-1.25908,False
+1,Northern Guarani Aquifer (Guarani Aquifer System),2012,1920,0,-0.907757,False
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2012,1920,0.310937,-0.295412,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2012,1920,1,0.746441,False
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2012,1920,0.424479,-0.105042,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2012,1920,0,-0.841631,False
+6,Northern Eromanga Basin (Great Artesian Basin),2012,1920,0.153646,-0.367694,True
+7,Northern High Plains (High Plains),2012,1920,0.448958,-0.0809085,True
+8,Williston Basin (Northern Great Plains),2012,1920,0.034375,-0.804184,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2012,1920,0,-0.878365,False
+10,Western Parecis Basin (Parecis Basin),2012,1920,0.308854,-0.210631,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2012,1920,0.202083,-0.208627,True
+12,Stampriet Kalahari Karoo Aquifer System,2012,1920,0.166667,-0.498235,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2012,1920,0.370312,-0.0848811,True
+14,Ozark Plateaus Aquifer System,2012,1920,0.995833,1.07022,True
+15,Western Karoo Basin (Main Karoo Basin),2012,1920,0.403125,-0.150398,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2012,1920,0.596875,0.082477,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2012,1920,0.691667,0.145108,True
+18,Canning Basin,2012,1920,0.28125,-0.264932,True
+19,Central Karoo Basin (Main Karoo Basin),2012,1920,0.05625,-0.507191,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2012,1920,0.411458,-0.0804037,True
+21,Eastern Parecis Basin (Parecis Basin),2012,1920,0.314583,-0.111975,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2012,1920,0.778646,0.246231,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2012,1920,0.49375,-0.0245975,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2012,1920,0.339583,-0.1917,True
+25,Dakota Aquifer System,2012,1920,0.140625,-0.603307,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2012,1920,0.230208,-0.257232,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2012,1920,0.0489583,-0.662319,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2012,1920,0.271875,-0.322618,True
+29,Central Mississippi Embayment (Mississippi Embayment),2012,1920,0.903646,0.720301,True
+30,Northern Karoo Basin (Main Karoo Basin),2012,1920,0.2125,-0.274146,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2012,1920,0.915104,0.695429,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2012,1920,0.397396,-0.222487,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2012,1920,0.677083,0.133582,True
+34,Central Huaihe Plain (Huaihe River Basin),2012,1920,0.861979,0.820005,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2012,1920,0.242708,-0.51867,True
+36,Southern High Plains (High Plains),2012,1920,0.596354,0.110092,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2012,1920,0.333854,-0.197528,True
+38,Central High Plains (High Plains),2012,1920,0.736458,0.363731,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2012,1920,0.860938,0.717115,True
+40,Wadi As-Sirhan Basin,2012,1920,0.4875,-0.0103757,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2012,1920,0.455729,-0.0425734,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2012,1920,0.690625,0.256868,True
+43,Wisconsin Precambrian Aquifer,2012,1920,0.506771,0.00994309,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2012,1920,0.779167,0.426433,True
+45,Paskapoo-Scollard,2012,1920,0.642188,0.192111,True
+46,Western Surat Basin (Great Artesian Basin),2012,1920,0.234896,-0.477649,True
+47,Coonamble Embayment (Great Artesian Basin),2012,1920,0.255208,-0.359569,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2012,1920,0.286979,-0.402956,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2012,1920,1,1.49777,False
+50,Powder River Basin (Northern Great Plains),2012,1920,0.563542,0.0817041,True
+51,Central Eucla Basin (Eucla Basin),2012,1920,0.214583,-0.214989,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2012,1920,0.425521,-0.13578,True
+53,Michigan Basin,2012,1920,0.436458,-0.0931673,True
+54,Southern Piedmont Upland (Piedmont Plateau),2012,1920,0.552083,0.0636329,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2012,1920,0.8625,0.888794,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2012,1920,0.729167,0.258278,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2012,1920,0.848958,0.614356,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2012,1920,0.522917,0.0250024,True
+59,Southeastern System (Amadeus Basin),2012,1920,0.0734375,-0.507183,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2012,1920,0.582292,0.095941,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2012,1920,0.845833,0.382065,True
+62,Eastside Lower Indus Valley (Indus Basin),2012,1920,0.410938,-0.0978963,True
+63,Central Piedmont Upland (Piedmont Plateau),2012,1920,0.751042,0.403665,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2012,1920,0.922917,0.907599,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2012,1920,0.858854,0.621739,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2012,1920,0.622396,0.293635,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2012,1920,0.673958,0.204931,True
+68,Eastside Middle Indus Plain (Indus Basin),2012,1920,0.0677083,-0.412571,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2012,1920,0.806771,0.438861,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2012,1920,0.0296875,-0.728887,True
+71,Southern Riverine Plains (Murray Basin),2012,1920,0.195312,-0.34057,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2012,1920,0.752083,0.442449,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2013,1920,0,-1.14384,False
+1,Northern Guarani Aquifer (Guarani Aquifer System),2013,1920,0.0583333,-0.820109,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2013,1920,0.106771,-0.817845,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2013,1920,0.903646,0.683425,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2013,1920,0.590625,0.0726083,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2013,1920,0.819271,0.201777,True
+6,Northern Eromanga Basin (Great Artesian Basin),2013,1920,0.515104,0.0189736,True
+7,Northern High Plains (High Plains),2013,1920,0.310937,-0.258551,True
+8,Williston Basin (Northern Great Plains),2013,1920,0.163542,-0.861697,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2013,1920,0.413021,-0.110333,True
+10,Western Parecis Basin (Parecis Basin),2013,1920,0.257292,-0.326619,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2013,1920,0.39375,-0.0628274,True
+12,Stampriet Kalahari Karoo Aquifer System,2013,1920,0.258333,-0.289192,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2013,1920,0.138542,-0.303584,True
+14,Ozark Plateaus Aquifer System,2013,1920,0.665104,0.197804,True
+15,Western Karoo Basin (Main Karoo Basin),2013,1920,0.627083,0.119376,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2013,1920,0.839583,0.330344,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2013,1920,0.313542,-0.186127,True
+18,Canning Basin,2013,1920,0.167708,-0.283261,True
+19,Central Karoo Basin (Main Karoo Basin),2013,1920,0.619792,0.0760102,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2013,1920,0.646875,0.140982,True
+21,Eastern Parecis Basin (Parecis Basin),2013,1920,0.133333,-0.546532,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2013,1920,0.485938,-0.010273,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2013,1920,0.419792,-0.0534202,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2013,1920,0.303646,-0.152416,True
+25,Dakota Aquifer System,2013,1920,0.01875,-0.892137,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2013,1920,0.415104,-0.132862,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2013,1920,0.0604167,-0.55078,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2013,1920,0.138021,-0.359854,True
+29,Central Mississippi Embayment (Mississippi Embayment),2013,1920,0.546354,0.0697566,True
+30,Northern Karoo Basin (Main Karoo Basin),2013,1920,0.553125,0.0437204,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2013,1920,0.476562,-0.0267713,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2013,1920,0.413021,-0.106067,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2013,1920,0.745313,0.210911,True
+34,Central Huaihe Plain (Huaihe River Basin),2013,1920,0.892708,0.760331,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2013,1920,0.113542,-0.832632,True
+36,Southern High Plains (High Plains),2013,1920,0.259896,-0.335134,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2013,1920,0.801042,0.212025,True
+38,Central High Plains (High Plains),2013,1920,0.327083,-0.307996,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2013,1920,0.995313,1.16934,True
+40,Wadi As-Sirhan Basin,2013,1920,0.688542,0.165041,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2013,1920,0.257292,-0.189478,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2013,1920,0.403125,-0.145521,True
+43,Wisconsin Precambrian Aquifer,2013,1920,0.360938,-0.270193,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2013,1920,0.465104,-0.0519953,True
+45,Paskapoo-Scollard,2013,1920,0.572396,0.097989,True
+46,Western Surat Basin (Great Artesian Basin),2013,1920,0.967708,0.529881,True
+47,Coonamble Embayment (Great Artesian Basin),2013,1920,0.833854,0.570538,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2013,1920,0.855208,0.331947,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2013,1920,0.983333,1.42942,True
+50,Powder River Basin (Northern Great Plains),2013,1920,0.2875,-0.283713,True
+51,Central Eucla Basin (Eucla Basin),2013,1920,0.35,-0.136418,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2013,1920,0.197917,-0.778276,True
+53,Michigan Basin,2013,1920,0.238542,-0.447362,True
+54,Southern Piedmont Upland (Piedmont Plateau),2013,1920,0.540104,0.0457799,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2013,1920,0.913542,1.00948,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2013,1920,0.894792,0.522168,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2013,1920,0.433854,-0.0622423,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2013,1920,0.333854,-0.429023,True
+59,Southeastern System (Amadeus Basin),2013,1920,0.240625,-0.174474,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2013,1920,0.232292,-0.400643,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2013,1920,0.850521,0.457824,True
+62,Eastside Lower Indus Valley (Indus Basin),2013,1920,0.453125,-0.0651641,True
+63,Central Piedmont Upland (Piedmont Plateau),2013,1920,0.335417,-0.170889,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2013,1920,0.727083,0.46585,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2013,1920,0.83125,0.469513,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2013,1920,0.293229,-0.367496,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2013,1920,0.697396,0.250358,True
+68,Eastside Middle Indus Plain (Indus Basin),2013,1920,0.0515625,-0.66844,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2013,1920,0.350521,-0.171396,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2013,1920,0.211979,-0.455085,True
+71,Southern Riverine Plains (Murray Basin),2013,1920,0.530208,0.0247977,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2013,1920,0.475,-0.0167911,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2014,1920,0,-1.09868,False
+1,Northern Guarani Aquifer (Guarani Aquifer System),2014,1920,0.0880208,-0.790946,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2014,1920,0.178646,-0.859299,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2014,1920,0.880208,0.434524,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2014,1920,0.790104,0.289218,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2014,1920,1,0.415265,False
+6,Northern Eromanga Basin (Great Artesian Basin),2014,1920,0.597396,0.0845986,True
+7,Northern High Plains (High Plains),2014,1920,0.544271,0.0685527,True
+8,Williston Basin (Northern Great Plains),2014,1920,0.178646,-0.824091,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2014,1920,0.528125,0.0408326,True
+10,Western Parecis Basin (Parecis Basin),2014,1920,0.257812,-0.349798,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2014,1920,0.622917,0.113869,True
+12,Stampriet Kalahari Karoo Aquifer System,2014,1920,0.226562,-0.428872,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2014,1920,0.286458,-0.235444,True
+14,Ozark Plateaus Aquifer System,2014,1920,0.229167,-0.335703,True
+15,Western Karoo Basin (Main Karoo Basin),2014,1920,0.7875,0.233501,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2014,1920,0.851562,0.464727,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2014,1920,0.349479,-0.234562,True
+18,Canning Basin,2014,1920,0.261458,-0.323723,True
+19,Central Karoo Basin (Main Karoo Basin),2014,1920,0.785417,0.254557,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2014,1920,0.574479,0.11093,True
+21,Eastern Parecis Basin (Parecis Basin),2014,1920,0.179688,-0.600244,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2014,1920,0.28125,-0.209401,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2014,1920,0.596875,0.0853955,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2014,1920,0.629687,0.111459,True
+25,Dakota Aquifer System,2014,1920,0.0630208,-0.832124,True
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2014,1920,0.632812,0.142433,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2014,1920,0.0697917,-0.461021,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2014,1920,0.403646,-0.113955,True
+29,Central Mississippi Embayment (Mississippi Embayment),2014,1920,0.388021,-0.211373,True
+30,Northern Karoo Basin (Main Karoo Basin),2014,1920,0.427604,-0.107355,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2014,1920,0.0770833,-0.812558,True
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2014,1920,0.6125,0.107837,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2014,1920,0.51875,0.0181441,True
+34,Central Huaihe Plain (Huaihe River Basin),2014,1920,0.946875,0.845828,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2014,1920,0.0395833,-1.44692,True
+36,Southern High Plains (High Plains),2014,1920,0.286458,-0.432815,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2014,1920,0.852604,0.212589,True
+38,Central High Plains (High Plains),2014,1920,0.320833,-0.255153,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2014,1920,0.883333,1.11929,True
+40,Wadi As-Sirhan Basin,2014,1920,0.580729,0.127984,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2014,1920,0.379688,-0.0936655,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2014,1920,0.2375,-0.489622,True
+43,Wisconsin Precambrian Aquifer,2014,1920,0.236979,-0.505083,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2014,1920,0.163542,-0.522833,True
+45,Paskapoo-Scollard,2014,1920,0.514583,0.03256,True
+46,Western Surat Basin (Great Artesian Basin),2014,1920,0.967708,0.541651,True
+47,Coonamble Embayment (Great Artesian Basin),2014,1920,0.783333,0.344908,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2014,1920,0.899479,0.334235,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2014,1920,0.922917,1.26587,True
+50,Powder River Basin (Northern Great Plains),2014,1920,0.405208,-0.112878,True
+51,Central Eucla Basin (Eucla Basin),2014,1920,0.551562,0.0468987,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2014,1920,0.155208,-0.6301,True
+53,Michigan Basin,2014,1920,0.199479,-0.493369,True
+54,Southern Piedmont Upland (Piedmont Plateau),2014,1920,0.602083,0.136886,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2014,1920,0.8875,0.6694,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2014,1920,0.85625,0.498894,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2014,1920,0.372917,-0.136741,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2014,1920,0.0770833,-0.935654,True
+59,Southeastern System (Amadeus Basin),2014,1920,0.564063,0.0395041,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2014,1920,0.152083,-0.597018,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2014,1920,0.520833,0.0344332,True
+62,Eastside Lower Indus Valley (Indus Basin),2014,1920,0.669271,0.293015,True
+63,Central Piedmont Upland (Piedmont Plateau),2014,1920,0.25625,-0.341854,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2014,1920,0.436458,-0.0848108,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2014,1920,0.617708,0.144637,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2014,1920,0.0854167,-0.835175,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2014,1920,0.535937,0.06667,True
+68,Eastside Middle Indus Plain (Indus Basin),2014,1920,0.135417,-0.673302,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2014,1920,0.236458,-0.34226,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2014,1920,0.455208,-0.0494287,True
+71,Southern Riverine Plains (Murray Basin),2014,1920,0.806771,0.257839,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2014,1920,0.542188,0.0349792,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2015,1920,0.0984375,-0.842644,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2015,1920,0.0822917,-0.797351,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2015,1920,0.0177083,-1.06105,True
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2015,1920,0.113542,-0.351665,True
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2015,1920,0.661458,0.124656,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2015,1920,0.997917,0.445424,True
+6,Northern Eromanga Basin (Great Artesian Basin),2015,1920,0.467708,-0.0346956,True
+7,Northern High Plains (High Plains),2015,1920,0.517188,0.0270702,True
+8,Williston Basin (Northern Great Plains),2015,1920,0.208854,-0.719246,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2015,1920,0.440625,-0.0579528,True
+10,Western Parecis Basin (Parecis Basin),2015,1920,0.00989583,-1.0435,True
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2015,1920,0.80625,0.354124,True
+12,Stampriet Kalahari Karoo Aquifer System,2015,1920,0.200521,-0.335226,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2015,1920,0.467187,-0.0282247,True
+14,Ozark Plateaus Aquifer System,2015,1920,0.0776042,-0.790372,True
+15,Western Karoo Basin (Main Karoo Basin),2015,1920,0.848437,0.393597,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2015,1920,0.40625,-0.111529,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2015,1920,0.442188,-0.0357771,True
+18,Canning Basin,2015,1920,0.646354,0.103467,True
+19,Central Karoo Basin (Main Karoo Basin),2015,1920,0.851042,0.369424,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2015,1920,0.540625,0.0410096,True
+21,Eastern Parecis Basin (Parecis Basin),2015,1920,0.270313,-0.607146,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2015,1920,0.118229,-0.307653,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2015,1920,0.802083,0.20293,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2015,1920,0.630208,0.119839,True
+25,Dakota Aquifer System,2015,1920,0,-1.01112,False
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2015,1920,0.452604,-0.0265034,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2015,1920,0.354167,-0.278473,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2015,1920,0.347917,-0.139166,True
+29,Central Mississippi Embayment (Mississippi Embayment),2015,1920,0.161458,-0.39231,True
+30,Northern Karoo Basin (Main Karoo Basin),2015,1920,0.670312,0.179857,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2015,1920,0,-1.07956,False
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2015,1920,0.64375,0.0922421,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2015,1920,0.606771,0.115735,True
+34,Central Huaihe Plain (Huaihe River Basin),2015,1920,0.940625,0.491534,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2015,1920,0.0807292,-1.44472,True
+36,Southern High Plains (High Plains),2015,1920,0.133854,-0.677403,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2015,1920,0.928646,0.509552,True
+38,Central High Plains (High Plains),2015,1920,0.0869792,-0.488103,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2015,1920,0.990625,1.3146,True
+40,Wadi As-Sirhan Basin,2015,1920,0.389583,-0.0514549,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2015,1920,0.664583,0.133493,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2015,1920,0.0625,-1.02513,True
+43,Wisconsin Precambrian Aquifer,2015,1920,0.172917,-0.543258,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2015,1920,0.413542,-0.0767137,True
+45,Paskapoo-Scollard,2015,1920,0.342187,-0.229558,True
+46,Western Surat Basin (Great Artesian Basin),2015,1920,0.998958,0.523523,True
+47,Coonamble Embayment (Great Artesian Basin),2015,1920,0.866667,0.508377,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2015,1920,0.863021,0.293079,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2015,1920,0.950521,1.12018,True
+50,Powder River Basin (Northern Great Plains),2015,1920,0.354687,-0.172587,True
+51,Central Eucla Basin (Eucla Basin),2015,1920,0.465625,-0.0337426,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2015,1920,0.372917,-0.187805,True
+53,Michigan Basin,2015,1920,0.23125,-0.412078,True
+54,Southern Piedmont Upland (Piedmont Plateau),2015,1920,0.548958,0.0633857,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2015,1920,0.934896,0.539949,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2015,1920,0.9625,0.597931,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2015,1920,0.172917,-0.317659,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2015,1920,0.182812,-0.780934,True
+59,Southeastern System (Amadeus Basin),2015,1920,0.622917,0.133078,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2015,1920,0,-1.11676,False
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2015,1920,0.584896,0.109445,True
+62,Eastside Lower Indus Valley (Indus Basin),2015,1920,0.660417,0.185072,True
+63,Central Piedmont Upland (Piedmont Plateau),2015,1920,0.290625,-0.342338,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2015,1920,0.214583,-0.460109,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2015,1920,0.560417,0.0987056,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2015,1920,0.0604167,-0.859443,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2015,1920,0.63125,0.236029,True
+68,Eastside Middle Indus Plain (Indus Basin),2015,1920,0.522917,0.0244624,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2015,1920,0.220833,-0.40538,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2015,1920,0.642708,0.0871703,True
+71,Southern Riverine Plains (Murray Basin),2015,1920,0.944271,0.522224,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2015,1920,0.326042,-0.180073,True
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),2016,1920,0.059375,-0.642801,True
+1,Northern Guarani Aquifer (Guarani Aquifer System),2016,1920,0.104167,-0.722757,True
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),2016,1920,0,-1.15552,False
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),2016,1920,0,-1.32085,False
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),2016,1920,0.425521,-0.0681026,True
+5,Eastern Eromanga Basin (Great Artesian Basin),2016,1920,0.966146,0.648219,True
+6,Northern Eromanga Basin (Great Artesian Basin),2016,1920,0.675,0.112882,True
+7,Northern High Plains (High Plains),2016,1920,0.411979,-0.10715,True
+8,Williston Basin (Northern Great Plains),2016,1920,0.188542,-0.766356,True
+9,Central Eromanga Depocenter (Great Artesian Basin),2016,1920,0.353646,-0.169157,True
+10,Western Parecis Basin (Parecis Basin),2016,1920,0,-1.32201,False
+11,Upper Gangetic Plain (Indo-Gangetic Plain),2016,1920,0.89375,0.519341,True
+12,Stampriet Kalahari Karoo Aquifer System,2016,1920,0.00885417,-0.652473,True
+13,Northcentral Mega Aquifer System (Mega Aquifer System),2016,1920,0.241146,-0.180655,True
+14,Ozark Plateaus Aquifer System,2016,1920,0.0854167,-0.801721,True
+15,Western Karoo Basin (Main Karoo Basin),2016,1920,0.705729,0.41378,True
+16,Middle Gangetic Plain (Indo-Gangetic Plain),2016,1920,0.464583,-0.0381024,True
+17,Northern Mega Aquifer System (Mega Aquifer System),2016,1920,0.399479,-0.139765,True
+18,Canning Basin,2016,1920,0.485938,-0.0153067,True
+19,Central Karoo Basin (Main Karoo Basin),2016,1920,0.928646,0.583594,True
+20,Southern Carpentaria Basin (Great Artesian Basin),2016,1920,0.715104,0.17863,True
+21,Eastern Parecis Basin (Parecis Basin),2016,1920,0.181771,-1.0233,True
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),2016,1920,0.146354,-0.435414,True
+23,Wiso Basin (Daly-Wiso-Georgina Basins),2016,1920,0.778646,0.2461,True
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),2016,1920,0.811458,0.269569,True
+25,Dakota Aquifer System,2016,1920,0,-1.1334,False
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),2016,1920,0.388021,-0.10746,True
+27,Trans Gangetic Plain (Indo-Gangetic Plain),2016,1920,0.690104,0.380279,True
+28,Southcentral Mega Aquifer System (Mega Aquifer System),2016,1920,0.315104,-0.200872,True
+29,Central Mississippi Embayment (Mississippi Embayment),2016,1920,0.111979,-0.604484,True
+30,Northern Karoo Basin (Main Karoo Basin),2016,1920,0.795312,0.324989,True
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),2016,1920,0,-1.59724,False
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),2016,1920,0.683333,0.15884,True
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2016,1920,0.747396,0.323809,True
+34,Central Huaihe Plain (Huaihe River Basin),2016,1920,0.528646,0.0354256,True
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,2016,1920,0.0541667,-1.78047,True
+36,Southern High Plains (High Plains),2016,1920,0.141667,-0.572289,True
+37,Southcentral Karoo Basin (Main Karoo Basin),2016,1920,0.844792,0.545602,True
+38,Central High Plains (High Plains),2016,1920,0.181771,-0.266496,True
+39,Lower Liaohe River Plain (Liaohe River Basin),2016,1920,0.978125,1.00839,True
+40,Wadi As-Sirhan Basin,2016,1920,0.195833,-0.251035,True
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),2016,1920,0.648438,0.114141,True
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),2016,1920,0.128125,-0.682785,True
+43,Wisconsin Precambrian Aquifer,2016,1920,0.111979,-0.931053,True
+44,Lafayette Area (Gulf Coast Regional Aquifer System),2016,1920,0.29375,-0.209854,True
+45,Paskapoo-Scollard,2016,1920,0.169271,-0.680355,True
+46,Western Surat Basin (Great Artesian Basin),2016,1920,0.905729,0.57115,True
+47,Coonamble Embayment (Great Artesian Basin),2016,1920,0.81875,0.510006,True
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),2016,1920,0.871875,0.413859,True
+49,Wuyuer-Shuangyang System (Songnen Plain),2016,1920,0.792708,0.466192,True
+50,Powder River Basin (Northern Great Plains),2016,1920,0.254167,-0.323531,True
+51,Central Eucla Basin (Eucla Basin),2016,1920,0.428125,-0.0793708,True
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),2016,1920,0.565104,0.0715974,True
+53,Michigan Basin,2016,1920,0.145833,-0.709897,True
+54,Southern Piedmont Upland (Piedmont Plateau),2016,1920,0.601042,0.151303,True
+55,Eastern Huaihe Plain (Huaihe River Basin),2016,1920,0.668229,0.21023,True
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),2016,1920,0.963021,0.820873,True
+57,Eastern Mississippi Embayment (Mississippi Embayment),2016,1920,0.204167,-0.317361,True
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2016,1920,0.00833333,-1.33523,True
+59,Southeastern System (Amadeus Basin),2016,1920,0.532813,0.0392192,True
+60,Edwards Plateau (Edwards-Trinity Aquifer System),2016,1920,0.0333333,-1.02336,True
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),2016,1920,0.71875,0.279515,True
+62,Eastside Lower Indus Valley (Indus Basin),2016,1920,0.478125,-0.0416331,True
+63,Central Piedmont Upland (Piedmont Plateau),2016,1920,0.148438,-0.583413,True
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),2016,1920,0.131771,-0.544355,True
+65,Jiangsu Coastal Plain (Huaihe River Basin),2016,1920,0.435417,-0.148422,True
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),2016,1920,0.0125,-1.31577,True
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),2016,1920,0.728125,0.370897,True
+68,Eastside Middle Indus Plain (Indus Basin),2016,1920,0.454167,-0.0569331,True
+69,Central Allegheny Plateau (Appalachian Plateaus),2016,1920,0.16875,-0.609294,True
+70,Northeastern Karoo Basin (Main Karoo Basin),2016,1920,0.561979,0.0413528,True
+71,Southern Riverine Plains (Murray Basin),2016,1920,0.747917,0.227179,True
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),2016,1920,0.423438,-0.0873023,True

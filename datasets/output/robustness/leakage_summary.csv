@@ -1,0 +1,4 @@
+mask_version,n,pct_spans_zero,med_R,R1,R1_lo,R1_hi
+eroded,159,80.5,1.45,0.348,0.304,0.407
+original,159,80.5,1.52,0.347,0.301,0.414
+buffered,159,79.9,1.55,0.33,0.286,0.392

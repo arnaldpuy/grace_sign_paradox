@@ -1,0 +1,5 @@
+gate,real,synthetic,criterion,pass
+G1_iqr_ratio,1,0.945837293486898,0.5-1.5,TRUE
+G2_filter_share,0.414777826498406,0.342129240934253,0.41 +/- 0.15,TRUE
+G3_centre_ratio,1,1.0448342670535,0.5-1.5,TRUE
+G4_area_exponent,-0.196192219505001,-0.0261563406737862,-0.20 to -0.02,TRUE

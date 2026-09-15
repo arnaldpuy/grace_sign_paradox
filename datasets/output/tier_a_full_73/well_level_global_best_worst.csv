@@ -1,0 +1,11 @@
+truncation,filter,gia_model,c20_treatment,c30_treatment,geocenter,recipe_idx_per_centre,centre,recipe_mean_r,recipe_median_r,n_wells_valid,spearman_trend_rho,kind
+96,DDK3,none,replaced,original,none,514,GFZ,0.38324362,0.43917614,16053,0.42643043,best 5
+96,DDK3,none,replaced,replaced,none,512,GFZ,0.38318726,0.43908048,16053,0.42640516,best 5
+60,DDK3,none,replaced,original,none,194,GFZ,0.3828165,0.44180062,16053,0.42356,best 5
+60,DDK3,none,replaced,replaced,none,192,GFZ,0.38279578,0.44216776,16053,0.42352825,best 5
+60,DDK3,none,replaced,original,none,194,CSR,0.3824763,0.45273677,16053,0.44071263,best 5
+96,Swenson_G500,Caron_2018,original,replaced,none,468,JPL,0.18407261,0.2617724,16053,0.35538906,worst 5
+60,Swenson_G500,Caron_2018,original,original,none,150,JPL,0.183866,0.26631233,16053,0.354737,worst 5
+96,Swenson_G500,Caron_2018,original,original,none,470,CSR,0.18367755,0.25712627,16053,0.3552846,worst 5
+60,Swenson_G500,Caron_2018,original,replaced,none,148,JPL,0.18272983,0.26306877,16053,0.35451192,worst 5
+96,Swenson_G500,Caron_2018,original,replaced,none,468,CSR,0.1821701,0.25569728,16053,0.35536027,worst 5
