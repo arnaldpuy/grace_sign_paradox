@@ -1,0 +1,74 @@
+Study_area,ai_mean,ai_std,n_pixels,climate_zone
+Paskapoo-Scollard,0.7125285187606841,0.11509320900203812,126941,humid
+Northern High Plains (High Plains),0.3763223013579998,0.0995444534991357,401841,semi-arid
+Central High Plains (High Plains),0.25779698027110454,0.03759220603129562,104314,semi-arid
+Southern High Plains (High Plains),0.22514110998779185,0.027434175273345053,104848,semi-arid
+Eastern Mississippi Embayment (Mississippi Embayment),1.1149083379219045,0.04482924635985638,85357,humid
+Central Mississippi Embayment (Mississippi Embayment),1.0216955381344883,0.04596808948646759,126539,humid
+Eastern Carrizo-Wilcox (Carrizo-Wilcox),0.8715280984816774,0.09887665476809013,78837,humid
+Ozark Plateaus Aquifer System,0.9008623567103756,0.0669161418324954,252199,humid
+Williston Basin (Northern Great Plains),0.3504112052854939,0.08293133652947329,416839,semi-arid
+Powder River Basin (Northern Great Plains),0.27684683612555366,0.029584515656531064,103860,semi-arid
+Rio Grande Delta (Gulf Coast Regional Aquifer System),0.3815225525840613,0.08595128303157921,81964,semi-arid
+Lafayette Area (Gulf Coast Regional Aquifer System),1.0784527447264245,0.14968946199671634,89171,humid
+Edwards Plateau (Edwards-Trinity Aquifer System),0.27842150461139764,0.06462382973493934,78718,semi-arid
+Trinity Aquifer System (Edwards-Trinity Aquifer System),0.5487302502108519,0.10905944811940221,92482,dry sub-humid
+Southern Piedmont Upland (Piedmont Plateau),1.0728741585258577,0.11994255589449657,86396,humid
+Central Piedmont Upland (Piedmont Plateau),1.0075083373493976,0.04214896003098326,83000,humid
+Michigan Basin,0.9177176261264423,0.05357657266663943,99761,humid
+Wisconsin Precambrian Aquifer,1.0308982942333613,0.05406452665159846,109804,humid
+Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),0.8967996085200827,0.0699579943818434,97323,humid
+Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),0.9192276679525189,0.026103064218254292,87361,humid
+Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),0.8623674586716514,0.03816564554945664,136952,humid
+Central Allegheny Plateau (Appalachian Plateaus),1.099210118667218,0.10089692810295298,79803,humid
+Central Minnesota Surficial and Buried Sand and Gravel Aquifers,0.8030302761225083,0.10244953561226337,127371,humid
+Dakota Aquifer System,0.4327706379383186,0.06614401059239407,179892,semi-arid
+Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),0.8917347226509307,0.17760079946152146,440600,humid
+Central Parana Basin and Torres Syncline (Guarani Aquifer System),1.3085560141911823,0.24803551897246875,641807,humid
+Northern Guarani Aquifer (Guarani Aquifer System),1.0217687521326235,0.13057928412559733,521658,humid
+Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),1.7365501152409888,0.1989416905394094,373565,humid
+Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),0.7351207816363755,0.20547770552081085,138709,humid
+Western Parecis Basin (Parecis Basin),1.5425167105263158,0.12165411312985967,256120,humid
+Eastern Parecis Basin (Parecis Basin),1.3889176405123589,0.12200962308596443,141073,humid
+Wuyuer-Shuangyang System (Songnen Plain),0.42593443565306566,0.039923950270731555,106291,semi-arid
+Lower Liaohe River Plain (Liaohe River Basin),0.5053587223966178,0.0961545922292272,110222,dry sub-humid
+Jiangsu Coastal Plain (Huaihe River Basin),0.8208332200360033,0.16486545981479625,79437,humid
+Eastern Huaihe Plain (Huaihe River Basin),0.6370286416198181,0.06716342702836611,87516,dry sub-humid
+Central Huaihe Plain (Huaihe River Basin),0.662863474259934,0.10785586175145691,111713,humid
+Eastern Saq Aquifer (Ram-Saq Aquifer System),0.057012876469182724,0.0051209168416407784,87889,arid
+Wadi As-Sirhan Basin,0.025267528220505635,0.008660696752904493,92043,hyper-arid
+Southcentral Mega Aquifer System (Mega Aquifer System),0.027951164483260557,0.0053971637502046,115416,hyper-arid
+Northcentral Mega Aquifer System (Mega Aquifer System),0.04801678275626251,0.013824480694323675,236886,arid
+Northern Mega Aquifer System (Mega Aquifer System),0.03479669081060008,0.008155054452868373,194942,arid
+Southcentral Deccan Basalt Plateau (Deccan Plateau),0.3644343638391282,0.08616900758940975,70839,semi-arid
+Northcentral Deccan Basalt Plateau (Deccan Plateau),0.40359638652541224,0.13362320303410957,66169,semi-arid
+Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),0.4715684148811428,0.07311083003988912,75048,semi-arid
+Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),0.3459702444618086,0.07477137201653548,98543,semi-arid
+Trans Gangetic Plain (Indo-Gangetic Plain),0.3775987185290168,0.16720310707371813,134767,semi-arid
+Upper Gangetic Plain (Indo-Gangetic Plain),0.6142639530884579,0.16334520522361853,261684,dry sub-humid
+Middle Gangetic Plain (Indo-Gangetic Plain),0.8077584760355373,0.21272350898969944,189322,humid
+Eastside Lower Indus Valley (Indus Basin),0.06960862468365447,0.020146897232465263,74681,arid
+Eastside Middle Indus Plain (Indus Basin),0.10362129332862689,0.02673023467503224,70825,arid
+Coonamble Embayment (Great Artesian Basin),0.31732270521064426,0.06624242678462193,88799,semi-arid
+Western Surat Basin (Great Artesian Basin),0.24994968230441328,0.030547113592937197,87033,semi-arid
+Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),0.3374333974885577,0.03634604509413083,85210,semi-arid
+Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),0.07027640387641153,0.008492083175182418,143638,arid
+Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),0.059740688738116186,0.01206884974692425,382032,arid
+Central Eromanga Depocenter (Great Artesian Basin),0.0997152508115173,0.030845252385376627,280031,arid
+Eastern Eromanga Basin (Great Artesian Basin),0.18326855896222108,0.057504703106794584,383203,arid
+Northern Eromanga Basin (Great Artesian Basin),0.17343883599461088,0.05336658954647278,355531,arid
+Southern Carpentaria Basin (Great Artesian Basin),0.31398879648773853,0.07299432526764794,152836,semi-arid
+Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),0.5185287082787133,0.09053987507723331,99170,dry sub-humid
+Southern Riverine Plains (Murray Basin),0.29740484797024097,0.07507363285087741,74196,semi-arid
+Canning Basin,0.2003953117271738,0.0729287096369091,161744,semi-arid
+Central Eucla Basin (Eucla Basin),0.1338435449613298,0.03403502544785089,86630,arid
+Southeastern System (Amadeus Basin),0.10120976555337263,0.015760891025079524,76350,arid
+Northern Georgina Basin (Daly-Wiso-Georgina Basins),0.23778095407568686,0.0765067975505689,143301,semi-arid
+Wiso Basin (Daly-Wiso-Georgina Basins),0.20541533739349035,0.05841845182069805,144001,semi-arid
+Stampriet Kalahari Karoo Aquifer System,0.12285869985548614,0.0301484937322169,249803,arid
+Southcentral Karoo Basin (Main Karoo Basin),0.19443265126512652,0.0785691846316281,99990,arid
+Western Karoo Basin (Main Karoo Basin),0.12894535190992235,0.04215429640226377,198673,arid
+Central Karoo Basin (Main Karoo Basin),0.4855448672770196,0.15448375613338336,173670,semi-arid
+Northeastern Karoo Basin (Main Karoo Basin),0.4828740548900594,0.05476450367537307,68537,semi-arid
+Northern Karoo Basin (Main Karoo Basin),0.28841462295192616,0.05716649971236225,118526,semi-arid
+Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),1.122864836295069,0.05715928701752855,70004,humid

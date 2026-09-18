@@ -1,0 +1,816 @@
+aquifer_idx,Study_area,lat_idx,lon_idx,lat,lon
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),55,125,-29.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),55,126,-29.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),55,127,-29.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),55,128,-29.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),55,129,-29.5,-50.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,124,-28.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,125,-28.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,126,-28.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,127,-28.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,128,-28.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),56,129,-28.5,-50.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),57,124,-27.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),57,125,-27.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),57,126,-27.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),57,127,-27.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),57,128,-27.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),58,124,-26.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),58,125,-26.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),58,126,-26.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),58,127,-26.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),58,128,-26.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),59,124,-25.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),59,125,-25.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),59,126,-25.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),59,127,-25.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),59,128,-25.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),60,124,-24.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),60,125,-24.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),60,126,-24.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),60,127,-24.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,124,-23.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,125,-23.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,126,-23.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,127,-23.5,-52.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,128,-23.5,-51.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),61,129,-23.5,-50.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),62,124,-22.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),62,125,-22.5,-54.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),62,126,-22.5,-53.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),63,124,-21.5,-55.5
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),63,125,-21.5,-54.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,127,-22.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,128,-22.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,129,-22.5,-50.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,130,-22.5,-49.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,131,-22.5,-48.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),62,132,-22.5,-47.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,126,-21.5,-53.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,127,-21.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,128,-21.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,129,-21.5,-50.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,130,-21.5,-49.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,131,-21.5,-48.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),63,132,-21.5,-47.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,125,-20.5,-54.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,126,-20.5,-53.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,127,-20.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,128,-20.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,129,-20.5,-50.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,130,-20.5,-49.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,131,-20.5,-48.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),64,132,-20.5,-47.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,125,-19.5,-54.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,126,-19.5,-53.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,127,-19.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,128,-19.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,129,-19.5,-50.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,130,-19.5,-49.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,131,-19.5,-48.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),65,132,-19.5,-47.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),66,126,-18.5,-53.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),66,127,-18.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),66,128,-18.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),66,129,-18.5,-50.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),66,130,-18.5,-49.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),67,126,-17.5,-53.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),67,127,-17.5,-52.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),67,128,-17.5,-51.5
+1,Northern Guarani Aquifer (Guarani Aquifer System),67,129,-17.5,-50.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),53,121,-31.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),53,122,-31.5,-57.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),53,123,-31.5,-56.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),54,121,-30.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),54,122,-30.5,-57.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),54,123,-30.5,-56.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),54,124,-30.5,-55.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,119,-29.5,-60.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,120,-29.5,-59.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,121,-29.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,122,-29.5,-57.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,123,-29.5,-56.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),55,124,-29.5,-55.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,118,-28.5,-61.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,119,-28.5,-60.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,120,-28.5,-59.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,121,-28.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,122,-28.5,-57.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),56,123,-28.5,-56.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,118,-27.5,-61.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,119,-27.5,-60.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,120,-27.5,-59.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,121,-27.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,122,-27.5,-57.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),57,123,-27.5,-56.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),58,119,-26.5,-60.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),58,120,-26.5,-59.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),58,121,-26.5,-58.5
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),59,121,-25.5,-58.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),79,120,-5.5,-59.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),79,121,-5.5,-58.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),80,121,-4.5,-58.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),80,122,-4.5,-57.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,120,-3.5,-59.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,121,-3.5,-58.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,122,-3.5,-57.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,123,-3.5,-56.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,124,-3.5,-55.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,125,-3.5,-54.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),81,126,-3.5,-53.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,118,-2.5,-61.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,119,-2.5,-60.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,120,-2.5,-59.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,121,-2.5,-58.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,122,-2.5,-57.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,123,-2.5,-56.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,124,-2.5,-55.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,125,-2.5,-54.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,126,-2.5,-53.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,127,-2.5,-52.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,128,-2.5,-51.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),82,129,-2.5,-50.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),83,122,-1.5,-57.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),83,123,-1.5,-56.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),83,126,-1.5,-53.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),83,127,-1.5,-52.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),83,128,-1.5,-51.5
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),84,128,-0.5,-51.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),55,317,-29.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),55,318,-29.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),55,319,-29.5,139.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),56,316,-28.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),56,317,-28.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),56,318,-28.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),57,315,-27.5,135.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),57,316,-27.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),57,317,-27.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),57,318,-27.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,314,-26.5,134.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,315,-26.5,135.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,316,-26.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,317,-26.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,318,-26.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),58,319,-26.5,139.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),59,314,-25.5,134.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),59,315,-25.5,135.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),59,316,-25.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),59,317,-25.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),59,318,-25.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),60,315,-24.5,135.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),60,316,-24.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),60,317,-24.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),60,318,-24.5,138.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),61,316,-23.5,136.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),61,317,-23.5,137.5
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),61,318,-23.5,138.5
+5,Eastern Eromanga Basin (Great Artesian Basin),54,322,-30.5,142.5
+5,Eastern Eromanga Basin (Great Artesian Basin),54,323,-30.5,143.5
+5,Eastern Eromanga Basin (Great Artesian Basin),54,324,-30.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),55,322,-29.5,142.5
+5,Eastern Eromanga Basin (Great Artesian Basin),55,323,-29.5,143.5
+5,Eastern Eromanga Basin (Great Artesian Basin),55,324,-29.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),55,325,-29.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),55,326,-29.5,146.5
+5,Eastern Eromanga Basin (Great Artesian Basin),56,322,-28.5,142.5
+5,Eastern Eromanga Basin (Great Artesian Basin),56,323,-28.5,143.5
+5,Eastern Eromanga Basin (Great Artesian Basin),56,324,-28.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),56,325,-28.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),56,326,-28.5,146.5
+5,Eastern Eromanga Basin (Great Artesian Basin),57,323,-27.5,143.5
+5,Eastern Eromanga Basin (Great Artesian Basin),57,324,-27.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),57,325,-27.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),57,326,-27.5,146.5
+5,Eastern Eromanga Basin (Great Artesian Basin),58,324,-26.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),58,325,-26.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),58,326,-26.5,146.5
+5,Eastern Eromanga Basin (Great Artesian Basin),59,324,-25.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),59,325,-25.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),59,326,-25.5,146.5
+5,Eastern Eromanga Basin (Great Artesian Basin),59,327,-25.5,147.5
+5,Eastern Eromanga Basin (Great Artesian Basin),60,324,-24.5,144.5
+5,Eastern Eromanga Basin (Great Artesian Basin),60,325,-24.5,145.5
+5,Eastern Eromanga Basin (Great Artesian Basin),60,326,-24.5,146.5
+6,Northern Eromanga Basin (Great Artesian Basin),60,319,-24.5,139.5
+6,Northern Eromanga Basin (Great Artesian Basin),60,320,-24.5,140.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,319,-23.5,139.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,320,-23.5,140.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,321,-23.5,141.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,322,-23.5,142.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,323,-23.5,143.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,324,-23.5,144.5
+6,Northern Eromanga Basin (Great Artesian Basin),61,325,-23.5,145.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,319,-22.5,139.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,320,-22.5,140.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,321,-22.5,141.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,322,-22.5,142.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,323,-22.5,143.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,324,-22.5,144.5
+6,Northern Eromanga Basin (Great Artesian Basin),62,325,-22.5,145.5
+6,Northern Eromanga Basin (Great Artesian Basin),63,321,-21.5,141.5
+6,Northern Eromanga Basin (Great Artesian Basin),63,322,-21.5,142.5
+6,Northern Eromanga Basin (Great Artesian Basin),63,323,-21.5,143.5
+6,Northern Eromanga Basin (Great Artesian Basin),63,324,-21.5,144.5
+6,Northern Eromanga Basin (Great Artesian Basin),63,325,-21.5,145.5
+6,Northern Eromanga Basin (Great Artesian Basin),64,321,-20.5,141.5
+6,Northern Eromanga Basin (Great Artesian Basin),64,322,-20.5,142.5
+6,Northern Eromanga Basin (Great Artesian Basin),64,323,-20.5,143.5
+6,Northern Eromanga Basin (Great Artesian Basin),64,324,-20.5,144.5
+6,Northern Eromanga Basin (Great Artesian Basin),65,323,-19.5,143.5
+7,Northern High Plains (High Plains),124,76,39.5,-103.5
+7,Northern High Plains (High Plains),124,77,39.5,-102.5
+7,Northern High Plains (High Plains),124,78,39.5,-101.5
+7,Northern High Plains (High Plains),124,79,39.5,-100.5
+7,Northern High Plains (High Plains),124,80,39.5,-99.5
+7,Northern High Plains (High Plains),125,77,40.5,-102.5
+7,Northern High Plains (High Plains),125,78,40.5,-101.5
+7,Northern High Plains (High Plains),125,79,40.5,-100.5
+7,Northern High Plains (High Plains),125,80,40.5,-99.5
+7,Northern High Plains (High Plains),125,81,40.5,-98.5
+7,Northern High Plains (High Plains),125,82,40.5,-97.5
+7,Northern High Plains (High Plains),126,75,41.5,-104.5
+7,Northern High Plains (High Plains),126,76,41.5,-103.5
+7,Northern High Plains (High Plains),126,77,41.5,-102.5
+7,Northern High Plains (High Plains),126,78,41.5,-101.5
+7,Northern High Plains (High Plains),126,79,41.5,-100.5
+7,Northern High Plains (High Plains),126,80,41.5,-99.5
+7,Northern High Plains (High Plains),126,81,41.5,-98.5
+7,Northern High Plains (High Plains),126,82,41.5,-97.5
+7,Northern High Plains (High Plains),126,83,41.5,-96.5
+7,Northern High Plains (High Plains),127,75,42.5,-104.5
+7,Northern High Plains (High Plains),127,76,42.5,-103.5
+7,Northern High Plains (High Plains),127,77,42.5,-102.5
+7,Northern High Plains (High Plains),127,78,42.5,-101.5
+7,Northern High Plains (High Plains),127,79,42.5,-100.5
+7,Northern High Plains (High Plains),127,80,42.5,-99.5
+7,Northern High Plains (High Plains),127,81,42.5,-98.5
+7,Northern High Plains (High Plains),127,82,42.5,-97.5
+7,Northern High Plains (High Plains),128,78,43.5,-101.5
+8,Williston Basin (Northern Great Plains),129,77,44.5,-102.5
+8,Williston Basin (Northern Great Plains),130,76,45.5,-103.5
+8,Williston Basin (Northern Great Plains),130,77,45.5,-102.5
+8,Williston Basin (Northern Great Plains),130,78,45.5,-101.5
+8,Williston Basin (Northern Great Plains),131,73,46.5,-106.5
+8,Williston Basin (Northern Great Plains),131,74,46.5,-105.5
+8,Williston Basin (Northern Great Plains),131,75,46.5,-104.5
+8,Williston Basin (Northern Great Plains),131,76,46.5,-103.5
+8,Williston Basin (Northern Great Plains),131,77,46.5,-102.5
+8,Williston Basin (Northern Great Plains),131,78,46.5,-101.5
+8,Williston Basin (Northern Great Plains),132,72,47.5,-107.5
+8,Williston Basin (Northern Great Plains),132,73,47.5,-106.5
+8,Williston Basin (Northern Great Plains),132,74,47.5,-105.5
+8,Williston Basin (Northern Great Plains),132,75,47.5,-104.5
+8,Williston Basin (Northern Great Plains),132,76,47.5,-103.5
+8,Williston Basin (Northern Great Plains),132,77,47.5,-102.5
+8,Williston Basin (Northern Great Plains),132,78,47.5,-101.5
+8,Williston Basin (Northern Great Plains),132,79,47.5,-100.5
+8,Williston Basin (Northern Great Plains),133,74,48.5,-105.5
+8,Williston Basin (Northern Great Plains),133,75,48.5,-104.5
+8,Williston Basin (Northern Great Plains),133,76,48.5,-103.5
+8,Williston Basin (Northern Great Plains),133,77,48.5,-102.5
+8,Williston Basin (Northern Great Plains),133,78,48.5,-101.5
+8,Williston Basin (Northern Great Plains),133,79,48.5,-100.5
+8,Williston Basin (Northern Great Plains),134,74,49.5,-105.5
+8,Williston Basin (Northern Great Plains),134,75,49.5,-104.5
+8,Williston Basin (Northern Great Plains),134,76,49.5,-103.5
+8,Williston Basin (Northern Great Plains),134,77,49.5,-102.5
+9,Central Eromanga Depocenter (Great Artesian Basin),55,320,-29.5,140.5
+9,Central Eromanga Depocenter (Great Artesian Basin),55,321,-29.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),56,319,-28.5,139.5
+9,Central Eromanga Depocenter (Great Artesian Basin),56,320,-28.5,140.5
+9,Central Eromanga Depocenter (Great Artesian Basin),56,321,-28.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),57,319,-27.5,139.5
+9,Central Eromanga Depocenter (Great Artesian Basin),57,320,-27.5,140.5
+9,Central Eromanga Depocenter (Great Artesian Basin),57,321,-27.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),57,322,-27.5,142.5
+9,Central Eromanga Depocenter (Great Artesian Basin),58,320,-26.5,140.5
+9,Central Eromanga Depocenter (Great Artesian Basin),58,321,-26.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),58,322,-26.5,142.5
+9,Central Eromanga Depocenter (Great Artesian Basin),58,323,-26.5,143.5
+9,Central Eromanga Depocenter (Great Artesian Basin),59,319,-25.5,139.5
+9,Central Eromanga Depocenter (Great Artesian Basin),59,320,-25.5,140.5
+9,Central Eromanga Depocenter (Great Artesian Basin),59,321,-25.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),59,322,-25.5,142.5
+9,Central Eromanga Depocenter (Great Artesian Basin),59,323,-25.5,143.5
+9,Central Eromanga Depocenter (Great Artesian Basin),60,321,-24.5,141.5
+9,Central Eromanga Depocenter (Great Artesian Basin),60,322,-24.5,142.5
+9,Central Eromanga Depocenter (Great Artesian Basin),60,323,-24.5,143.5
+10,Western Parecis Basin (Parecis Basin),70,121,-14.5,-58.5
+10,Western Parecis Basin (Parecis Basin),70,122,-14.5,-57.5
+10,Western Parecis Basin (Parecis Basin),71,120,-13.5,-59.5
+10,Western Parecis Basin (Parecis Basin),71,121,-13.5,-58.5
+10,Western Parecis Basin (Parecis Basin),71,122,-13.5,-57.5
+10,Western Parecis Basin (Parecis Basin),71,123,-13.5,-56.5
+10,Western Parecis Basin (Parecis Basin),71,124,-13.5,-55.5
+10,Western Parecis Basin (Parecis Basin),72,117,-12.5,-62.5
+10,Western Parecis Basin (Parecis Basin),72,118,-12.5,-61.5
+10,Western Parecis Basin (Parecis Basin),72,119,-12.5,-60.5
+10,Western Parecis Basin (Parecis Basin),72,120,-12.5,-59.5
+10,Western Parecis Basin (Parecis Basin),72,121,-12.5,-58.5
+10,Western Parecis Basin (Parecis Basin),72,122,-12.5,-57.5
+10,Western Parecis Basin (Parecis Basin),72,123,-12.5,-56.5
+10,Western Parecis Basin (Parecis Basin),72,124,-12.5,-55.5
+10,Western Parecis Basin (Parecis Basin),73,118,-11.5,-61.5
+10,Western Parecis Basin (Parecis Basin),73,121,-11.5,-58.5
+10,Western Parecis Basin (Parecis Basin),73,122,-11.5,-57.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),110,259,25.5,79.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),110,260,25.5,80.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),110,261,25.5,81.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),111,258,26.5,78.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),111,259,26.5,79.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),111,260,26.5,80.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),111,261,26.5,81.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),111,262,26.5,82.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),112,257,27.5,77.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),112,258,27.5,78.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),112,259,27.5,79.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),112,260,27.5,80.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),112,261,27.5,81.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),113,257,28.5,77.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),113,258,28.5,78.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),113,259,28.5,79.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),113,260,28.5,80.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),114,257,29.5,77.5
+11,Upper Gangetic Plain (Indo-Gangetic Plain),114,258,29.5,78.5
+12,Stampriet Kalahari Karoo Aquifer System,58,199,-26.5,19.5
+12,Stampriet Kalahari Karoo Aquifer System,58,200,-26.5,20.5
+12,Stampriet Kalahari Karoo Aquifer System,59,198,-25.5,18.5
+12,Stampriet Kalahari Karoo Aquifer System,59,199,-25.5,19.5
+12,Stampriet Kalahari Karoo Aquifer System,59,200,-25.5,20.5
+12,Stampriet Kalahari Karoo Aquifer System,59,201,-25.5,21.5
+12,Stampriet Kalahari Karoo Aquifer System,60,198,-24.5,18.5
+12,Stampriet Kalahari Karoo Aquifer System,60,199,-24.5,19.5
+12,Stampriet Kalahari Karoo Aquifer System,60,200,-24.5,20.5
+12,Stampriet Kalahari Karoo Aquifer System,60,201,-24.5,21.5
+12,Stampriet Kalahari Karoo Aquifer System,61,197,-23.5,17.5
+12,Stampriet Kalahari Karoo Aquifer System,61,198,-23.5,18.5
+12,Stampriet Kalahari Karoo Aquifer System,61,199,-23.5,19.5
+12,Stampriet Kalahari Karoo Aquifer System,61,200,-23.5,20.5
+12,Stampriet Kalahari Karoo Aquifer System,62,197,-22.5,17.5
+12,Stampriet Kalahari Karoo Aquifer System,62,198,-22.5,18.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),111,226,26.5,46.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),111,227,26.5,47.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),111,228,26.5,48.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),111,229,26.5,49.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),112,225,27.5,45.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),112,226,27.5,46.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),112,227,27.5,47.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),112,228,27.5,48.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),113,225,28.5,45.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),113,226,28.5,46.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),113,227,28.5,47.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),113,228,28.5,48.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),114,225,29.5,45.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),114,226,29.5,46.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),114,227,29.5,47.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),115,226,30.5,46.5
+13,Northcentral Mega Aquifer System (Mega Aquifer System),115,227,30.5,47.5
+14,Ozark Plateaus Aquifer System,120,85,35.5,-94.5
+14,Ozark Plateaus Aquifer System,120,86,35.5,-93.5
+14,Ozark Plateaus Aquifer System,120,87,35.5,-92.5
+14,Ozark Plateaus Aquifer System,120,88,35.5,-91.5
+14,Ozark Plateaus Aquifer System,121,85,36.5,-94.5
+14,Ozark Plateaus Aquifer System,121,86,36.5,-93.5
+14,Ozark Plateaus Aquifer System,121,87,36.5,-92.5
+14,Ozark Plateaus Aquifer System,121,88,36.5,-91.5
+14,Ozark Plateaus Aquifer System,122,85,37.5,-94.5
+14,Ozark Plateaus Aquifer System,122,86,37.5,-93.5
+14,Ozark Plateaus Aquifer System,122,87,37.5,-92.5
+14,Ozark Plateaus Aquifer System,122,88,37.5,-91.5
+14,Ozark Plateaus Aquifer System,122,89,37.5,-90.5
+14,Ozark Plateaus Aquifer System,122,90,37.5,-89.5
+14,Ozark Plateaus Aquifer System,123,85,38.5,-94.5
+14,Ozark Plateaus Aquifer System,123,86,38.5,-93.5
+14,Ozark Plateaus Aquifer System,123,87,38.5,-92.5
+14,Ozark Plateaus Aquifer System,123,88,38.5,-91.5
+14,Ozark Plateaus Aquifer System,123,89,38.5,-90.5
+15,Western Karoo Basin (Main Karoo Basin),52,200,-32.5,20.5
+15,Western Karoo Basin (Main Karoo Basin),53,199,-31.5,19.5
+15,Western Karoo Basin (Main Karoo Basin),53,200,-31.5,20.5
+15,Western Karoo Basin (Main Karoo Basin),53,201,-31.5,21.5
+15,Western Karoo Basin (Main Karoo Basin),53,202,-31.5,22.5
+15,Western Karoo Basin (Main Karoo Basin),53,203,-31.5,23.5
+15,Western Karoo Basin (Main Karoo Basin),53,204,-31.5,24.5
+15,Western Karoo Basin (Main Karoo Basin),54,199,-30.5,19.5
+15,Western Karoo Basin (Main Karoo Basin),54,200,-30.5,20.5
+15,Western Karoo Basin (Main Karoo Basin),54,201,-30.5,21.5
+15,Western Karoo Basin (Main Karoo Basin),54,202,-30.5,22.5
+15,Western Karoo Basin (Main Karoo Basin),54,203,-30.5,23.5
+15,Western Karoo Basin (Main Karoo Basin),54,204,-30.5,24.5
+15,Western Karoo Basin (Main Karoo Basin),55,200,-29.5,20.5
+15,Western Karoo Basin (Main Karoo Basin),55,203,-29.5,23.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,262,25.5,82.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,263,25.5,83.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,264,25.5,84.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,265,25.5,85.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,266,25.5,86.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),110,267,25.5,87.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),111,263,26.5,83.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),111,264,26.5,84.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),111,265,26.5,85.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),111,266,26.5,86.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),111,267,26.5,87.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),112,262,27.5,82.5
+16,Middle Gangetic Plain (Indo-Gangetic Plain),112,263,27.5,83.5
+17,Northern Mega Aquifer System (Mega Aquifer System),113,224,28.5,44.5
+17,Northern Mega Aquifer System (Mega Aquifer System),114,223,29.5,43.5
+17,Northern Mega Aquifer System (Mega Aquifer System),114,224,29.5,44.5
+17,Northern Mega Aquifer System (Mega Aquifer System),115,222,30.5,42.5
+17,Northern Mega Aquifer System (Mega Aquifer System),115,223,30.5,43.5
+17,Northern Mega Aquifer System (Mega Aquifer System),115,224,30.5,44.5
+17,Northern Mega Aquifer System (Mega Aquifer System),115,225,30.5,45.5
+17,Northern Mega Aquifer System (Mega Aquifer System),116,221,31.5,41.5
+17,Northern Mega Aquifer System (Mega Aquifer System),116,222,31.5,42.5
+17,Northern Mega Aquifer System (Mega Aquifer System),116,223,31.5,43.5
+17,Northern Mega Aquifer System (Mega Aquifer System),116,224,31.5,44.5
+17,Northern Mega Aquifer System (Mega Aquifer System),117,222,32.5,42.5
+17,Northern Mega Aquifer System (Mega Aquifer System),117,223,32.5,43.5
+17,Northern Mega Aquifer System (Mega Aquifer System),118,222,33.5,42.5
+18,Canning Basin,63,302,-21.5,122.5
+18,Canning Basin,64,301,-20.5,121.5
+18,Canning Basin,64,302,-20.5,122.5
+18,Canning Basin,64,303,-20.5,123.5
+18,Canning Basin,65,301,-19.5,121.5
+18,Canning Basin,65,302,-19.5,122.5
+18,Canning Basin,65,303,-19.5,123.5
+18,Canning Basin,65,304,-19.5,124.5
+18,Canning Basin,66,302,-18.5,122.5
+18,Canning Basin,66,303,-18.5,123.5
+18,Canning Basin,67,302,-17.5,122.5
+18,Canning Basin,67,303,-17.5,123.5
+19,Central Karoo Basin (Main Karoo Basin),53,205,-31.5,25.5
+19,Central Karoo Basin (Main Karoo Basin),53,206,-31.5,26.5
+19,Central Karoo Basin (Main Karoo Basin),53,207,-31.5,27.5
+19,Central Karoo Basin (Main Karoo Basin),54,206,-30.5,26.5
+19,Central Karoo Basin (Main Karoo Basin),54,207,-30.5,27.5
+19,Central Karoo Basin (Main Karoo Basin),54,208,-30.5,28.5
+19,Central Karoo Basin (Main Karoo Basin),55,207,-29.5,27.5
+19,Central Karoo Basin (Main Karoo Basin),55,208,-29.5,28.5
+19,Central Karoo Basin (Main Karoo Basin),55,209,-29.5,29.5
+19,Central Karoo Basin (Main Karoo Basin),56,208,-28.5,28.5
+20,Southern Carpentaria Basin (Great Artesian Basin),65,320,-19.5,140.5
+20,Southern Carpentaria Basin (Great Artesian Basin),65,321,-19.5,141.5
+20,Southern Carpentaria Basin (Great Artesian Basin),65,322,-19.5,142.5
+20,Southern Carpentaria Basin (Great Artesian Basin),66,319,-18.5,139.5
+20,Southern Carpentaria Basin (Great Artesian Basin),66,320,-18.5,140.5
+20,Southern Carpentaria Basin (Great Artesian Basin),66,321,-18.5,141.5
+20,Southern Carpentaria Basin (Great Artesian Basin),67,318,-17.5,138.5
+20,Southern Carpentaria Basin (Great Artesian Basin),67,321,-17.5,141.5
+21,Eastern Parecis Basin (Parecis Basin),71,125,-13.5,-54.5
+21,Eastern Parecis Basin (Parecis Basin),71,126,-13.5,-53.5
+21,Eastern Parecis Basin (Parecis Basin),72,125,-12.5,-54.5
+21,Eastern Parecis Basin (Parecis Basin),72,126,-12.5,-53.5
+21,Eastern Parecis Basin (Parecis Basin),72,127,-12.5,-52.5
+21,Eastern Parecis Basin (Parecis Basin),73,124,-11.5,-55.5
+21,Eastern Parecis Basin (Parecis Basin),73,125,-11.5,-54.5
+21,Eastern Parecis Basin (Parecis Basin),73,126,-11.5,-53.5
+21,Eastern Parecis Basin (Parecis Basin),73,127,-11.5,-52.5
+21,Eastern Parecis Basin (Parecis Basin),74,126,-10.5,-53.5
+21,Eastern Parecis Basin (Parecis Basin),74,127,-10.5,-52.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),77,137,-7.5,-42.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),77,138,-7.5,-41.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),78,136,-6.5,-43.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),78,137,-6.5,-42.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),78,138,-6.5,-41.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),79,137,-5.5,-42.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),79,138,-5.5,-41.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),80,137,-4.5,-42.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),80,138,-4.5,-41.5
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),81,138,-3.5,-41.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),65,311,-19.5,131.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),65,312,-19.5,132.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),65,313,-19.5,133.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),66,311,-18.5,131.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),66,312,-18.5,132.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),66,313,-18.5,133.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),67,312,-17.5,132.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),67,313,-17.5,133.5
+23,Wiso Basin (Daly-Wiso-Georgina Basins),68,312,-16.5,132.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),65,315,-19.5,135.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),65,316,-19.5,136.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),66,314,-18.5,134.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),66,315,-18.5,135.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),66,316,-18.5,136.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),67,314,-17.5,134.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),67,315,-17.5,135.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),68,313,-16.5,133.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),68,314,-16.5,134.5
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),69,313,-15.5,133.5
+25,Dakota Aquifer System,128,79,43.5,-100.5
+25,Dakota Aquifer System,128,80,43.5,-99.5
+25,Dakota Aquifer System,128,81,43.5,-98.5
+25,Dakota Aquifer System,129,78,44.5,-101.5
+25,Dakota Aquifer System,129,79,44.5,-100.5
+25,Dakota Aquifer System,129,80,44.5,-99.5
+25,Dakota Aquifer System,129,81,44.5,-98.5
+25,Dakota Aquifer System,129,82,44.5,-97.5
+25,Dakota Aquifer System,130,79,45.5,-100.5
+25,Dakota Aquifer System,130,80,45.5,-99.5
+25,Dakota Aquifer System,130,81,45.5,-98.5
+25,Dakota Aquifer System,131,82,46.5,-97.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),54,315,-30.5,135.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),55,313,-29.5,133.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),55,314,-29.5,134.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),55,315,-29.5,135.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),55,316,-29.5,136.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),56,313,-28.5,133.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),56,314,-28.5,134.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),56,315,-28.5,135.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),57,313,-27.5,133.5
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),57,314,-27.5,134.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),113,255,28.5,75.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),113,256,28.5,76.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),114,254,29.5,74.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),114,255,29.5,75.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),114,256,29.5,76.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),115,254,30.5,74.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),115,255,30.5,75.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),115,256,30.5,76.5
+27,Trans Gangetic Plain (Indo-Gangetic Plain),116,255,31.5,75.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),107,228,22.5,48.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),108,228,23.5,48.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),108,229,23.5,49.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),109,228,24.5,48.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),109,229,24.5,49.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),109,230,24.5,50.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),110,228,25.5,48.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),110,229,25.5,49.5
+28,Southcentral Mega Aquifer System (Mega Aquifer System),110,231,25.5,51.5
+29,Central Mississippi Embayment (Mississippi Embayment),117,88,32.5,-91.5
+29,Central Mississippi Embayment (Mississippi Embayment),118,88,33.5,-91.5
+29,Central Mississippi Embayment (Mississippi Embayment),118,89,33.5,-90.5
+29,Central Mississippi Embayment (Mississippi Embayment),119,88,34.5,-91.5
+29,Central Mississippi Embayment (Mississippi Embayment),119,89,34.5,-90.5
+29,Central Mississippi Embayment (Mississippi Embayment),120,89,35.5,-90.5
+29,Central Mississippi Embayment (Mississippi Embayment),121,89,36.5,-90.5
+29,Central Mississippi Embayment (Mississippi Embayment),121,90,36.5,-89.5
+30,Northern Karoo Basin (Main Karoo Basin),54,205,-30.5,25.5
+30,Northern Karoo Basin (Main Karoo Basin),55,204,-29.5,24.5
+30,Northern Karoo Basin (Main Karoo Basin),55,205,-29.5,25.5
+30,Northern Karoo Basin (Main Karoo Basin),55,206,-29.5,26.5
+30,Northern Karoo Basin (Main Karoo Basin),56,205,-28.5,25.5
+30,Northern Karoo Basin (Main Karoo Basin),56,206,-28.5,26.5
+30,Northern Karoo Basin (Main Karoo Basin),56,207,-28.5,27.5
+30,Northern Karoo Basin (Main Karoo Basin),57,205,-27.5,25.5
+30,Northern Karoo Basin (Main Karoo Basin),57,206,-27.5,26.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),125,88,40.5,-91.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),125,89,40.5,-90.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),126,86,41.5,-93.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),126,87,41.5,-92.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),126,88,41.5,-91.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),126,89,41.5,-90.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),126,90,41.5,-89.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),127,85,42.5,-94.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),127,86,42.5,-93.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),127,87,42.5,-92.5
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),127,88,42.5,-91.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),67,322,-17.5,142.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),67,323,-17.5,143.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),68,321,-16.5,141.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),68,322,-16.5,142.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),68,323,-16.5,143.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),69,321,-15.5,141.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),69,322,-15.5,142.5
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),70,322,-14.5,142.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),98,256,13.5,76.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),99,256,14.5,76.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),100,255,15.5,75.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),100,256,15.5,76.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),100,257,15.5,77.5
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),101,257,16.5,77.5
+34,Central Huaihe Plain (Huaihe River Basin),117,294,32.5,114.5
+34,Central Huaihe Plain (Huaihe River Basin),117,295,32.5,115.5
+34,Central Huaihe Plain (Huaihe River Basin),117,296,32.5,116.5
+34,Central Huaihe Plain (Huaihe River Basin),118,294,33.5,114.5
+34,Central Huaihe Plain (Huaihe River Basin),118,295,33.5,115.5
+34,Central Huaihe Plain (Huaihe River Basin),118,296,33.5,116.5
+34,Central Huaihe Plain (Huaihe River Basin),119,295,34.5,115.5
+34,Central Huaihe Plain (Huaihe River Basin),119,296,34.5,116.5
+34,Central Huaihe Plain (Huaihe River Basin),120,295,35.5,115.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,130,84,45.5,-95.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,130,85,45.5,-94.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,131,84,46.5,-95.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,131,85,46.5,-94.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,131,86,46.5,-93.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,132,84,47.5,-95.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,132,85,47.5,-94.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,132,86,47.5,-93.5
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,132,87,47.5,-92.5
+36,Southern High Plains (High Plains),117,77,32.5,-102.5
+36,Southern High Plains (High Plains),117,78,32.5,-101.5
+36,Southern High Plains (High Plains),118,76,33.5,-103.5
+36,Southern High Plains (High Plains),118,77,33.5,-102.5
+36,Southern High Plains (High Plains),118,78,33.5,-101.5
+36,Southern High Plains (High Plains),119,76,34.5,-103.5
+36,Southern High Plains (High Plains),119,77,34.5,-102.5
+36,Southern High Plains (High Plains),119,78,34.5,-101.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,201,-32.5,21.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,202,-32.5,22.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,203,-32.5,23.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,204,-32.5,24.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,205,-32.5,25.5
+37,Southcentral Karoo Basin (Main Karoo Basin),52,206,-32.5,26.5
+38,Central High Plains (High Plains),121,76,36.5,-103.5
+38,Central High Plains (High Plains),121,77,36.5,-102.5
+38,Central High Plains (High Plains),121,78,36.5,-101.5
+38,Central High Plains (High Plains),121,79,36.5,-100.5
+38,Central High Plains (High Plains),122,77,37.5,-102.5
+38,Central High Plains (High Plains),122,78,37.5,-101.5
+38,Central High Plains (High Plains),122,79,37.5,-100.5
+39,Lower Liaohe River Plain (Liaohe River Basin),126,302,41.5,122.5
+39,Lower Liaohe River Plain (Liaohe River Basin),126,303,41.5,123.5
+39,Lower Liaohe River Plain (Liaohe River Basin),127,301,42.5,121.5
+39,Lower Liaohe River Plain (Liaohe River Basin),127,302,42.5,122.5
+39,Lower Liaohe River Plain (Liaohe River Basin),127,303,42.5,123.5
+39,Lower Liaohe River Plain (Liaohe River Basin),128,303,43.5,123.5
+39,Lower Liaohe River Plain (Liaohe River Basin),128,304,43.5,124.5
+40,Wadi As-Sirhan Basin,114,218,29.5,38.5
+40,Wadi As-Sirhan Basin,114,219,29.5,39.5
+40,Wadi As-Sirhan Basin,115,217,30.5,37.5
+40,Wadi As-Sirhan Basin,115,218,30.5,38.5
+40,Wadi As-Sirhan Basin,115,219,30.5,39.5
+40,Wadi As-Sirhan Basin,115,220,30.5,40.5
+40,Wadi As-Sirhan Basin,116,216,31.5,36.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),109,225,24.5,45.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),110,224,25.5,44.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),111,223,26.5,43.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),111,224,26.5,44.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),112,222,27.5,42.5
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),112,223,27.5,43.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),115,82,30.5,-97.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),116,81,31.5,-98.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),116,82,31.5,-97.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),117,82,32.5,-97.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),117,83,32.5,-96.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),118,82,33.5,-97.5
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),118,83,33.5,-96.5
+43,Wisconsin Precambrian Aquifer,129,90,44.5,-89.5
+43,Wisconsin Precambrian Aquifer,130,87,45.5,-92.5
+43,Wisconsin Precambrian Aquifer,130,88,45.5,-91.5
+43,Wisconsin Precambrian Aquifer,130,89,45.5,-90.5
+43,Wisconsin Precambrian Aquifer,130,90,45.5,-89.5
+43,Wisconsin Precambrian Aquifer,130,91,45.5,-88.5
+43,Wisconsin Precambrian Aquifer,131,88,46.5,-91.5
+43,Wisconsin Precambrian Aquifer,131,89,46.5,-90.5
+43,Wisconsin Precambrian Aquifer,131,91,46.5,-88.5
+43,Wisconsin Precambrian Aquifer,131,92,46.5,-87.5
+44,Lafayette Area (Gulf Coast Regional Aquifer System),115,85,30.5,-94.5
+44,Lafayette Area (Gulf Coast Regional Aquifer System),115,86,30.5,-93.5
+44,Lafayette Area (Gulf Coast Regional Aquifer System),115,87,30.5,-92.5
+44,Lafayette Area (Gulf Coast Regional Aquifer System),116,87,31.5,-92.5
+45,Paskapoo-Scollard,136,65,51.5,-114.5
+45,Paskapoo-Scollard,136,66,51.5,-113.5
+45,Paskapoo-Scollard,137,64,52.5,-115.5
+45,Paskapoo-Scollard,137,65,52.5,-114.5
+45,Paskapoo-Scollard,137,66,52.5,-113.5
+45,Paskapoo-Scollard,138,62,53.5,-117.5
+45,Paskapoo-Scollard,138,63,53.5,-116.5
+45,Paskapoo-Scollard,138,64,53.5,-115.5
+45,Paskapoo-Scollard,139,63,54.5,-116.5
+45,Paskapoo-Scollard,139,64,54.5,-115.5
+46,Western Surat Basin (Great Artesian Basin),55,327,-29.5,147.5
+46,Western Surat Basin (Great Artesian Basin),55,328,-29.5,148.5
+46,Western Surat Basin (Great Artesian Basin),56,327,-28.5,147.5
+46,Western Surat Basin (Great Artesian Basin),56,328,-28.5,148.5
+46,Western Surat Basin (Great Artesian Basin),57,327,-27.5,147.5
+46,Western Surat Basin (Great Artesian Basin),58,327,-26.5,147.5
+47,Coonamble Embayment (Great Artesian Basin),53,327,-31.5,147.5
+47,Coonamble Embayment (Great Artesian Basin),53,328,-31.5,148.5
+47,Coonamble Embayment (Great Artesian Basin),54,327,-30.5,147.5
+47,Coonamble Embayment (Great Artesian Basin),54,328,-30.5,148.5
+47,Coonamble Embayment (Great Artesian Basin),54,329,-30.5,149.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),57,328,-27.5,148.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),57,329,-27.5,149.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),57,330,-27.5,150.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),58,328,-26.5,148.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),58,329,-26.5,149.5
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),58,330,-26.5,150.5
+49,Wuyuer-Shuangyang System (Songnen Plain),129,303,44.5,123.5
+49,Wuyuer-Shuangyang System (Songnen Plain),130,303,45.5,123.5
+49,Wuyuer-Shuangyang System (Songnen Plain),130,304,45.5,124.5
+49,Wuyuer-Shuangyang System (Songnen Plain),130,305,45.5,125.5
+49,Wuyuer-Shuangyang System (Songnen Plain),131,304,46.5,124.5
+49,Wuyuer-Shuangyang System (Songnen Plain),131,305,46.5,125.5
+49,Wuyuer-Shuangyang System (Songnen Plain),132,304,47.5,124.5
+50,Powder River Basin (Northern Great Plains),128,74,43.5,-105.5
+50,Powder River Basin (Northern Great Plains),128,75,43.5,-104.5
+50,Powder River Basin (Northern Great Plains),129,73,44.5,-106.5
+50,Powder River Basin (Northern Great Plains),129,74,44.5,-105.5
+50,Powder River Basin (Northern Great Plains),130,73,45.5,-106.5
+50,Powder River Basin (Northern Great Plains),130,74,45.5,-105.5
+51,Central Eucla Basin (Eucla Basin),52,314,-32.5,134.5
+51,Central Eucla Basin (Eucla Basin),53,311,-31.5,131.5
+51,Central Eucla Basin (Eucla Basin),53,312,-31.5,132.5
+51,Central Eucla Basin (Eucla Basin),53,313,-31.5,133.5
+51,Central Eucla Basin (Eucla Basin),54,312,-30.5,132.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),110,81,25.5,-98.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),110,82,25.5,-97.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),111,81,26.5,-98.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),111,82,26.5,-97.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),112,81,27.5,-98.5
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),112,82,27.5,-97.5
+53,Michigan Basin,127,95,42.5,-84.5
+53,Michigan Basin,128,94,43.5,-85.5
+53,Michigan Basin,128,95,43.5,-84.5
+53,Michigan Basin,128,96,43.5,-83.5
+53,Michigan Basin,129,94,44.5,-85.5
+53,Michigan Basin,129,95,44.5,-84.5
+54,Southern Piedmont Upland (Piedmont Plateau),118,94,33.5,-85.5
+54,Southern Piedmont Upland (Piedmont Plateau),118,95,33.5,-84.5
+54,Southern Piedmont Upland (Piedmont Plateau),118,96,33.5,-83.5
+54,Southern Piedmont Upland (Piedmont Plateau),118,97,33.5,-82.5
+54,Southern Piedmont Upland (Piedmont Plateau),119,96,34.5,-83.5
+55,Eastern Huaihe Plain (Huaihe River Basin),118,297,33.5,117.5
+55,Eastern Huaihe Plain (Huaihe River Basin),118,298,33.5,118.5
+55,Eastern Huaihe Plain (Huaihe River Basin),119,297,34.5,117.5
+55,Eastern Huaihe Plain (Huaihe River Basin),120,296,35.5,116.5
+55,Eastern Huaihe Plain (Huaihe River Basin),120,297,35.5,117.5
+55,Eastern Huaihe Plain (Huaihe River Basin),120,298,35.5,118.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),101,258,16.5,78.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),102,258,17.5,78.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),102,259,17.5,79.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),102,260,17.5,80.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),103,258,18.5,78.5
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),103,259,18.5,79.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),117,90,32.5,-89.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),117,91,32.5,-88.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),118,90,33.5,-89.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),119,90,34.5,-89.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),120,90,35.5,-89.5
+57,Eastern Mississippi Embayment (Mississippi Embayment),121,91,36.5,-88.5
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),129,86,44.5,-93.5
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),129,87,44.5,-92.5
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),129,88,44.5,-91.5
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),129,89,44.5,-90.5
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),130,86,45.5,-93.5
+59,Southeastern System (Amadeus Basin),59,312,-25.5,132.5
+59,Southeastern System (Amadeus Basin),59,313,-25.5,133.5
+59,Southeastern System (Amadeus Basin),60,312,-24.5,132.5
+59,Southeastern System (Amadeus Basin),60,313,-24.5,133.5
+59,Southeastern System (Amadeus Basin),60,314,-24.5,134.5
+60,Edwards Plateau (Edwards-Trinity Aquifer System),114,79,29.5,-100.5
+60,Edwards Plateau (Edwards-Trinity Aquifer System),115,78,30.5,-101.5
+60,Edwards Plateau (Edwards-Trinity Aquifer System),115,79,30.5,-100.5
+60,Edwards Plateau (Edwards-Trinity Aquifer System),115,80,30.5,-99.5
+60,Edwards Plateau (Edwards-Trinity Aquifer System),116,78,31.5,-101.5
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),102,255,17.5,75.5
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),102,256,17.5,76.5
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),102,257,17.5,77.5
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),103,254,18.5,74.5
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),103,255,18.5,75.5
+62,Eastside Lower Indus Valley (Indus Basin),110,248,25.5,68.5
+62,Eastside Lower Indus Valley (Indus Basin),110,249,25.5,69.5
+62,Eastside Lower Indus Valley (Indus Basin),111,248,26.5,68.5
+62,Eastside Lower Indus Valley (Indus Basin),111,249,26.5,69.5
+62,Eastside Lower Indus Valley (Indus Basin),112,248,27.5,68.5
+62,Eastside Lower Indus Valley (Indus Basin),112,249,27.5,69.5
+63,Central Piedmont Upland (Piedmont Plateau),120,100,35.5,-79.5
+63,Central Piedmont Upland (Piedmont Plateau),121,99,36.5,-80.5
+63,Central Piedmont Upland (Piedmont Plateau),121,100,36.5,-79.5
+63,Central Piedmont Upland (Piedmont Plateau),121,101,36.5,-78.5
+63,Central Piedmont Upland (Piedmont Plateau),122,101,37.5,-78.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),116,84,31.5,-95.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),116,85,31.5,-94.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),116,86,31.5,-93.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),117,84,32.5,-95.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),117,85,32.5,-94.5
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),117,86,32.5,-93.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),117,299,32.5,119.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),117,300,32.5,120.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),118,299,33.5,119.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),118,300,33.5,120.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),119,298,34.5,118.5
+65,Jiangsu Coastal Plain (Huaihe River Basin),119,299,34.5,119.5
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),126,91,41.5,-88.5
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),127,89,42.5,-90.5
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),127,90,42.5,-89.5
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),128,88,43.5,-91.5
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),128,89,43.5,-90.5
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),104,254,19.5,74.5
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),104,255,19.5,75.5
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),104,256,19.5,76.5
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),105,255,20.5,75.5
+68,Eastside Middle Indus Plain (Indus Basin),113,250,28.5,70.5
+68,Eastside Middle Indus Plain (Indus Basin),114,252,29.5,72.5
+68,Eastside Middle Indus Plain (Indus Basin),114,253,29.5,73.5
+69,Central Allegheny Plateau (Appalachian Plateaus),123,97,38.5,-82.5
+69,Central Allegheny Plateau (Appalachian Plateaus),123,98,38.5,-81.5
+69,Central Allegheny Plateau (Appalachian Plateaus),124,98,39.5,-81.5
+69,Central Allegheny Plateau (Appalachian Plateaus),124,99,39.5,-80.5
+69,Central Allegheny Plateau (Appalachian Plateaus),125,100,40.5,-79.5
+70,Northeastern Karoo Basin (Main Karoo Basin),57,207,-27.5,27.5
+70,Northeastern Karoo Basin (Main Karoo Basin),57,208,-27.5,28.5
+70,Northeastern Karoo Basin (Main Karoo Basin),57,209,-27.5,29.5
+70,Northeastern Karoo Basin (Main Karoo Basin),58,208,-26.5,28.5
+70,Northeastern Karoo Basin (Main Karoo Basin),58,209,-26.5,29.5
+71,Southern Riverine Plains (Murray Basin),48,324,-36.5,144.5
+71,Southern Riverine Plains (Murray Basin),48,325,-36.5,145.5
+71,Southern Riverine Plains (Murray Basin),48,326,-36.5,146.5
+71,Southern Riverine Plains (Murray Basin),49,323,-35.5,143.5
+71,Southern Riverine Plains (Murray Basin),49,324,-35.5,144.5
+71,Southern Riverine Plains (Murray Basin),49,325,-35.5,145.5
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),117,92,32.5,-87.5
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),117,93,32.5,-86.5
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),117,94,32.5,-85.5
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),118,91,33.5,-88.5
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),119,91,34.5,-88.5

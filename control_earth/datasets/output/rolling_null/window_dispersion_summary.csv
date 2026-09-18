@@ -1,0 +1,13 @@
+dataset,window,med_iqr,med_absmed
+real_earth,w_full,0.332901585762955,0.226562370543875
+real_earth,w_grace,0.403946652603739,0.333303712058934
+real_earth,w_fo,0.672980326396901,1.46496941760566
+pilot_uniform_depletion_v2,w_full,0.346677515,0.37661454
+pilot_uniform_depletion_v2,w_grace,0.609369758,0.36360481
+pilot_uniform_depletion_v2,w_fo,0.789109375,0.449064835
+graded_floor_v2,w_full,0.2957108895,0.093864115
+graded_floor_v2,w_grace,0.54698427575,0.12857256
+graded_floor_v2,w_fo,0.7664801175,0.54189332
+graded_floor_v3,w_full,0.3177450375,0.306064565
+graded_floor_v3,w_grace,0.6436337075,0.304841175
+graded_floor_v3,w_fo,0.78527104475,0.30625029

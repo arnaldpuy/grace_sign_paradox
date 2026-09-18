@@ -1,0 +1,400 @@
+paper_id,region,first_author,year,doi,paper_category,citations,depletion_claim,claim_sign,classifier_method
+1,amadeus,Wei Wang,2021,10.3390/rs13081432,mascon,22,,,empty
+2,arabian,Petra Döll,2014,10.1002/2014wr015595,own-SHM,808,global GWD of 113 km3/yr during 2000–2009,depleting,regex
+3,arabian,Mohd Anul Haq,2021,10.32604/cmc.2022.020495,mascon,108,groundwater depletion rates of 18.17 km3/year,depleting,regex
+4,arabian,Yujin Zeng,2018,10.1029/2018ms001304,downstream-use,95,,,empty
+5,arabian,Julian Xanke,2022,10.1007/s10040-021-02448-3,mascon,80,overall mean trend of –2.1 mm/year across the Euro-Mediterranean region,depleting,regex
+6,arabian,Abdullah Othman,2018,10.1007/s10712-017-9458-7,mascon,66,groundwater storage depletion of -3.7 ± 0.6 km3/year over LMAS,depleting,regex
+7,arabian,Youssef Wehbe,2021,10.3390/rs13020247,downstream-use,58,"overall depletion of TWS over the entire AP, especially, the northern part",depleting,regex
+8,arabian,Fahad Alshehri,2023,10.3390/w15020282,mascon,53,groundwater depletion rate of -13.81 ± 0.24 mm/yr,depleting,regex
+9,arabian,Othman Fallatah,2017,10.1002/hyp.11285,own-SHM,48,TWS depletion rate of -9.05 ± 0.25 mm/year (-4.84 ± 0.13 km3/year) and GWS depletion rate of -6.52 ± 0.29 mm/year (-3.49 ± 0.15 km3/year),depleting,regex
+10,arabian,Ahmed Mohamed,2022,10.3389/feart.2022.873352,own-SHM,42,groundwater depletion rate of -6.05 ± 0.34 mm/yr during Period II,depleting,regex
+11,arabian,Ahmed Mohamed,2022,10.3389/feart.2022.937402,mascon,39,−0.34 ± 0.01 mm/yr,depleting,regex
+12,arabian,Ahmed Mohamed,2023,10.3390/rs15071808,mascon,35,−3.85 ± 0.15 mm/yr,depleting,regex
+13,arabian,Othman Fallatah,2019,10.1007/s13369-019-04069-1,mascon,28,−2.11±0.13 km3/yr,depleting,regex
+14,arabian,Pierre Séraphin,2022,10.5194/hess-26-5757-2022,mascon,21,natural recharge of (2.4±1.4) mm yr−1,depleting,regex
+15,arabian,Esubalew Adem Yibrie,2024,10.1007/s11069-024-06733-8,mascon,16,groundwater storage depletes at ~11.2 mm per year,depleting,regex
+16,arabian,Ahmed Mohamed,2023,10.1016/j.aej.2023.11.060,mascon,13,groundwater depletion of -0.21 ± 0.011 cm/yr for the whole study area,depleting,regex
+17,arabian,Fahad Alshehri,2023,10.3389/feart.2023.1225992,mascon,9,−0.18 ± 0.022 cm/yr in Wadi Fatimah,depleting,regex
+18,arabian,Hussein A. Mohasseb,2024,10.3390/rs16081381,own-SHM,9,−4.89 ± 0.86 mm/year (−14.82 km³/year),depleting,regex
+19,arabian,Gholamreza Joodaki,2014,,own-SHM,7,Iran with a rate of 25±6 Gt/yr has the most groundwater loss rate,depleting,regex
+20,arabian,Mohamed A. Yassin,2024,10.3390/w16020246,mascon,7,,,empty
+21,arabian,Arfan Arshad,2025,10.1016/j.ejrh.2025.102552,mascon,7,groundwater decline in Saudi Arabia throughout the 21st century,depleting,regex
+22,arabian,Ahmed Mohamed,2023,10.3389/feart.2023.1227691,mascon,6,groundwater declining at a rate of -1.212 ± 0.012 cm/year,depleting,regex
+23,arabian,Abdullah Othman,2024,10.1080/16583655.2024.2331991,mascon,6,decline of -6.3 mm to -9.2 mm in Hail; depletion of -5.22 mm in Al-Jouf; -4.5 mm in Al-Hudud Ash-Shamaliyah during dry period,depleting,regex
+24,arabian,Ahmed Mohamed,2024,10.1016/j.jksus.2024.103172,mascon,5,−0.48 ± 0.02 cm yr−1,depleting,regex
+25,arabian,Muhammad Usman,2024,10.1016/j.gsd.2024.101270,mascon,5,highest EWT decline is found in the Al Jouf Region where decline shows a 43% faster decline (in the cumulative trend model) and a three times faster decrease (in the decomposed trend model) in the recent GRACE-FO data,depleting,regex
+26,arabian,Pierre Séraphin,2022,10.5194/egusphere-2022-22,mascon,3,2.4 ± 1.4 mm yr-1 natural recharge,depleting,regex
+27,arabian,Abdulrahman Badaoud,2024,10.1109/igarss53475.2024.10642338,mascon,3,average annual decline in GWS is -6.7 mm/year,depleting,regex
+28,arabian,A. Othman,2017,,mascon,2,sustainable extraction could be attained if the extraction is reduced by 3.5 to 4 km³/yr,depleting,regex
+29,arabian,Yuhao Xiong,2025,10.1029/2024wr039837,own-SHM,1,"TWSA decline rates for Saudi Arabia, Iraq, and Iran are 11.48 ± 0.32, 3.56 ± 0.44, and 7.75 ± 0.45 km3/yr, respectively",depleting,regex
+30,arabian,Nureldin A. A. Gido,2020,,own-SHM,0,,,empty
+31,arabian,Abdulrahman Badaoud,2026,10.1080/10106049.2025.2610859,mascon,0,"GWS declines of –7.2 mm yr–1 in Madinah, –12.6 mm yr–1 in Al Qassim, and –2.3 mm yr–1 in Hofuf",depleting,regex
+33,arabian,Nadhir Al-Ansari,2026,10.2139/ssrn.6533878,mascon,0,ΔGWS declining at -0.80 ± 0.014 cm/yr,depleting,regex
+34,arabian,Pierre Séraphin,2022,10.5194/egusphere-2022-22-ac1,mascon,0,,,empty
+35,arabian,Pierre Séraphin,2022,10.5194/egusphere-2022-22-rc3,mascon,0,2.4 mm.y-1 (with an uncertainty of 1.4 mm.y-1) natural recharge,depleting,regex
+36,canning,Ikechukwu Kalu,2025,10.1016/j.jhydrol.2025.134035,mascon,5,"long-term drought evolution indicating risk of permanent shift in ecosystem composition, land degradation and aquifer depletion in the Canning Basin",depleting,manual-override
+37,central_valley,Bridget R. Scanlon,2012,10.1073/pnas.1200311109,downstream-use,1357,groundwater depletion of ~330 km3 in the High Plains and ~80 km3 in the Central Valley (1962-2003),depleting,regex
+38,central_valley,J. S. Famiglietti,2011,10.1029/2010gl046442,own-SHM,959,Central Valley lost 20.4 ± 3.9 mm yr−1 of groundwater,depleting,regex
+39,central_valley,Bridget R. Scanlon,2012,10.1029/2011wr011312,own-SHM,444,groundwater depletion totaled 31.0 ± 3.0 km3,depleting,regex
+40,central_valley,Brian Thomas,2017,10.1016/j.rse.2017.06.026,mascon,331,,,empty
+41,central_valley,Donald F. Argus,2014,10.1002/2014gl059570,downstream-use,320,,,empty
+43,central_valley,Michelle E. Miro,2018,10.3390/rs10010143,downstream-use,143,lost 20.3 km3 of groundwater between 2003 and 2010,depleting,regex
+44,central_valley,Mu Xiao,2017,10.1002/2017gl073333,own-SHM,132,40.0 km3 of groundwater lost during 2012-2016 drought,depleting,regex
+45,central_valley,Chandrakanta Ojha,2019,10.1029/2018jb016083,mascon,93,average groundwater loss of 6.1 ± 2.3 km3/year for San Joaquin Valley,depleting,regex
+46,central_valley,Farshid Felfelani,2020,10.1029/2020wr027531,downstream-use,79,,,empty
+47,central_valley,Zhen Liu,2019,10.3390/geosciences9100436,mascon,76,,,empty
+48,central_valley,Bridget R. Scanlon,2021,10.1088/1748-9326/ac16ff,mascon,76,Marked storage depletion in the semi-arid southwestern Central Valley and south-central High Plains totaled ∼90 km3,depleting,regex
+49,central_valley,Elias Massoud,2018,10.1038/s41598-018-31210-1,downstream-use,75,groundwater depletion will continue,depleting,regex
+50,central_valley,Grace Carlson,2022,10.1029/2021jb023135,mascon,66,,,empty
+51,central_valley,Vibhor Agarwal,2022,10.1016/j.scitotenv.2022.161138,own-SHM,65,groundwater loss is about 30 km3 from 2002 to 2016,depleting,regex
+52,central_valley,Aakash Ahamed,2021,10.1016/j.scitotenv.2021.150635,downstream-use,50,net loss of stored groundwater during the study period,depleting,regex
+54,central_valley,D. W. Vasco,2019,10.1038/s41598-019-52371-7,downstream-use,48,2.3 million acre-feet of estimated volume reduction between October 2015 and 2016,depleting,regex
+55,central_valley,Sarfaraz Alam,2021,10.1029/2021wr030352,mascon,45,"Median aquifer storage recovery was 34% and 19% of the overdraft during the 2010–2011 and 2017–2019 post-drought years, respectively.",depleting,manual-override
+56,central_valley,D. W. Vasco,2022,10.1038/s41598-022-07650-1,mascon,38,,,empty
+57,central_valley,Donald F. Argus,2022,10.1029/2022gl099583,mascon,33,Central Valley lost groundwater at 2.2 ± 0.7 km3/yr from 2006 to 2021,depleting,regex
+58,central_valley,W. C. Hammond,2019,10.1029/2019jb017354,downstream-use,29,,,empty
+59,central_valley,Grace Carlson,2024,10.1016/j.rse.2024.114303,mascon,27,groundwater volume loss of 20.4+/-2.6 km3,depleting,regex
+60,central_valley,Weijie Tan,2015,10.1016/j.asr.2015.08.034,own-SHM,26,,,empty
+61,central_valley,Hrishikesh A. Chandanpurkar,2025,10.1126/sciadv.adx0298,mascon,26,unprecedented continental drying,depleting,manual-override
+62,central_valley,Hansheng Wang,2021,10.1016/j.geog.2021.10.003,own-SHM,26,"GWS declining trends in Nevada, California, Arizona, and Texas",depleting,regex
+63,central_valley,L. M. Thatch,2020,10.1111/gwat.12995,downstream-use,24,,,empty
+64,central_valley,Elias Massoud,2020,10.3390/geosciences10020071,mascon,21,groundwater depletion of -46.60 km3 over 2003-2017,depleting,regex
+65,central_valley,Kyra H. Kim,2021,10.1111/1752-1688.12898,downstream-use,16,,,empty
+66,central_valley,Ruijie Zeng,2018,10.1029/2018wr022723,downstream-use,13,,,empty
+67,central_valley,Joe Yazbeck,2023,10.3390/rs15020449,downstream-use,12,steady decrease in groundwater storage,depleting,regex
+68,central_valley,Pang‐Wei Liu,2022,10.21203/rs.3.rs-1614517/v1,mascon,11,groundwater depletion rate of 2.41 km3/yr (2003–2021),depleting,regex
+70,central_valley,M. L. Stevens,2025,10.1016/j.envsoft.2025.106368,downstream-use,4,groundwater storage loss in the Central Valley,depleting,regex
+71,central_valley,Ernie Tretkoff,2011,10.1029/2011eo120015,downstream-use,0,"groundwater depletion in the Central Valley at a rate of about 30 mm/year equivalent water height, total 30 km³ over 78 months, two thirds from groundwater",depleting,regex
+72,central_valley,Alys Caitlyn Thomas,2014,,own-SHM,0,,,empty
+73,central_valley,Amber Jean Kuss,2011,,downstream-use,0,,,empty
+74,central_valley,Michelle E. Miro,2017,,own-SHM,0,the Central Valley lost 20.3 km3 of groundwater between 2003 and 2010,depleting,regex
+75,central_valley,Jayden Nam,2026,10.22541/essoar.15002172/v1,mascon,0,annual mean depth to water increased from 136 feet in 2002 to 245 feet in 2016,depleting,manual-override
+76,central_valley,Yong Feng,2025,10.3390/rs17223683,own-SHM,0,"two prolonged droughts (2008, 2013) caused ≈91.45 km3 groundwater loss",depleting,regex
+77,central_valley,A. J. Purdy,2023,10.1007/978-3-031-26588-4_40,mascon,0,"During the 2012-2016 drought, CA lost ~20 km3 in groundwater",depleting,regex
+78,central_valley,Aimée Gibbons,2016,,downstream-use,0,,,empty
+79,central_valley,L. M. Thatch,2017,,mascon,0,groundwater levels in California’s San Joaquin Valley have dropped more than 30 meters in some areas,depleting,regex
+81,expansion-untagged,,,,downstream-use,,,,empty
+82,expansion-untagged,,,10.26480/bdwre.01.2020.10.15,downstream-use,,net loss in groundwater storage is at mean rate of 85.01 mm per year,depleting,regex
+83,expansion-untagged,,,10.5194/egusphere-2022-22-rc2,mascon,,2.4 ± 1.4 mm yr-1 of domain-averaged natural recharge,depleting,regex
+84,expansion-untagged,,,10.5194/hess-2022-43-ec2,own-SHM,,GRACE trend value of −7.6 ± 0.6 Gt yr−1,depleting,regex
+85,expansion-untagged,,,10.5194/egusphere-2022-1032-rc2,own-SHM,,,,empty
+87,guarani,Jianli Chen,2010,10.1029/2010jd014689,own-SHM,115,average TWS deficit of ∼12 cm below the 7 year mean,depleting,regex
+88,guarani,Lucas Vituri Santarosa,2024,10.1080/02626667.2024.2412741,downstream-use,9,,,empty
+89,guarani,Annamária Kiss,2016,10.13168/agg.2016.0035,own-SHM,7,,,empty
+90,guarani,Julia Pfeffer,2022,10.5194/egusphere-2022-1032,own-SHM,5,,,empty
+91,guarani,Vanessa da Conceição Osório,2021,10.1590/2317-4889202120200079,own-SHM,3,positive recharge on the order of 1.5 cm per year,recovering,regex
+92,guarani,Everton Pereira Bomfim,2007,10.1590/s0102-261x2007000400010,own-SHM,0,,,empty
+93,guarani;canning,Simon Munier,2012,,own-SHM,17,groundwater depletion at a rate of 8 km3/year in the southern part of Guarani Aquifer System and 11 km3/year in Canning Basin,depleting,regex
+94,high_plains,Bridget R. Scanlon,2012,10.1073/pnas.1200311109,downstream-use,1357,groundwater depletion of ~330 km3 in the High Plains and ~80 km3 in the Central Valley (1962-2003),depleting,regex
+95,high_plains,Di Long,2014,10.1002/2013wr014581,own-SHM,577,,,empty
+96,high_plains,Di Long,2013,10.1002/grl.50655,own-SHM,394,62.3 ± 17.7 km3,depleting,manual-override
+97,high_plains,Laurent Longuevergne,2010,10.1029/2009wr008564,own-SHM,345,,,empty
+99,high_plains,Matthew Rodell,2002,10.1016/s0022-1694(02)00060-4,own-SHM,291,annual groundwater storage change of about 6.7 mm,no-sign,manual-override
+100,high_plains,Gil Strassberg,2007,10.1029/2007gl030139,own-SHM,230,,,empty
+101,high_plains,Gil Strassberg,2009,10.1029/2008wr006892,own-SHM,219,,,empty
+102,high_plains,Wanshu Nie,2018,10.1029/2017wr022178,mascon,103,,,empty
+103,high_plains,Clara Chew,2014,10.1002/2014gl061206,downstream-use,86,TWS anomaly intensified by approximately 15% during summer 2013,depleting,manual-override
+104,high_plains,Farshid Felfelani,2020,10.1029/2020wr027531,downstream-use,79,,,empty
+105,high_plains,José Agustín Breña‐Naranjo,2014,10.1002/2014gl061213,downstream-use,76,groundwater storage declined by 125 ± 4.3 km3 from 2003 to 2013,depleting,regex
+106,high_plains,Bridget R. Scanlon,2021,10.1088/1748-9326/ac16ff,mascon,76,Marked storage depletion in the semi-arid southwestern Central Valley and south-central High Plains totaled ∼90 km3,depleting,regex
+107,high_plains,Alexander Y. Sun,2010,10.1029/2010gl043231,own-SHM,75,,,empty
+108,high_plains,Md. Mafuzur Rahaman,2019,10.3390/environments6060063,own-SHM,66,,,empty
+109,high_plains,Md. Mafuzur Rahaman,2019,10.3390/hydrology6010019,downstream-use,60,CRB experienced a loss of 41 million acre-feet groundwater from 2003 to 2014,depleting,regex
+110,high_plains,Augusto Getirana,2019,10.1175/jhm-d-19-0096.1,mascon,58,,,empty
+111,high_plains,Wondwosen M. Seyoum,2016,10.1016/j.advwatres.2016.04.014,downstream-use,45,,,empty
+112,high_plains,Andrea E. Brookfield,2018,10.1029/2018wr023836,mascon,37,,,empty
+113,high_plains,E. A. Rosenberg,2013,10.5194/hess-17-1475-2013,downstream-use,37,,,empty
+114,high_plains,Hansheng Wang,2021,10.1016/j.geog.2021.10.003,own-SHM,26,"GWS declining trends in Nevada, California, Arizona, and Texas",depleting,regex
+115,high_plains,Shuo Zhang,2023,10.1029/2023gl103419,downstream-use,24,,,empty
+117,high_plains,Ruijie Zeng,2018,10.1029/2018wr022723,downstream-use,13,,,empty
+118,high_plains,Yuting Zhou,2020,10.3390/rs12142257,mascon,7,overall annual average TWS for the Ogallala Aquifer was −0.60 cm/year,depleting,regex
+119,high_plains,A. Richey,2016,10.1002/2015wr018329,downstream-use,5,near zero trend,stable,regex
+120,high_plains,Lei Ji,2023,10.1111/1752-1688.13133,downstream-use,4,"EWTa trends: NHP +6.16 mm/yr, CHP -3.50 mm/yr, SHP -6.94 mm/yr",depleting,regex
+121,high_plains,Yongjun Zhang,2019,10.1111/1752-1688.12798,own-SHM,4,"worst drought conditions occurred in September 2012, with an average TWS deficit of ~8 cm in the northern OAR and ~11 cm in the southern OAR",depleting,regex
+123,high_plains,Ritesh Agrawal,2014,10.5194/isprsarchives-xl-8-329-2014,mascon,3,Ganga and Brahmaputra basins have shown an average annual change of -1.28 cm and -1.06 cm in terms of WEH,depleting,regex
+124,high_plains,Davood Ghasemian,2016,,downstream-use,1,,,empty
+127,high_plains,Ashraf Rateb,2026,10.1029/2025ef006653,mascon,0,GRACE‐based TWSA indicates net losses of 85 ± 15 km3 since 2002 in the arid western MRB–TX,depleting,regex
+128,high_plains,Aimée Gibbons,2016,,downstream-use,0,,,empty
+129,high_plains,Wanshu Nie,2017,,mascon,0,groundwater depletion due to irrigation dominates the simulated TWS signal,depleting,regex
+130,high_plains,"Olusanya, Adeyinka",2025,,mascon,0,groundwater storage declined at a rate of approximately -0.0899 cm per year in West Texas,depleting,regex
+131,igp,Matthew Rodell,2009,10.1038/nature08238,own-SHM,2845,groundwater depletion at a mean rate of 4.0 ± 1.0 cm yr⁻¹ equivalent height of water (17.7 ± 4.5 km³ yr⁻¹),depleting,regex
+132,igp,J. S. Famiglietti,2014,10.1038/nclimate2425,downstream-use,1799,groundwater depletion the world over poses a far greater threat to global water security than is currently acknowledged,depleting,regex
+133,igp,V. M. Tiwari,2009,10.1029/2009gl039401,own-SHM,817,groundwater loss at a rate of 54 ± 9 km3/yr,depleting,regex
+134,igp,Petra Döll,2014,10.1002/2014wr015595,own-SHM,808,global GWD of 113 km3/yr during 2000–2009,depleting,regex
+135,igp,Akarsh Asoka,2017,10.1038/ngeo2869,own-SHM,524,groundwater storage has declined in northern India at the rate of 2 cm yr−1 and increased by 1 to 2 cm yr−1 in southern India between 2002 and 2013,mixed,regex
+137,igp,Di Long,2016,10.1038/srep24398,own-SHM,277,3.1 ± 0.1 cm/a (or 14 ± 0.4 km3/a) for Jan 2005–Dec 2010,depleting,manual-override
+138,igp,Jianli Chen,2014,10.1016/j.gloplacha.2014.02.007,own-SHM,270,20.4 ± 7.1 Gt/yr over 10 years,depleting,manual-override
+139,igp,Mohammad Shamsudduha,2012,10.1029/2011wr010993,own-SHM,241,groundwater depletion estimated from borehole hydrographs (−0.52 ± 0.30 km³ yr⁻¹) is within the range of satellite-derived estimates (−0.44 to −2.04 km³ yr⁻¹),depleting,regex
+141,igp,Deep Shah,2019,10.1029/2019wr026284,downstream-use,201,,,empty
+142,igp,Soumendra N. Bhanja,2016,10.1016/j.jhydrol.2016.10.042,own-SHM,192,,,empty
+143,igp,Vimal Mishra,2016,10.1002/2016gl071407,downstream-use,180,2 year cumulative deficit of 51% in the Indo-Gangetic Plain,depleting,regex
+144,igp,Debanjan Sinha,2016,10.1175/jhm-d-16-0047.1,own-SHM,128,highest peak deficit of 2158.00 mm observed in January 2015 over central India,depleting,regex
+145,igp,Shoaib Ali,2021,10.3390/rs13173513,downstream-use,126,lost GWS of about -9.54 ± 1.27 km3 at the rate of -0.68 ± 0.09 km3/year from 2003 to 2016,depleting,manual-override
+146,igp,Tandrila Sarkar,2020,10.1016/j.gsd.2020.100376,own-SHM,118,"maximum groundwater storage change by -7.52 cm/year in Delhi, northern Uttar Pradesh and some parts of Haryana",depleting,regex
+147,igp,Amritendu Mukherjee,2018,10.1016/j.jhydrol.2018.02.005,downstream-use,103,,,empty
+148,igp,Khandu,2016,10.1002/2015wr018113,own-SHM,101,TWS decline of 12.2 ± 3.4 km³/yr in Ganges and 9.1 ± 2.7 km³/yr in Brahmaputra-Meghna (2002–2014),depleting,regex
+149,igp,Arfan Arshad,2022,10.1016/j.scitotenv.2022.156044,own-SHM,90,total loss of groundwater reserves varied in the IIB's 55 canal command areas with the highest loss observed in Dehli Doab by >50 km3,depleting,regex
+150,igp,Shoaib Ali,2021,10.1016/j.jhydrol.2021.127315,mascon,84,4.16 ± 0.26 mm per year (2.97 ± 0.19 km3 per year),depleting,manual-override
+151,igp,Mohammad Shamsudduha,2020,10.5194/esd-11-755-2020,mascon,83,"non-linear trends; linear declining trends in only two aquifer systems (Arabian, Canning)",depleting,regex
+152,igp,Beas Barik,2017,10.5194/hess-21-3041-2017,own-SHM,80,statistically significant declining trend of groundwater storage in India during the last decade,depleting,regex
+153,igp,Aarti Soni,2015,10.1016/j.gloplacha.2015.09.007,own-SHM,71,groundwater storage decline in Ganga basin at -1.28 ± 0.20 mm/month,depleting,regex
+154,igp,Abhishek Abhishek,2021,10.1016/j.jhydrol.2021.126069,own-SHM,64,"Krishna River Basin experienced the largest decrease in TWS and GWS with −30.95 mm yr−1 and −20.18 mm yr−1, respectively",depleting,regex
+155,igp,Bhaskar Kundu,2015,10.1002/2015gl066616,downstream-use,60,"groundwater depletion rate of 54 ± 9 km3/yr in Indus, Ganga, Brahmaputra basins",depleting,regex
+156,igp,Mioara Mandéa,2012,10.1073/pnas.1207346109,downstream-use,58,,,empty
+157,igp,Swarup Dangar,2021,10.1088/1748-9326/ac2ceb,mascon,56,226.57 ± 25.22 km3 groundwater lost during 2002–2016,depleting,regex
+158,igp,Mohammad Shamsudduha,2019,10.1016/j.ijdrr.2019.101068,downstream-use,54,northern India has lost approximately 109 km3 of groundwater between 2002 and 2008,depleting,regex
+159,igp,Simon Opie,2020,10.5194/esd-11-775-2020,mascon,52,,,empty
+160,igp,Soumendra N. Bhanja,2020,10.1080/02626667.2020.1716238,own-SHM,51,"Ganges and Brahmaputra basins lost groundwater at rates of -1.02 and -0.40 km3/year, respectively, based on in situ observations",depleting,regex
+161,igp,Naresh Krishna Vissa,2019,10.1007/s12040-019-1148-z,downstream-use,48,groundwater depletion of ~1.6 cm/yr in northern India,depleting,regex
+162,igp,W. G. Burgess,2017,10.1038/s41598-017-04159-w,downstream-use,43,,,empty
+163,igp,Anuradha Karunakalage,2021,10.1016/j.gsd.2021.100559,own-SHM,42,"−60.33±5.00 mm/year and −80.00±6.12 mm/year from downscaled GRACE SH and JPL mascon, respectively",depleting,regex
+164,igp,Qiujie Chen,2020,10.1029/2019jb018892,own-SHM,42,,,empty
+165,igp,Shivam Rawat,2022,10.1038/s41598-022-18511-2,mascon,41,TWS is depleting for most of the subbasins in India,depleting,regex
+166,igp,R. S. Chatterjee,2019,10.1016/j.gsd.2019.100307,own-SHM,39,severe groundwater depletion in north-western India,depleting,regex
+167,igp,Deep Shah,2020,10.1029/2020jd033566,mascon,38,TWS declined at −0.63 cm yr−1 during 2002–2016 in the Indian subcontinent,depleting,regex
+168,igp,Pragnaditya Malakar,2021,10.1021/acsestengg.0c00238,downstream-use,37,higher declining trends will potentially be observed in parts of north-central and south India,depleting,regex
+169,igp,Arfan Arshad,2024,10.1029/2023wr035882,mascon,36,"TWS and GWS decline rate between 2002 and 2023: Dehli Doab (−442, −585 mm/year), BIST Doab (−367, −556 mm/year), Rajasthan (−242, −381 mm/year), and BARI (−188, −333 mm/year)",depleting,regex
+170,igp,Ajish P. Saji,2020,10.1029/2018jf004943,own-SHM,36,unsustainable consumption of groundwater associated to irrigation and other anthropogenic uses influences the subsidence rate in the IGP and sub‐Himalaya,depleting,regex
+171,igp,Diksha Gupta,2020,10.1080/01431161.2020.1797218,downstream-use,36,,,empty
+172,igp,D. K. Panda,2020,10.1002/hyp.14003,mascon,34,groundwater storage loss in northern India has increased rapidly from 17 km3 to 189 km3 between the pre-2002 and 2002–2013 periods,depleting,manual-override
+173,igp,K. Satish Kumar,2022,10.1016/j.scitotenv.2022.159289,mascon,34,,,empty
+174,igp,R.D. Meghwal,2019,10.1007/s41976-019-00026-6,mascon,34,groundwater storage from GRACE has declined with a rate of −3.67 km3/year between 2002 and 2016 in WI,depleting,regex
+175,igp,D. K. Panda,2022,10.1029/2021ef002513,mascon,33,GRACE observed large-scale water storage losses in the Indo-Gangetic alluvial aquifer of north India,depleting,regex
+176,igp,Pawan Kumar Gautam,2024,10.1016/j.envc.2024.100874,downstream-use,33,groundwater depletion in Uttar Pradesh,depleting,regex
+177,igp,Hua Xie,2020,10.1016/j.ejrh.2020.100681,own-SHM,31,groundwater depletion rate of 23.9 km3 H2O/yr (mean) in northwest India,depleting,regex
+178,igp,Sreekanth Janardhanan,2023,10.1038/s41598-023-28615-y,mascon,30,groundwater storage loss of -1.7 cm/year (median) from GRACE,depleting,regex
+179,igp,Claire Pascal,2022,10.5194/hess-26-4169-2022,mascon,28,,,empty
+180,igp,Vimal Mishra,2024,10.1029/2024ef004516,mascon,28,rapid groundwater depletion (~1.5 cm/year) with a net loss of 450 km3 of groundwater during 2002–2021,depleting,regex
+181,igp,V. M. Tiwari,2014,10.1016/j.pepi.2014.03.002,own-SHM,27,,,empty
+182,igp,Anil Kumar Singh,2018,10.1016/j.quaint.2018.10.036,downstream-use,26,,,empty
+183,igp,Muhammad Abdus Salam,2020,10.26480/bdwre.01.2020.13.18,downstream-use,24,net loss in groundwater storage is at mean rate of 85.01 mm per year,depleting,regex
+184,igp,Akhilesh S. Nair,2020,10.1080/01431161.2020.1763503,mascon,23,maximum GW depletion rate of 0.25 cm per month for a time period from 2009 to 2016 in Karnataka,depleting,regex
+185,igp,Param K. Gautam,2017,10.1007/s40899-017-0109-4,own-SHM,22,Meerut region shows more depletion of -2.76 ± 0.87 cm/year compared to Lucknow at -1.46 ± 0.74 cm/year,depleting,regex
+186,igp,Natthachet Tangdamrongsub,2011,10.1007/s11069-011-9793-9,own-SHM,21,water storage losses occur in this region,depleting,regex
+187,igp,Chandan Banerjee,2018,10.1007/s11269-018-2070-x,downstream-use,21,,,empty
+188,igp,Leelambar Singh,2020,10.1007/s40899-020-00399-3,downstream-use,20,groundwater storage has been decreasing for many years,depleting,regex
+189,igp,Linfeng Fan,2023,10.1029/2022wr034243,downstream-use,20,,,empty
+190,igp,Jung‐Rack Kim,2023,10.1109/tgrs.2023.3305863,downstream-use,19,ground subsidence up to 120 mm/year,depleting,manual-override
+191,igp,Pranshu Pranjal,2021,10.1007/s12665-021-09905-y,mascon,18,"groundwater depletion at the rate of 46.26 cm/year, 49.16 cm/year, 120.77 cm/year and 237.69 cm/year at Dera Bassi, Landran, Singhpura, and Ambala respectively; GRACE TWS change of 12.65 cm/year",depleting,regex
+192,igp,Jaydeo K. Dharpure,2025,10.1029/2024wr038279,mascon,18,Annual GWSA demonstrates that a major portion (83.7%) of the basin is experiencing significant decline (<−0.15 cm/yr) at p < 0.05.,depleting,regex
+193,igp,Pragay Shourya Moudgil,2023,10.1007/s12665-023-11137-1,mascon,18,negative GWL trend in the Ganga River basin suggests continuous decline due to anthropogenic groundwater withdrawal,depleting,regex
+194,igp,Yingjun Pang,2020,10.1016/j.iswcr.2020.06.004,mascon,17,TWS decreased at a rate of 3.14 mm yr-1,depleting,regex
+195,igp,Tandrila Sarkar,2022,10.31577/congeo.2022.52.1.1,mascon,17,"Himalayan River basins 1,2,3 exhibit high GWS mass loss (−260 to −35.12 km³), with Basin 2 being the highest (−260 km³)",depleting,regex
+196,igp,Ashwani Raju,2024,10.1016/j.scitotenv.2024.170932,downstream-use,17,continuous depletion (14.6 ± 5.6 mm/yr),depleting,regex
+197,igp,Dilip Kumar,2021,10.2166/hydro.2021.108,downstream-use,17,groundwater is depleting in hilly areas of the state,depleting,regex
+198,igp,Akarsh Asoka,2020,10.1175/jhm-d-20-0085.1,mascon,16,groundwater depletion in NWI and NCI,depleting,regex
+199,igp,Kashif Mehmood,2022,10.3390/w14203254,downstream-use,16,"groundwater declined from January 2003 to December 2016, with an overall decreasing trend of 0.44 mm per month",depleting,regex
+200,igp,Md. Moniruzzaman Monir,2024,10.1016/j.heliyon.2024.e24481,downstream-use,13,GRACE TWS anomaly shows a decreasing trend of −1.22 cm/yr,depleting,regex
+201,igp,Saurabh Srivastava,2022,10.1016/j.rsase.2021.100685,own-SHM,11,"GWS level depleted at rate 2.17 ± 0.06, 0.97 ± 0.06, and 0.74 ± 0.06 mm/month for first, second, third cluster respectively",depleting,regex
+202,igp,Sourav Kumar,2022,10.1007/s12524-022-01580-1,mascon,10,maximum average declining rates were reported from NE and Central NE at a rate of 41.2 mm year-1 and 38.6 mm year-1,depleting,regex
+203,igp,Subimal Nandi,2024,10.1007/s10661-024-12309-7,mascon,10,GWSA decreased -10.80 mm/yr (GRACE period),depleting,regex
+204,igp,K. Satish Kumar,2022,10.3390/w14233852,mascon,10,"Telangana state experienced decreasing GWSA in the years 2005, 2009, and 2012, and from 2015 to 2019, leading to severe droughts.",depleting,regex
+205,igp,Akhilesh S. Nair,2018,10.5194/isprs-annals-iv-5-129-2018,mascon,10,groundwater at a rate of 0.34 cm per year,no-sign,manual-override
+206,igp,Fahad Alshehri,2023,10.3389/feart.2023.1225992,mascon,9,"average annual groundwater depletion rate in the Makkah region is −0.38 ± 0.017 mm/year, but it is lower in Wadi Fatimah (−0.18 ± 0.022 mm/year)",depleting,regex
+207,igp,Vasaw Tripathi,2022,10.5194/hess-26-4515-2022,own-SHM,8,GRACE trend value of -7.6±0.6 Gt yr−1,depleting,regex
+208,igp,Mohd Sayeed Ul Hasan,2023,10.3390/su15021572,mascon,8,average declining rate of yearly terrestrial water storage data ... is −0.0075 m (−0.75 cm/year) from 2002 to 2020,depleting,regex
+209,igp,Anil Kumar Singh,2021,10.1007/978-3-030-67932-3_11,downstream-use,7,groundwater mean depletion thickness over Haryana was found 1.13 cm and for Punjab is 0.92 cm during 2005–2015,depleting,regex
+210,igp,Claire Pascal,2022,10.5194/hess-2022-39,mascon,6,,,empty
+211,igp,Ahmed Mohamed,2023,10.3389/feart.2023.1227691,mascon,6,groundwater depletion of −1.212 ± 0.012 cm/yr,depleting,regex
+212,igp,Shubham Awasthi,2023,10.5194/isprs-archives-xlviii-1-w2-2023-1319-2023,mascon,6,extreme decline in groundwater storage levels,depleting,regex
+213,igp,Haris Hasan Khan,2012,10.1007/s12517-012-0629-z,downstream-use,6,a definite trend of total water depletion,depleting,regex
+214,igp,Sandip Kumar Rana,2024,10.1080/02626667.2024.2403720,mascon,5,maximum ~ -6.6 cm/year GWS decline in Haryana,depleting,regex
+215,igp,Pragay Shourya Moudgil,2024,10.1007/s11053-024-10312-w,mascon,4,significant groundwater depletion in the northern and northwestern river basins,depleting,regex
+216,igp,S.K. Sen,2024,10.1007/s10661-024-13174-0,mascon,4,,,empty
+217,igp,Abhinav Galodha,2023,10.5194/isprs-archives-xlviii-m-3-2023-95-2023,downstream-use,4,,,empty
+218,igp,Mohd Sayeed Ul Hasan,2024,10.2166/ws.2024.173,downstream-use,4,increasing trend of drought over the study period,depleting,manual-override
+219,igp,Ritesh Agrawal,2014,10.5194/isprsarchives-xl-8-329-2014,mascon,3,Ganga and Brahmaputra basins have shown an average annual change of -1.28 cm and -1.06 cm in terms of WEH,depleting,regex
+221,igp,Madhumita Sahoo,2018,10.1061/(asce)he.1943-5584.0001670,downstream-use,3,,,empty
+222,igp,Kancharla Nitish Sai,2023,10.5194/isprs-archives-xlviii-1-w2-2023-1265-2023,downstream-use,2,,,empty
+223,igp,Shekhar Singh,2020,10.47884/jweam.v1i3pp26-32,downstream-use,2,,,empty
+224,igp,Shubham Awasthi,2023,10.1109/igarss52108.2023.10283323,downstream-use,1,,,empty
+225,igp,Yanping Cao,2025,10.1007/s11356-025-37274-7,mascon,1,"groundwater depletion across India, particularly in the northern plains, with summer decline of -6.52 mm/year and winter -5.46 mm/year",depleting,regex
+226,igp,Suraj Dule,2026,10.2139/ssrn.6215477,mascon,0,"regional mean depletion was -0.65 cm/year, specific agricultural hotspots lost water at rates exceeding -2.05 cm/year",depleting,regex
+227,igp,Aum Upadhyay,2026,10.1016/j.rsase.2026.101929,mascon,0,,,empty
+228,igp,Bingshi Liu,2020,10.5194/egusphere-egu2020-6125,downstream-use,0,anthropogenic depletion rate in Indus Plain increased from -5.5 to -25.0 km3/yr (2003-2011) and stabilized at ~-26.0 km3/yr (2011-2016); Ganges Plain slowed from -37.7 to -12.0 km3/yr (2003-2011) then increased to -20.0 km3/yr (2016),depleting,manual-override
+230,igp,Vihaan Singla,2026,10.21275/sr251028130626,downstream-use,0,northwestern India exhibiting persistent negative TWS anomalies (-30 to -40 cm) indicating severe water depletion,depleting,regex
+231,igp,Subimal Nandi,2026,10.1007/s12665-026-12891-8,mascon,0,"UGB and YCB exhibit the sharpest declines of -2.622 cm/year and -2.116 cm/year, respectively",depleting,regex
+232,igp,Ravi Ande,2025,10.3808/jeil.202400163,downstream-use,0,6.98-meter drop in groundwater levels,depleting,regex
+233,igp,Yahya Sattar,2021,10.1109/icassp39728.2021.9413591,own-SHM,0,groundwater depletion on average over the time period,depleting,regex
+234,igp,Alexandra Klemme,2023,10.5194/hess-2023-37,downstream-use,0,sediment transport accounts for (4±2)% of the gravity decrease that is currently attributed to groundwater depletion,depleting,regex
+235,igp,Alexandra Klemme,2023,10.5194/hess-2023-37-rc2,downstream-use,0,sediment transport accounts for (4 ± 2) % of the gravity decrease currently attributed to groundwater depletion,depleting,regex
+236,igp,Alexandra Klemme,2023,10.5194/hess-2023-37-ac1,downstream-use,0,,,empty
+237,igp,Alexandra Klemme,2023,10.5194/hess-2023-37-ac2,downstream-use,0,,,empty
+238,igp,Alexandra Klemme,2024,10.5194/hess-28-1527-2024,downstream-use,0,sediment transport accounts for (4 ± 2) % of the gravity decrease currently attributed to groundwater depletion,depleting,regex
+240,igp,Shubham Rajewar,2026,10.1029/2025jb032730,downstream-use,0,groundwater depletion in NW India causing uplift up to 4.2 mm/yr,depleting,regex
+241,indus,Jianli Chen,2014,10.1016/j.gloplacha.2014.02.007,own-SHM,270,20.4 ± 7.1 Gt/yr over 2003-2012,depleting,regex
+242,indus,Longwei Xiang,2016,10.1016/j.epsl.2016.06.002,own-SHM,189,GWS increasing trend rates for eight basins and decreasing trends for four regions,mixed,regex
+243,indus,D. K. Panda,2015,10.1002/2015wr017797,own-SHM,164,GWS depletion at the rate of 1.25 and 2.1 cm yr-1 respectively in the Ganges Basin and Punjab state,depleting,regex
+244,indus,Fanchong Meng,2019,10.1029/2018jd029552,mascon,158,TWS depletion in the UB was mostly due to glacier mass loss,depleting,regex
+245,indus,Shoaib Ali,2021,10.3390/rs13173513,downstream-use,127,lost GWS of about -9.54 ± 1.27 km3 at the rate of -0.68 ± 0.09 km3/year from 2003 to 2016,depleting,manual-override
+246,indus,Vimal Mishra,2018,10.1029/2018ef000939,downstream-use,121,total estimated groundwater depletion in India is in the range of 122 to 199 billion m3,depleting,regex
+247,indus,Shoaib Ali,2023,10.3390/rs15040873,downstream-use,113,TWSA declined at a rate of -3.25 mm/year between 2003 and 2016,depleting,regex
+248,indus,Arfan Arshad,2022,10.1016/j.scitotenv.2022.156044,own-SHM,91,total loss of groundwater reserves varied in the IIB's 55 canal command areas with the highest loss observed in Dehli Doab by >50 km3,depleting,regex
+249,indus,Shoaib Ali,2022,10.1016/j.jhydrol.2022.128295,downstream-use,90,groundwater depletion trend of -3.39 ± 0.45 mm/year,depleting,regex
+250,indus,Shoaib Ali,2021,10.1016/j.jhydrol.2021.127315,mascon,84,4.16 ± 0.26 mm per year (2.97 ± 0.19 km3 per year),depleting,manual-override
+251,indus,Naveed Iqbal,2016,10.1109/jstars.2016.2574378,own-SHM,65,groundwater is declining at a mean rate of about 13.5 mm per year in equivalent height of water during 2003–2010,depleting,regex
+252,indus,Fazlullah Akhtar,2021,10.1016/j.jhydrol.2021.127369,downstream-use,61,"mean annual depletion in GWSA of −304.2 ± 749 and −301 ± 527 mm at the LBDC and the KRB, respectively",depleting,regex
+253,indus,Yu Zhu,2021,10.1016/j.scitotenv.2021.149366,mascon,56,TWS decreased at a rate of 0.57 ± 1.02 mm/month from 2002 to 2020,depleting,regex
+254,indus,Naveed Iqbal,2017,10.1007/s10661-017-5846-1,own-SHM,51,groundwater storage is depleted at an average rate of about 0.38 km3/year in Bari and about 0.21 km3/year in the Rechna doab from 2003 to 2010,depleting,regex
+255,indus,Aqil Tariq,2023,10.1016/j.gsd.2023.100990,mascon,46,GWS indicated a harsh declining trend of −7.83 ± 0.52 mm/month from 2003 to 2021 in CKRB,depleting,regex
+256,indus,Shivam Rawat,2022,10.1038/s41598-022-18511-2,mascon,41,TWS is depleting for most of the subbasins in India,depleting,regex
+257,indus,Arfan Arshad,2024,10.1029/2023wr035882,mascon,37,"TWS and GWS decline rate between 2002 and 2023: Dehli Doab (−442, −585 mm/year), BIST Doab (−367, −556 mm/year), Rajasthan (−242, −381 mm/year), and BARI (−188, −333 mm/year)",depleting,regex
+258,indus,D. K. Panda,2020,10.1002/hyp.14003,mascon,34,groundwater storage loss in northern India has increased rapidly from 17 km3 to 189 km3 between the pre-2002 and 2002–2013 periods,depleting,manual-override
+259,indus,Dostdar Hussain,2020,10.1109/access.2020.2984794,own-SHM,28,negative trends of -4.47 ± 0.38 mm/year (SH) and -4.81 ± 0.49 mm/year (MSC),depleting,regex
+260,indus,Gulraiz Akhter,2021,10.3390/su13179686,own-SHM,26,overall depletion trend in groundwater storage captured by GRACE in all four doabs,depleting,regex
+261,indus,Muhammad Abdus Salam,2020,10.26480/bdwre.01.2020.13.18,downstream-use,24,net loss in groundwater storage is at mean rate of 85.01 mm per year,depleting,regex
+262,indus,Jaydeo K. Dharpure,2025,10.1029/2024wr038279,mascon,18,annual GWSA decreases −1.27 cm/yr,depleting,regex
+263,indus,Kashif Mehmood,2022,10.3390/w14203254,downstream-use,16,"groundwater declined from January 2003 to December 2016, with an overall decreasing trend of 0.44 mm per month",depleting,regex
+264,indus,Adeel Ahmad Nadeem,2023,10.1016/j.agwat.2023.108545,mascon,15,potential savings of 81% (equivalent to 155 million m3) of groundwater during the dry season,no-sign,manual-override
+266,indus,Mohit Arora,2022,10.1007/s41101-022-00169-6,downstream-use,9,TWS from +17.4 to -28.8 cm and GWS from +18.1 to -30.2 cm,depleting,regex
+267,indus,Vasaw Tripathi,2022,10.5194/hess-26-4515-2022,own-SHM,8,GRACE trend value of −7.6 ± 0.6 Gt yr−1,depleting,regex
+268,indus,Indira Bose,2021,10.1029/2020wr028654,mascon,7,85% (80 million m3) of groundwater per dry season for irrigation districts of Northern India and 87% (or 150 million m3) per year for irrigation districts of Eastern Pakistan,no-sign,manual-override
+269,indus,Lilu Cui,2023,10.3390/rs15184469,own-SHM,6,,,empty
+270,indus,Ritesh Agrawal,2014,10.5194/isprsarchives-xl-8-329-2014,mascon,3,Ganga and Brahmaputra basins have shown an average annual change of -1.28 cm and -1.06 cm in terms of WEH,depleting,regex
+271,indus,Gaurang Mistry,2019,10.1061/9780784482322.011,mascon,3,groundwater storage in the district is depleting at a rate of 0.51 mm per month leading to a total volumetric loss of 1.38 km3 in 13 years,depleting,regex
+272,indus,Arfan Arshad,2022,10.2139/ssrn.4044453,downstream-use,3,total loss of groundwater reserves varied in the IIB's 55 canal command areas with the highest loss observed in Dehli Doab by >50 km3,depleting,regex
+273,indus,Hamid Gulzar,2025,10.1016/j.rsase.2025.101639,mascon,2,"rapid decline in groundwater storage, particularly in Cell B (−0.77 tau) of the JPL Mascon dataset",depleting,regex
+274,indus,Aftab Haider Khan,2025,10.1016/j.agwat.2025.110017,mascon,2,"long-term depletion trends in all CCAs, with the steepest declines in CCA7 and CCA8",depleting,regex
+275,indus,Gaurang Mistry,2020,10.34917/15778507,mascon,1,Punjab province has observed the highest loss in total volume of groundwater storage (28.2 km3),depleting,regex
+276,indus,Shoaib Ali,2020,10.22541/au.160861850.04202692/v1,downstream-use,1,groundwater storage is being depleted at a rate of 4.16 mm per year (2.97 km3 per year),depleting,regex
+277,indus,Yahya Sattar,2020,10.48550/arxiv.2010.12175,own-SHM,1,groundwater depletion on average over the time period,depleting,regex
+278,indus,Pamir Khan,2023,10.1109/icosst60641.2023.10414232,downstream-use,1,groundwater level is declining at a pace of 2 to 3 m per year,depleting,regex
+279,indus,Yahya Sattar,2021,10.1109/icassp39728.2021.9413591,own-SHM,0,groundwater depletion on average over the time period from 2005 to 2015,depleting,regex
+280,indus,Li Huang,2021,10.1002/essoar.10508130.1,downstream-use,0,groundwater storage depletion averaged ~5cm in equivalent water thickness basin-wide over 20 years,depleting,regex
+281,indus,Muhammad Hannan,2024,10.21203/rs.3.rs-3864359/v1,mascon,0,significant decline in groundwater storage over the last decade,depleting,regex
+282,indus,Alexander Prusevich,2025,10.3389/feart.2025.1551218,mascon,0,"TWS declines in the Indus and Ganges watersheds are primarily driven by the depletion of aquifers (67% and 76%, respectively)",depleting,regex
+283,indus,Muhammad Hassan Ali,2025,10.3390/hydrology12120330,downstream-use,0,"groundwater levels declined at 0.52 m/year on average, accelerating to 0.73 m/year after 2014, with total storage losses exceeding 320 mm/year",depleting,regex
+284,indus,Aftab Haider Khan,2026,10.1016/j.ejrh.2026.103278,mascon,0,annual groundwater storage loss of 6480.4 million m³ over 16 years (WAPDA) and 6431.7 million m³ (GRACE downscaled),depleting,regex
+285,indus,Vasaw Tripathi,2022,10.5194/hess-2022-43-ac2,own-SHM,0,,,empty
+286,indus,Vasaw Tripathi,2022,10.5194/hess-2022-43-ac1,downstream-use,0,,,empty
+287,indus,Arfan Arshad,2024,10.22541/essoar.173395770.08839790/v1,downstream-use,0,"Dehli Doab (-437, -457 mm/year), BIST Doab (-348, -410 mm/year), Rajasthan (-266, -286 mm/year), and Ravi (-190, -278 mm/year)",depleting,regex
+288,indus,A. A. Prusevich (22186513),2025,10.3389/feart.2025.1551218.s002,mascon,0,"TWS declines in the Indus and Ganges watersheds are primarily driven by the depletion of aquifers (67% and 76%, respectively)",depleting,regex
+289,indus;north_china_plain,Yujin Zeng,2016,10.1175/jcli-d-16-0209.1,downstream-use,80,groundwater depletion in northern India and Pakistan,depleting,regex
+291,mississippi,Matthew Rodell,2006,10.1007/s10040-006-0103-7,own-SHM,699,,,empty
+292,mississippi,Benjamin F. Zaitchik,2008,10.1175/2007jhm951.1,downstream-use,489,,,empty
+293,mississippi,Xitian Cai,2013,10.1002/2013jd020792,downstream-use,225,,,empty
+294,mississippi,T. H. Syed,2005,10.1029/2005gl024851,own-SHM,209,,,empty
+295,mississippi,Ashraf Rateb,2020,10.1029/2020wr027556,mascon,170,total GWS decline of −90 km3 over 15 yr in southwestern and south-central U.S. aquifers,depleting,regex
+297,mississippi,Susanna Werth,2010,10.5194/hess-14-59-2010,own-SHM,118,,,empty
+299,mississippi,Bridget R. Scanlon,2021,10.1088/1748-9326/ac16ff,mascon,76,Marked storage depletion in the semi-arid southwestern Central Valley and south-central High Plains totaled ∼90 km3,depleting,regex
+300,mississippi,Mehdi Khaki,2020,10.1038/s41598-020-75710-5,own-SHM,66,,,empty
+302,mississippi,Qiujie Chen,2019,10.1029/2018jb016596,own-SHM,45,,,empty
+304,mississippi,Qian Cao,2019,10.1029/2018wr023278,downstream-use,31,,,empty
+305,mississippi,Sarva T. Pulla,2023,10.3390/rs15092247,mascon,20,,,empty
+306,mississippi,S. M. Klosko,2009,10.1007/s00190-009-0301-x,own-SHM,18,,,empty
+307,mississippi,Johanna Engström,2021,10.2166/wp.2021.039,mascon,16,11.6 km3,no-sign,manual-override
+308,mississippi,Ye-Hong Chen,2023,10.1016/j.ejrh.2023.101342,downstream-use,11,overall estimated groundwater storage changes of the SHAS in the CAGCD are close to zero in the past two decades,stable,manual-override
+309,mississippi,Zahra Ghaffari,2023,10.3390/s23146428,mascon,9,water depletion in the central Mississippi Delta area,depleting,regex
+310,mississippi,Susanna Werth,2009,10.5194/hessd-6-4813-2009,own-SHM,9,,,empty
+311,mississippi,Padmanava Dash,2024,10.3390/rs16224285,downstream-use,5,"Lower Mississippi region experienced the fastest groundwater decline, with a Sen's slope of −0.07 cm/year",depleting,regex
+312,mississippi,Lucas J. Heintzman,2024,10.3390/hydrology11110186,mascon,4,,,empty
+313,mississippi,Rolf H. Reichle,2008,,own-SHM,3,,,empty
+314,mississippi,Ali Levent Yağcı,2018,,downstream-use,1,severe-to-exceptional groundwater and soil moisture depletion,depleting,regex
+316,mississippi,S. M. Jones,2022,10.5194/isprs-archives-xlvi-m-2-2022-131-2022,downstream-use,1,,,empty
+317,mississippi,Zahra Ghaffari,2025,10.3390/limnolrev25030039,mascon,1,significant groundwater depletion in the central Mississippi Delta,depleting,regex
+318,mississippi,Ashraf Rateb,2026,10.1029/2025ef006653,mascon,0,GRACE-based TWSA indicates net losses of 85 ± 15 km3 since 2002 in the arid western MRB–TX,depleting,regex
+319,mississippi,S. M. Klosko,2006,,own-SHM,0,,,empty
+320,mississippi,Nicholas Schuler,2022,10.31390/gradschool_theses.5513,mascon,0,,,empty
+321,mississippi,Md Nasrat Jahan,2026,10.3390/rs18111680,mascon,0,overall declining trend in water storage; western CLAS depletion rates of -0.30 and -0.17 cm/year,depleting,regex
+322,murray,Marc Leblanc,2009,10.1029/2008wr007333,own-SHM,381,total water loss of ~140 km3 between August 2002 and December 2006,depleting,regex
+323,murray,Maike Schumacher,2017,10.1016/j.rse.2017.10.029,own-SHM,145,groundwater loss of about 104 km3 during 2003-2007,depleting,regex
+324,murray,Gavan McGrath,2011,10.1029/2011gl050263,downstream-use,85,Total continental water loss ... of the order of 430 km3 for this period,depleting,regex
+325,murray,Albert I. J. M. van Dijk,2011,10.1029/2011wr010714,downstream-use,74,a decrease of 7–8 mm yr⁻¹ (50–60 km³ yr⁻¹) was estimated from GRACE,depleting,regex
+326,murray,Daniel Rieser,2010,10.1080/08120099.2010.512645,own-SHM,61,significant decrease in water storage in the southeast of Australia,depleting,regex
+327,murray,Valentin Heimhuber,2019,10.1016/j.jag.2019.101927,downstream-use,18,,,empty
+328,murray,Nicholas Brown,2010,10.1080/08120091003619241,own-SHM,17,,,empty
+329,murray,Maike Schumacher,2016,,own-SHM,15,,,empty
+330,murray,Hong Shen,2017,10.3390/w9090614,own-SHM,11,,,empty
+332,murray,Ikechukwu Kalu,2024,10.1016/j.jhydrol.2024.132489,mascon,6,,,empty
+333,murray,Albert I. J. M. van Dijk,2011,,downstream-use,5,a decrease of 7–8 mm y-1 (50–60 km3 y-1) was estimated from GRACE,depleting,regex
+334,murray,Tongqing Li,2019,10.1051/e3sconf/201913101067,mascon,4,GWS variations shows an increasing trend with a rate of 1.19 ± 0.41 mm/year,recovering,regex
+336,murray,Kevin Fleming,2010,,own-SHM,1,loss of groundwater from this region of the order of 104 km3 between 2001 and 2007,depleting,regex
+337,murray,Stefanie Schmid,2010,10.18419/opus-3838,own-SHM,0,"a severe drought is detected, which appeared in 2006/07",depleting,manual-override
+338,murray,C. C. Carabajal,2009,,mascon,0,decadal drought in the Murray-Darling river basin,depleting,manual-override
+339,murray,Marc Leblanc,2008,,own-SHM,0,significant decrease of water mass versus time of ~100 cubic km,depleting,regex
+340,murray,Ikechukwu Kalu,2025,10.1016/j.ejrh.2025.102832,mascon,0,upward groundwater trend of 0.32 mm/month between 2024 and 2029,recovering,manual-override
+341,murray-darling,Maike Schumacher,2025,10.1038/s41598-025-01938-8,own-SHM,3,17% due to water extraction for irrigation,depleting,manual-override
+343,north_china_plain,Wei Feng,2013,10.1002/wrcr.20192,own-SHM,838,groundwater depletion rate of 2.2 ± 0.3 cm/yr (8.3 ± 1.1 km³/yr) from 2003 to 2010,depleting,regex
+344,north_china_plain,Zhiyong Huang,2015,10.1002/2014gl062498,own-SHM,265,GWS in PP declines faster (46.5 ± 6.8 mm/yr) than that in ECP (16.9 ± 1.9 mm/yr),depleting,regex
+345,north_china_plain,Xinxin Wang,2020,10.1038/s41467-020-17103-w,downstream-use,249,"extensive and continued losses of TWS, together with small to moderate changes of SWA in North China, indicate long-term water stress in the region",depleting,regex
+346,north_china_plain,Wei Feng,2018,10.3390/rs10050674,own-SHM,209,GRACE detects a significant GWS depletion rate of 7.2 ± 1.1 km3/yr in the North China Plain (NCP) during 2002–2014,depleting,regex
+347,north_china_plain,Yun Pan,2016,10.1002/2016gl071287,own-SHM,195,,,empty
+348,north_china_plain,Fei Wang,2020,10.1016/j.jhydrol.2020.124849,mascon,167,groundwater depletion at a rate of approximately 4 km3/yr since the 1960s,depleting,regex
+349,north_china_plain,Wenjie Yin,2018,10.1029/2017jd027468,downstream-use,161,,,empty
+350,north_china_plain,X. Mo,2016,10.5194/nhess-16-469-2016,downstream-use,97,TWS decreased linearly in the Huai River basin (−0.56 cm yr−1),depleting,regex
+351,north_china_plain,Qiuhong Tang,2013,10.1002/grl.50790,downstream-use,94,groundwater depletion rate of -14 to -8.4 mm yr-1 in the North China Plain,depleting,regex
+352,north_china_plain,Julian Koch,2020,10.1029/2020wr027413,own-SHM,88,GRACE-based TWSA decreasing trend of -11.8 mm yr-1,depleting,regex
+353,north_china_plain,JP Moiwo,2009,10.4314/wsa.v35i5.49192,downstream-use,82,storage loss in the range of 12.72 to 23.76 mm/yr,depleting,regex
+354,north_china_plain,Natthachet Tangdamrongsub,2018,10.3390/rs10030483,own-SHM,73,"groundwater depletion detected in Victoria, Perth Basin, and North China Plain",depleting,regex
+355,north_china_plain,Yulong Zhong,2019,10.3390/rs11243050,mascon,70,human-induced water depletion rate of -12.87 ± 1.07 mm/yr,depleting,regex
+356,north_china_plain,Shoaib Ali,2023,10.1016/j.scitotenv.2023.168239,mascon,69,GWSA decreased by -17.55 ± 7.19 mm/yr,depleting,regex
+357,north_china_plain,Hong Shen,2014,10.1080/02626667.2014.916406,own-SHM,68,groundwater depletion rate of 17.0 ± 4.3 mm year-1 (5.5 ± 1.4 km3 year-1) from GRGS_RL02,depleting,regex
+358,north_china_plain,Shuang Yi,2016,10.1002/2015jb012608,own-SHM,68,"mass loss in Huang-Huai-Hai-Liao River Basin (-10.2 ± 0.9 Gt/yr), Brahmaputra-Nujiang-Lancang River Basin (-15.0 ± 1.1 Gt/yr), and Tienshan Mountain (-4.1 ± 0.3 Gt/yr)",depleting,regex
+359,north_china_plain,Linsong Wang,2017,10.5194/hess-21-2905-2017,own-SHM,61,"TWS loss rate 3.39 cm/yr (2003-2009), GWS loss rate 2.49 cm/yr (2003-2009)",depleting,regex
+360,north_china_plain,Jun Liu,2021,10.1016/j.jhydrol.2021.126933,mascon,59,TWS declined significantly over the past decades (−1.04 ± 0.05 cm/yr in 2004 to 2020),depleting,regex
+361,north_china_plain,Yi Xu,2021,10.1016/j.jag.2021.102560,mascon,57,average decline rate of 12.46 mm/yr,depleting,regex
+362,north_china_plain,Li‐Ling Chang,2020,10.1029/2020wr027102,own-SHM,56,drylands lost ~15.9 ± 9.1 mm of water,depleting,regex
+363,north_china_plain,Wanqiu Li,2019,10.3390/s19194144,own-SHM,54,,,empty
+364,north_china_plain,Jiming Guo,2016,10.3390/s16091495,own-SHM,51,groundwater decreases at a rate of 5.3 mm/year (in terms of EWH),depleting,regex
+365,north_china_plain,Wenjie Yin,2020,10.1016/j.jhydrol.2020.125348,downstream-use,50,groundwater depletion,depleting,regex
+367,north_china_plain,Hao‐jie Xu,2021,10.1016/j.wace.2021.100393,mascon,47,"TWS decreased in all seasons across arid, semi-arid and sub-humid regions",depleting,regex
+368,north_china_plain,Wenjie Yin,2017,10.1155/2017/8254824,downstream-use,46,mean annual depletion rate of groundwater storage in the Northern China was approximately 1.70 billion m3 yr−1 from 2003 to 2012,depleting,regex
+369,north_china_plain,Youzhe Su,2020,10.3390/s20030922,mascon,44,GWS depleted at a rate of -1.14 ± 0.89 cm/y,depleting,regex
+370,north_china_plain,Renli Liu,2014,10.3390/s141019861,own-SHM,43,groundwater depletion rate of 2.26 ± 0.3 cm/year from 2003 to 2010,depleting,regex
+371,north_china_plain,Renli Liu,2018,10.3390/rs10020259,own-SHM,43,groundwater depletion in NCP has slowed in recent years,depleting,regex
+372,north_china_plain,Renli Liu,2022,10.1016/j.ejrh.2022.101085,own-SHM,43,GWS depleted at rates of −1.66 ± 0.17 cm/yr and −2.76 ± 0.55 cm/yr for subperiods of 2003–2014 and 2015–2020,depleting,regex
+373,north_china_plain,Qingping Liu,2024,10.1016/j.ecolind.2024.111925,mascon,43,the average rate of decline in the GWSA is −11.97 mm/a,depleting,regex
+374,north_china_plain,Juana P. Moiwo,2012,10.1002/hyp.9276,own-SHM,41,storage loss that is on the average of 16.8 mm/yr,depleting,regex
+375,north_china_plain,Gangqiang Zhang,2020,10.3390/s21010046,downstream-use,41,,,empty
+376,north_china_plain,Jianxin Zhang,2020,10.3390/rs12050845,mascon,40,The largest decrease was –7.98 cm/a in southeastern Tibet.,depleting,regex
+377,north_china_plain,Xiaoli Su,2011,10.1007/s11430-011-4280-4,own-SHM,38,TWS declining at a rate of -1.1 cm/yr,depleting,regex
+378,north_china_plain,Xueliang Zhang,2022,10.1016/j.jhydrol.2022.127799,own-SHM,38,shallow GWS depletion rate of -131 ± 25 mm/a from GRACE,depleting,regex
+379,north_china_plain,Juana P. Moiwo,2011,10.1080/02626667.2011.553617,own-SHM,36,overall storage loss in the basin,depleting,regex
+380,north_china_plain,Longqun Zheng,2020,10.3390/rs12132151,mascon,35,"GWS depleted in NCP at -17.2 ± 0.8 mm/yr, increased in NECP at 2.3 ± 0.7 mm/yr",mixed,regex
+381,north_china_plain,Yifan Shen,2021,10.1109/access.2021.3049118,own-SHM,31,,,empty
+382,north_china_plain,Jianhua Wang,2014,10.1155/2014/578372,downstream-use,30,"multiyear drought began in mid-2007, extreme drought events at end of 2007, end of 2009, end of 2010, and middle of 2012",depleting,regex
+383,north_china_plain,Shuya Li,2019,10.1016/j.geog.2019.05.002,own-SHM,29,,,empty
+384,north_china_plain,Yi Guo,2022,10.3390/su14031108,mascon,26,"mean rate of 1.88 cm·yr−1, equivalent to 6 billion m3·yr−1",depleting,regex
+385,north_china_plain,Yulong Zhong,2023,10.1029/2022wr033261,mascon,26,"TWS shows a significant decrease in the Tien Shan Mountains, the southeastern part of the Tibetan Plateau, and the North China Plain",depleting,regex
+386,north_china_plain,Fangfang Liu,2021,10.3390/w13172378,downstream-use,25,"groundwater depletion rates of -10.09 ± 0.94, -10.05 ± 1.05, and -4.91 ± 0.28 mm y-1 in North China, Loess Plateau, and Northwest China, respectively",depleting,regex
+387,north_china_plain,Chunxiu Shao,2023,10.3390/atmos14020250,mascon,25,GWSA in North China Plain decreased at -7.35 mm/a,depleting,regex
+388,north_china_plain,Meixia Lv,2020,10.1175/jhm-d-20-0095.1,mascon,24,TWS depletion in the Hai River basin and North China Plain,depleting,regex
+389,north_china_plain,Zhiwei Chen,2021,10.3390/rs13091851,own-SHM,23,"TWS of Yellow, Haihe, Huaihe, and Southwestern River Basins decreasing; most drastic TWS loss in Haihe River Basin",depleting,regex
+390,north_china_plain,Yuyue Xu,2023,10.1029/2022wr034365,downstream-use,21,TWSA decreased at -8.84 ± 0.37 mm/yr from 2002 to 2020,depleting,regex
+391,north_china_plain,Congcong Li,2023,10.1029/2022jd038074,mascon,20,"TWS decreased in Hai River, Yellow River, and Huai River basins; increased in other basins",mixed,regex
+392,north_china_plain,Peijun Li,2021,10.1016/j.ejrh.2021.100955,mascon,17,"SGWS decreases faster before 2009 and then reduces slower and keeps stable while DGWS decreases faster after 2009, especially after 2012.",depleting,regex
+393,north_china_plain,Yifan Shen,2022,10.3390/rs14225683,mascon,17,,,empty
+394,north_china_plain,Jinghua Xiong,2022,10.1111/gwat.13253,downstream-use,16,groundwater depletion at a significant rate of -17.09 ± 1.80 (SH) and -17.87 ± 1.65 (mascon) mm/a during 2004 to 2014,depleting,regex
+395,north_china_plain,Bowen Zhu,2018,10.2166/nh.2018.087,downstream-use,15,water storage deficit of up to 25 km3 (~22 mm),depleting,regex
+396,north_china_plain,Yuhao Xiong,2025,10.1029/2024wr038996,own-SHM,11,"Groundwater depletion rate in the North China Plain is 2.43 ± 0.18 cm/yr, equivalent to 3.35 ± 0.25 Gt/yr",depleting,regex
+397,north_china_plain,Jia Huang,2023,10.3390/atmos14060961,mascon,10,,,empty
+398,north_china_plain,Junchao Zhang,2023,10.3390/rs15133264,mascon,10,groundwater storage decline of 1.89 cm/yr from 2003 to 2020,depleting,regex
+399,north_china_plain,Yu Yin,2023,10.1007/s00704-023-04441-0,mascon,9,,,empty
+400,north_china_plain,Tingye Tao,2023,10.1134/s0097807823010153,own-SHM,8,GWS decline rate of -2.94 cm/year,depleting,regex
+401,north_china_plain,Peijun Li,2023,10.1016/j.ejrh.2023.101528,mascon,8,,,empty
+402,north_china_plain,Zhao-huan Huang,2025,10.26599/jgse.2025.9280040,mascon,7,groundwater storage decline rate of -18.69 mm/a in the North China Plain from 2002 to 2022,depleting,regex
+403,north_china_plain,LI Zhen,2018,10.11947/j.agcs.2018.20170171,own-SHM,6,terrestrial water storage trend of (-2.0±0.6) mm/a over the study period,depleting,regex
+404,north_china_plain,Huixiang Li,2024,10.1029/2023wr035210,own-SHM,6,−32.6 ± 1.3 mm/yr (−4.6 ± 0.2 km³/yr) in NCP,depleting,regex
+405,north_china_plain,Zhi Ming Zhu,2024,10.1109/jstars.2024.3507853,own-SHM,6,,,empty
+406,north_china_plain,Rui Zhang,2024,10.1007/s10291-024-01794-5,mascon,5,"GWSA trends: -2.56±0.33 mm/yr (2011-2017), -4.72±1.74 mm/yr (2018-2020), 11.76±4.18 mm/yr (2021-2022)",depleting,regex
+407,north_china_plain,Yalin Ma,2024,10.1029/2023wr036105,own-SHM,5,unconfined GW depletion rate in PP (−41.80 ± 0.55 mm/yr) about 6 times larger than that in ECP (−7.57 ± 0.60 mm/yr),depleting,regex
+408,north_china_plain,Shaoyi Lu,2024,10.1038/s41598-024-67611-8,mascon,5,,,empty
+409,north_china_plain,Karen An,2015,,downstream-use,4,-2.03 cm/yr water loss for 2002-2014,depleting,regex
+410,north_china_plain,Jiancheng Han,2024,10.1038/s43247-024-01209-w,downstream-use,3,,,empty
+411,north_china_plain,Bowen Zhu,2016,10.5194/hess-2016-313,own-SHM,2,water storage deficit of up to 25 km3 (~22 mm),depleting,regex
+412,north_china_plain,X. Mo,2015,10.5194/nhessd-3-3251-2015,downstream-use,2,TWS decreased linearly in the Huai River basin (−0.56 cm yr−1),depleting,regex
+413,north_china_plain,Chuanxun Yang,2022,10.3389/fenvs.2022.840540,mascon,2,,,empty
+414,north_china_plain,Chenxu Zhu,2023,10.3390/w15132343,own-SHM,2,"TWS in the North China Plain from 2002 to 2015 was (−8.48 ± 1.87) Gt/a, and from 2015 to 2019 increased to (5.44 ± 4.87) Gt/a",depleting,regex
+415,north_china_plain,Vibhor Agarwal,2025,10.2139/ssrn.5105505,own-SHM,2,NCP lost -5.3 ± 0.6 km3 yr-1 of GWS from 2005 to 2013,depleting,regex
+416,north_china_plain,Tao Chen,2025,10.1093/gji/ggaf407,mascon,1,,,empty
+417,north_china_plain,Shoaib Ali,2025,10.1007/s41748-025-00976-6,mascon,1,"groundwater depletion in the Piedmont Plain and East-Central Plain, with most severe losses in Shijiazhuang (−17.08 mm/yr), Xingtai (−16.67 mm/yr), and Handan (−16.02 mm/yr)",depleting,regex
+418,north_china_plain,Hao Zhang,2025,10.1111/gwat.13497,mascon,1,GWS recovery in the NCP occurred in December 2020,recovering,regex
+419,north_china_plain,Jifei Li,2025,10.3390/rs17162785,mascon,1,average annual reduction of −17.27 ± 1.4 mm/yr,depleting,regex
+420,north_china_plain,Linsong Wang,2016,10.5194/hess-2016-552-supplement,own-SHM,0,,,empty
+421,north_china_plain,Vibhor Agarwal,2025,10.2139/ssrn.5105509,own-SHM,0,NCP lost -5.3 ± 0.6 km3 yr-1 of GWS from 2005 to 2013,depleting,regex
+422,north_china_plain,Xincheng Wang,2025,10.3390/rs17193336,mascon,0,"groundwater storage in the NCP exhibited a declining trend, with an average reduction of −3.81 ± 0.53 km3/a",depleting,regex
+423,north_china_plain,Yijun Li,2026,10.1016/j.ejrh.2026.103103,mascon,0,GWSA decline of -17.81 ± 3.31 mm/yr,depleting,regex
+424,north_china_plain,Tingye Tao,2026,10.3390/w18030357,mascon,0,"GWSC declined at an average rate of -1.99 ± 0.13 cm/yr from 2003 to 2020, then recovered at 2.99 ± 1.64 cm/yr from 2021 to 2024",mixed,regex
+425,north_china_plain,Zhenyue Han,2026,10.1029/2025wr042085,downstream-use,0,declining trend of 15.48 mm/yr in the NCP from 2003 to 2023,depleting,regex
+427,seed-untagged,K. Voss,2013,10.1002/wrcr.20078,own-SHM,785,groundwater loss of 17.3±2.1 mm/yr equivalent water height,depleting,regex

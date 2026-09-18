@@ -1,0 +1,74 @@
+Study_area,climate_zone,area_km2,abs_GRACE_trend,dominance_R,sign_agree,spans_zero,n_lit_papers,regime
+Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),humid,318913,0.415123030830478,0.266223733653163,1,FALSE,0,A: policy-grade
+Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),arid,107715,0.16639946075655,1.3123269911502,0.901041666666667,TRUE,6,B: cannot adjudicate sign
+Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),humid,50216,0.0909482961015654,4.67035708772512,0.6171875,TRUE,0,D: latent hazard
+Canning Basin,semi-arid,130597,0.0267579736715719,9.03151695514119,0.5734375,TRUE,1,B: cannot adjudicate sign
+Central Allegheny Plateau (Appalachian Plateaus),humid,52939,0.0827299404378283,6.2282567492936,0.594270833333333,TRUE,0,D: latent hazard
+Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),semi-arid,81286,0.473016268224053,0.495365572872284,1,FALSE,0,A: policy-grade
+Central Eromanga Depocenter (Great Artesian Basin),arid,214471,0.0624164133262279,3.35955604376391,0.615625,TRUE,6,B: cannot adjudicate sign
+Central Eucla Basin (Eucla Basin),arid,63315,0.102168440629784,2.23356880786987,0.698958333333333,TRUE,0,D: latent hazard
+Central High Plains (High Plains),semi-arid,71803,0.925677987272022,1.30278772180904,0.975,TRUE,9,B: cannot adjudicate sign
+Central Huaihe Plain (Huaihe River Basin),humid,79573,0.380302814072964,1.40752358262916,0.928125,TRUE,2,B: cannot adjudicate sign
+Central Karoo Basin (Main Karoo Basin),semi-arid,128536,0.130066806479593,1.11399025767367,0.891145833333333,TRUE,1,B: cannot adjudicate sign
+Central Minnesota Surficial and Buried Sand and Gravel Aquifers,humid,75252,0.322508266934809,2.39878827089366,0.705208333333333,TRUE,0,D: latent hazard
+Central Mississippi Embayment (Mississippi Embayment),humid,89580,0.157514679435668,2.32557442257509,0.696354166666667,TRUE,8,B: cannot adjudicate sign
+Central Parana Basin and Torres Syncline (Guarani Aquifer System),humid,494871,0.140169909668078,1.86255424481883,0.7328125,TRUE,5,B: cannot adjudicate sign
+Central Piedmont Upland (Piedmont Plateau),humid,57273,0.0172610091966411,25.2137577004876,0.5234375,TRUE,0,D: latent hazard
+Coonamble Embayment (Great Artesian Basin),semi-arid,65411,0.246061382895791,0.911212854681181,0.978125,TRUE,6,B: cannot adjudicate sign
+Dakota Aquifer System,semi-arid,110336,0.269654488032693,1.61537577007504,0.790625,TRUE,0,D: latent hazard
+Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),humid,55195,0.432227400416268,1.03645803827182,0.840104166666667,TRUE,0,D: latent hazard
+Eastern Carrizo-Wilcox (Carrizo-Wilcox),humid,57217,0.0647123105304513,5.60966665843595,0.5859375,TRUE,0,D: latent hazard
+Eastern Eromanga Basin (Great Artesian Basin),arid,290867,0.000896614176085025,236.39179981225,0.5015625,TRUE,6,B: cannot adjudicate sign
+Eastern Huaihe Plain (Huaihe River Basin),dry sub-humid,61827,0.373853142742331,0.921380363515391,0.954166666666667,TRUE,2,B: cannot adjudicate sign
+Eastern Mississippi Embayment (Mississippi Embayment),humid,60634,0.116473772792321,3.53082304424355,0.659895833333333,TRUE,8,B: cannot adjudicate sign
+Eastern Parecis Basin (Parecis Basin),humid,118059,0.394565900458619,0.476049765193929,0.977604166666667,TRUE,0,D: latent hazard
+Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),humid,117926,0.163550668938176,0.990478081195883,0.808333333333333,TRUE,0,D: latent hazard
+Eastern Saq Aquifer (Ram-Saq Aquifer System),arid,67601,0.903862897409159,1.06823010446817,1,FALSE,0,C: magnitude unresolved
+Eastside Lower Indus Valley (Indus Basin),arid,57275,0.0224463816567225,38.3715522836576,0.517708333333333,TRUE,10,B: cannot adjudicate sign
+Eastside Middle Indus Plain (Indus Basin),arid,53045,1.33836639147945,0.336860252268699,1,FALSE,10,A: policy-grade
+Edwards Plateau (Edwards-Trinity Aquifer System),semi-arid,58050,0.575857367385143,0.584237943391895,1,FALSE,0,A: policy-grade
+Jiangsu Coastal Plain (Huaihe River Basin),humid,56925,0.0253877350755101,9.60842253121076,0.5640625,TRUE,2,B: cannot adjudicate sign
+Lafayette Area (Gulf Coast Regional Aquifer System),humid,65824,0.131208618680273,2.49649521429734,0.709895833333333,TRUE,0,D: latent hazard
+Lower Liaohe River Plain (Liaohe River Basin),dry sub-humid,69968,0.0190795339737342,10.5275883613909,0.565104166666667,TRUE,1,B: cannot adjudicate sign
+Michigan Basin,humid,62295,0.617960717341416,0.892115284418705,0.9578125,TRUE,1,B: cannot adjudicate sign
+Middle Gangetic Plain (Indo-Gangetic Plain),humid,145648,0.679511921412401,0.351330745525744,1,FALSE,21,A: policy-grade
+Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),semi-arid,64955,0.153836064560225,1.35522050691012,0.838020833333333,TRUE,6,B: cannot adjudicate sign
+Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),humid,87887,0.198257777677929,2.5785850385606,0.694270833333333,TRUE,0,D: latent hazard
+Northcentral Deccan Basalt Plateau (Deccan Plateau),semi-arid,53372,0.72592779553151,0.521209679725134,1,FALSE,0,A: policy-grade
+Northcentral Mega Aquifer System (Mega Aquifer System),arid,179365,0.323156708316219,0.878760631572988,0.913541666666667,TRUE,7,B: cannot adjudicate sign
+Northeastern Karoo Basin (Main Karoo Basin),semi-arid,52358,0.0746846502039183,2.46384154522495,0.707291666666667,TRUE,1,B: cannot adjudicate sign
+Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),semi-arid,61216,0.585606441758706,0.443632710877063,1,FALSE,0,A: policy-grade
+Northern Eromanga Basin (Great Artesian Basin),arid,281571,0.00640447829893632,29.9739726487645,0.515104166666667,TRUE,6,B: cannot adjudicate sign
+Northern Georgina Basin (Daly-Wiso-Georgina Basins),semi-arid,116661,0.411427033561069,0.931718811069274,1,FALSE,0,A: policy-grade
+Northern Guarani Aquifer (Guarani Aquifer System),humid,419237,0.923266831404929,0.44894544541169,1,FALSE,5,A: policy-grade
+Northern High Plains (High Plains),semi-arid,259376,0.243483955430572,2.11049017493935,0.725520833333333,TRUE,9,B: cannot adjudicate sign
+Northern Karoo Basin (Main Karoo Basin),semi-arid,89072,0.168308182130551,1.19478895173247,0.943229166666667,TRUE,1,B: cannot adjudicate sign
+Northern Mega Aquifer System (Mega Aquifer System),arid,143434,0.597604505668763,0.54409870982423,0.96875,TRUE,7,B: cannot adjudicate sign
+Ozark Plateaus Aquifer System,humid,172612,0.226562370543875,1.92785162020212,0.743229166666667,TRUE,1,B: cannot adjudicate sign
+Paskapoo-Scollard,humid,65768,0.322977990667825,1.77885763531139,0.847916666666667,TRUE,0,D: latent hazard
+Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),arid,292840,0.0969105778390422,2.19331766414364,0.758854166666667,TRUE,6,B: cannot adjudicate sign
+Powder River Basin (Northern Great Plains),semi-arid,63642,0.378713261224424,1.43357210176718,0.7578125,TRUE,0,D: latent hazard
+Rio Grande Delta (Gulf Coast Regional Aquifer System),semi-arid,62984,0.287591680837426,1.18552796829587,0.905729166666667,TRUE,0,D: latent hazard
+Southcentral Deccan Basalt Plateau (Deccan Plateau),semi-arid,57686,0.632182593004266,0.40978985933077,1,FALSE,0,A: policy-grade
+Southcentral Karoo Basin (Main Karoo Basin),arid,72357,0.0538420201211052,2.99881457899854,0.694791666666667,TRUE,1,B: cannot adjudicate sign
+Southcentral Mega Aquifer System (Mega Aquifer System),hyper-arid,89916,0.175576451680655,1.60148780410163,0.820833333333333,TRUE,7,B: cannot adjudicate sign
+Southeastern System (Amadeus Basin),arid,59372,0.305718118846323,0.913809811350093,0.949479166666667,TRUE,0,D: latent hazard
+Southern Carpentaria Basin (Great Artesian Basin),semi-arid,124001,0.139763098574614,1.2759131019775,0.872395833333333,TRUE,6,B: cannot adjudicate sign
+Southern High Plains (High Plains),semi-arid,74884,1.04739968979984,0.72661451040589,1,FALSE,9,A: policy-grade
+Southern Piedmont Upland (Piedmont Plateau),humid,61856,0.136574924971916,2.77744187206896,0.668229166666667,TRUE,0,D: latent hazard
+Southern Riverine Plains (Murray Basin),semi-arid,51599,0.163764807769407,1.46794352607052,0.7890625,TRUE,8,B: cannot adjudicate sign
+Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),humid,330826,0.0613319041004562,3.33392727478828,0.642708333333333,TRUE,5,B: cannot adjudicate sign
+Stampriet Kalahari Karoo Aquifer System,arid,194772,0.14657153669516,0.764370885482862,0.982291666666667,TRUE,0,D: latent hazard
+Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),dry sub-humid,81429,0.190940654233997,0.884714317059977,0.983333333333333,TRUE,6,B: cannot adjudicate sign
+Trans Gangetic Plain (Indo-Gangetic Plain),semi-arid,100322,2.62935643400395,1.04876714026603,1,FALSE,21,C: magnitude unresolved
+Trinity Aquifer System (Edwards-Trinity Aquifer System),dry sub-humid,67070,0.250586903040339,1.32848756947751,0.865625,TRUE,0,D: latent hazard
+Upper Gangetic Plain (Indo-Gangetic Plain),dry sub-humid,199268,1.64727931435758,0.546493322075433,1,FALSE,21,A: policy-grade
+Wadi As-Sirhan Basin,hyper-arid,68037,0.997607919319854,0.41547564149834,1,FALSE,0,A: policy-grade
+Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),humid,59488,0.189889461300216,3.01410374774765,0.658333333333333,TRUE,0,D: latent hazard
+Western Karoo Basin (Main Karoo Basin),arid,146433,0.0706391884285275,1.8353251515197,0.797916666666667,TRUE,1,B: cannot adjudicate sign
+Western Parecis Basin (Parecis Basin),humid,213494,0.411288742197094,0.27235159238561,1,FALSE,0,A: policy-grade
+Western Surat Basin (Great Artesian Basin),semi-arid,65684,0.0559186726429756,3.81522286484713,0.6453125,TRUE,6,B: cannot adjudicate sign
+Williston Basin (Northern Great Plains),semi-arid,242272,0.188787618685333,2.61770002641523,0.714583333333333,TRUE,0,D: latent hazard
+Wisconsin Precambrian Aquifer,humid,65963,0.480391543281934,0.824581771639572,0.991666666666667,TRUE,0,D: latent hazard
+Wiso Basin (Daly-Wiso-Georgina Basins),semi-arid,116966,0.409525770672694,1.35182568666013,0.996875,TRUE,0,D: latent hazard
+Wuyuer-Shuangyang System (Songnen Plain),semi-arid,63713,0.523739257914844,0.848454189368361,1,FALSE,0,A: policy-grade
