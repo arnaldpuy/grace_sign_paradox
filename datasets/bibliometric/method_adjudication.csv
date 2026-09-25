@@ -1,0 +1,55 @@
+paper_id,first_author,year,axis,stated,action,levels,note
+9,Othman Fallatah,2017,filter,G200,unsupported,"",filter radius or DDK level not in the recipe space
+18,Hussein A. Mohasseb,2024,filter,Swenson-Wahr destriping,restrict,Swenson_G300;Swenson_G500,destriping of the Swenson and Wahr family with no smoothing radius stated
+90,Julia Pfeffer,2022,filter,diffusive filter with Daley length scales of 200 and 300 km,unsupported,"",filter radius or DDK level not in the recipe space
+91,Vanessa da Conceição Osório,2021,truncation,70,unsupported,"",maximum degree not in the recipe space
+92,Everton Pereira Bomfim,2007,truncation,multiple: 120 and 150,unsupported,"",maximum degree not in the recipe space
+97,Laurent Longuevergne,2010,filter,modified Swenson-Wahr destriping + cosine taper (degrees 30-50),unsupported,"",stated treatment cannot be identified with any level of the recipe space
+101,Gil Strassberg,2009,gia_model,Paulson_2007,unsupported,"",GIA model not in the recipe space
+108,Md. Mafuzur Rahaman,2019,gia_model,Wahr and Zhong 2012,unsupported,"",GIA model not in the recipe space
+114,Hansheng Wang,2021,centre,ITSG,unsupported,"",processing centre not in the recipe space
+114,Hansheng Wang,2021,filter,G220,unsupported,"",filter radius or DDK level not in the recipe space
+114,Hansheng Wang,2021,gia_model,GNSS-based,unsupported,"",GIA model not in the recipe space
+114,Hansheng Wang,2021,truncation,90,unsupported,"",maximum degree not in the recipe space
+131,Matthew Rodell,2009,filter,Swenson-Wahr destriping,restrict,Swenson_G300;Swenson_G500,destriping of the Swenson and Wahr family with no smoothing radius stated
+131,Matthew Rodell,2009,gia_model,Paulson et al. (2007),unsupported,"",GIA model not in the recipe space
+133,V. M. Tiwari,2009,filter,Swenson-Wahr destripe + G250,unsupported,"",filter radius or DDK level not in the recipe space
+138,Jianli Chen,2014,gia_model,A et al. (2013),unsupported,"",GIA model not in the recipe space
+153,Aarti Soni,2015,filter,G200,unsupported,"",filter radius or DDK level not in the recipe space
+164,Qiujie Chen,2020,centre,Tongji,unsupported,"",processing centre not in the recipe space
+164,Qiujie Chen,2020,filter,none,unsupported,"",stated treatment cannot be identified with any level of the recipe space
+164,Qiujie Chen,2020,truncation,180,unsupported,"",maximum degree not in the recipe space
+170,Ajish P. Saji,2020,centre,GRGS,unsupported,"",processing centre not in the recipe space
+170,Ajish P. Saji,2020,filter,destriping + G250,unsupported,"",filter radius or DDK level not in the recipe space
+170,Ajish P. Saji,2020,truncation,80,unsupported,"",maximum degree not in the recipe space
+177,Hua Xie,2020,centre,CNES-GRGS,unsupported,"",processing centre not in the recipe space
+177,Hua Xie,2020,truncation,50,unsupported,"",maximum degree not in the recipe space
+186,Natthachet Tangdamrongsub,2011,gia_model,Paulson et al. (2007),unsupported,"",GIA model not in the recipe space
+243,D. K. Panda,2015,filter,G350,unsupported,"",filter radius or DDK level not in the recipe space
+254,Naveed Iqbal,2017,filter,smoothing + decorrelation (methods not further specified),unsupported,"",stated treatment cannot be identified with any level of the recipe space
+260,Gulraiz Akhter,2021,filter,filtering + smoothing following Iqbal et al. (2016),unsupported,"",filter radius or DDK level not in the recipe space
+267,Vasaw Tripathi,2022,truncation,90,unsupported,"",maximum degree not in the recipe space
+279,Yahya Sattar,2021,filter,von Mises (Gaussian analogue) with κ=200,unsupported,"",filter radius or DDK level not in the recipe space
+279,Yahya Sattar,2021,truncation,61,unsupported,"",maximum degree not in the recipe space
+291,Matthew Rodell,2006,filter,optimized smoothing,unsupported,"",stated treatment cannot be identified with any level of the recipe space
+292,Benjamin F. Zaitchik,2008,truncation,120,unsupported,"",maximum degree not in the recipe space
+294,T. H. Syed,2005,filter,G1000,unsupported,"",filter radius or DDK level not in the recipe space
+294,T. H. Syed,2005,truncation,120,unsupported,"",maximum degree not in the recipe space
+297,Susanna Werth,2010,filter,basin-specific,unsupported,"",stated treatment cannot be identified with any level of the recipe space
+300,Mehdi Khaki,2020,centre,ITSG,unsupported,"",processing centre not in the recipe space
+300,Mehdi Khaki,2020,truncation,90,unsupported,"",maximum degree not in the recipe space
+302,Qiujie Chen,2019,centre,Tongji,unsupported,"",processing centre not in the recipe space
+302,Qiujie Chen,2019,filter,decorrelation,unsupported,"",stated treatment cannot be identified with any level of the recipe space
+322,Marc Leblanc,2009,centre,GRGS,unsupported,"",processing centre not in the recipe space
+322,Marc Leblanc,2009,truncation,50,unsupported,"",maximum degree not in the recipe space
+323,Maike Schumacher,2017,truncation,90,unsupported,"",maximum degree not in the recipe space
+328,Nicholas Brown,2010,centre,GRGS,unsupported,"",processing centre not in the recipe space
+328,Nicholas Brown,2010,filter,none,unsupported,"",stated treatment cannot be identified with any level of the recipe space
+328,Nicholas Brown,2010,truncation,50,unsupported,"",maximum degree not in the recipe space
+329,Maike Schumacher,2016,filter,DDK,restrict,DDK2;DDK3;DDK5;DDK7;DDK8,DDK filtering with no level stated
+329,Maike Schumacher,2016,truncation,90,unsupported,"",maximum degree not in the recipe space
+337,Stefanie Schmid,2010,truncation,120,unsupported,"",maximum degree not in the recipe space
+339,Marc Leblanc,2008,centre,GRGS,unsupported,"",processing centre not in the recipe space
+339,Marc Leblanc,2008,truncation,50,unsupported,"",maximum degree not in the recipe space
+341,Maike Schumacher,2025,filter,two-step filtering and leakage-reduction approach (Yang et al. 2024),unsupported,"",filter radius or DDK level not in the recipe space
+341,Maike Schumacher,2025,gia_model,applied (model unstated),restrict,Caron_2018;Geruo_ICE5G_VM2;Peltier_ICE6G_D,a glacial isostatic adjustment correction is applied but no model is named

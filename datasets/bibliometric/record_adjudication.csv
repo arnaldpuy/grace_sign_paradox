@@ -1,0 +1,12 @@
+paper_id,oa_id,doi,action,retained_paper_id,reason
+241,W1981130750,10.1016/j.gloplacha.2014.02.007,drop_alias,138,"Same article as record 138 (same OpenAlex identifier, footprint, window and claim). The study is of Northwest India, so the Indo-Gangetic Plain record is retained."
+233,W3093683794,10.1109/icassp39728.2021.9413591,drop_alias,279,"Same article as record 279 (same OpenAlex identifier, footprint, window and claim). The study is of the Indus River basin, so the Indus record is retained."
+207,W4295242112,10.5194/hess-26-4515-2022,drop_alias,267,"Same article as record 267 (same OpenAlex identifier, footprint, window and claim). The study is of the Indus River basin, so the Indus record is retained."
+134,W2061903993,10.1002/2014wr015595,drop_alias,2,"Same article as record 2 (same OpenAlex identifier, window and claim). The article is a global assessment whose quoted estimate is not specific to either region, so one record is retained."
+341,W4410760898,10.1038/s41598-025-01938-8,exclude_trend_risk,,"The quoted passage gives the share of storage change attributed to irrigation extraction, and the article describes both drying and wetting periods. It is not a claim about the sign of the 2003-2021 storage trend that is scored here."
+121,W2971369349,10.1111/1752-1688.12798,exclude_trend_risk,,The quoted passage gives the total-water-storage deficit of the September 2012 drought. It is not a claim about the sign of the 2003-2015 storage trend that is scored here.
+2,W2061903993,10.1002/2014wr015595,exclude_trend_risk,,The quoted estimate is a global modelled groundwater-depletion total for 2000-2009. It is not a regional satellite-gravity trend claim for the polygons scored here.
+87,W1977248758,10.1029/2010jd014689,exclude_trend_risk,,"The quoted passage gives a total-water-storage deficit below the seven-year mean, an anomaly rather than the direction of the trend that is scored here."
+96,W1731032083,10.1002/grl.50655,exclude_trend_risk,,"The quoted passage gives the storage depletion of the 2011 drought, an event total rather than the direction of the trend that is scored here."
+144,W2557321466,10.1175/jhm-d-16-0047.1,exclude_trend_risk,,"The quoted passage gives the peak storage deficit of January 2015, an anomaly rather than the direction of the trend that is scored here."
+337,W1547472719,10.18419/opus-3838,exclude_trend_risk,,"The quoted passage reports the detection of the 2006/07 drought, an event rather than the direction of the trend that is scored here."

@@ -1,0 +1,74 @@
+aquifer_idx,Study_area,n_cells,tau_true_cm_yr,tau_stipulated_cm_yr
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),181,-1.2679168697887213,-1.0
+1,Northern Guarani Aquifer (Guarani Aquifer System),141,-1.3888146820849938,-1.0
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),122,-1.2454073080066452,-1.0
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),101,-1.1091385928653341,-1.0
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),105,-1.0723627360512349,-1.0
+5,Eastern Eromanga Basin (Great Artesian Basin),106,-0.9599674702496398,-1.0
+6,Northern Eromanga Basin (Great Artesian Basin),99,-1.0271149296287683,-1.0
+7,Northern High Plains (High Plains),111,-1.0914735303427896,-1.0
+8,Williston Basin (Northern Great Plains),116,-1.0911821474881302,-1.0
+9,Central Eromanga Depocenter (Great Artesian Basin),78,-0.9521723208580167,-1.0
+10,Western Parecis Basin (Parecis Basin),71,-1.3888790327050962,-1.0
+11,Upper Gangetic Plain (Indo-Gangetic Plain),73,-0.9755693141982743,-1.0
+12,Stampriet Kalahari Karoo Aquifer System,73,-1.3333228416911846,-1.0
+13,Northcentral Mega Aquifer System (Mega Aquifer System),65,-1.0456590944637438,-1.0
+14,Ozark Plateaus Aquifer System,70,-1.0344949818158389,-1.0
+15,Western Karoo Basin (Main Karoo Basin),52,-1.1894206000516827,-1.0
+16,Middle Gangetic Plain (Indo-Gangetic Plain),53,-1.0704508398695616,-1.0
+17,Northern Mega Aquifer System (Mega Aquifer System),54,-1.008358465753305,-1.0
+18,Canning Basin,47,-1.0738562243866625,-1.0
+19,Central Karoo Basin (Main Karoo Basin),49,-1.2613641268172304,-1.0
+20,Southern Carpentaria Basin (Great Artesian Basin),44,-1.069609283296943,-1.0
+21,Eastern Parecis Basin (Parecis Basin),38,-1.2758575003246637,-1.0
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),41,-1.097548742948379,-1.0
+23,Wiso Basin (Daly-Wiso-Georgina Basins),40,-1.190896808686474,-1.0
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),41,-1.2388987094435149,-1.0
+25,Dakota Aquifer System,51,-1.120918964378463,-1.0
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),39,-1.0457147745689093,-1.0
+27,Trans Gangetic Plain (Indo-Gangetic Plain),40,-0.782881080741056,-1.0
+28,Southcentral Mega Aquifer System (Mega Aquifer System),32,-0.9011867877782467,-1.0
+29,Central Mississippi Embayment (Mississippi Embayment),36,-1.2076643710808728,-1.0
+30,Northern Karoo Basin (Main Karoo Basin),32,-1.3007719349600135,-1.0
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),36,-1.2037508366768115,-1.0
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),25,-1.0178626991912527,-1.0
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),27,-1.1132021598248447,-1.0
+34,Central Huaihe Plain (Huaihe River Basin),29,-1.0948785318839247,-1.0
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,38,-1.351819470018606,-1.0
+36,Southern High Plains (High Plains),30,-1.1274215863688015,-1.0
+37,Southcentral Karoo Basin (Main Karoo Basin),27,-1.167860572129233,-1.0
+38,Central High Plains (High Plains),28,-1.0994594110479339,-1.0
+39,Lower Liaohe River Plain (Liaohe River Basin),29,-0.585288442265714,-1.0
+40,Wadi As-Sirhan Basin,25,-0.7473947971876329,-1.0
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),25,-0.9675702389667059,-1.0
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),25,-1.2119034759537348,-1.0
+43,Wisconsin Precambrian Aquifer,29,-1.185441398636813,-1.0
+44,Lafayette Area (Gulf Coast Regional Aquifer System),26,-1.0964870220754857,-1.0
+45,Paskapoo-Scollard,36,-1.3021585797359592,-1.0
+46,Western Surat Basin (Great Artesian Basin),23,-1.03579365719277,-1.0
+47,Coonamble Embayment (Great Artesian Basin),25,-0.9290126782905136,-1.0
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),22,-1.1464632025942343,-1.0
+49,Wuyuer-Shuangyang System (Songnen Plain),29,-0.4716785896402851,-1.0
+50,Powder River Basin (Northern Great Plains),29,-1.0458001690568233,-1.0
+51,Central Eucla Basin (Eucla Basin),23,-1.0867268802002379,-1.0
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),21,-1.2999505803899218,-1.0
+53,Michigan Basin,25,-1.326290616901996,-1.0
+54,Southern Piedmont Upland (Piedmont Plateau),24,-1.0146733530625844,-1.0
+55,Eastern Huaihe Plain (Huaihe River Basin),26,-0.9595984841142563,-1.0
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),22,-1.0390331288951267,-1.0
+57,Eastern Mississippi Embayment (Mississippi Embayment),22,-1.110637624111784,-1.0
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),28,-1.084697693432997,-1.0
+59,Southeastern System (Amadeus Basin),22,-1.1614059741848284,-1.0
+60,Edwards Plateau (Edwards-Trinity Aquifer System),22,-1.3601017578300902,-1.0
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),18,-0.9966609807435778,-1.0
+62,Eastside Lower Indus Valley (Indus Basin),21,-0.789772535827599,-1.0
+63,Central Piedmont Upland (Piedmont Plateau),22,-1.0923501874931216,-1.0
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),21,-1.02789702036144,-1.0
+65,Jiangsu Coastal Plain (Huaihe River Basin),21,-0.9414222616021748,-1.0
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),22,-1.1415853294174234,-1.0
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),19,-0.9730091380541861,-1.0
+68,Eastside Middle Indus Plain (Indus Basin),19,-0.7839042531791068,-1.0
+69,Central Allegheny Plateau (Appalachian Plateaus),21,-1.1488459541275344,-1.0
+70,Northeastern Karoo Basin (Main Karoo Basin),20,-1.4198198231827512,-1.0
+71,Southern Riverine Plains (Murray Basin),19,-0.8749066197501411,-1.0
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),20,-1.0555827115117646,-1.0

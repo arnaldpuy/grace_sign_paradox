@@ -1,0 +1,74 @@
+aquifer_idx,Study_area,n_cells,tau_true_cm_yr,tau_stipulated_cm_yr
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),181,-0.6379711750216371,-0.3085
+1,Northern Guarani Aquifer (Guarani Aquifer System),141,-1.0883002150568657,-0.1315
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),122,-0.8891011788426814,-0.3266
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),101,-1.3446733122333292,-1.3532
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),105,-0.25099119032025036,-0.1957
+5,Eastern Eromanga Basin (Great Artesian Basin),106,-0.8025248937906577,-0.8111
+6,Northern Eromanga Basin (Great Artesian Basin),99,-2.0564355729604102,-2.6775
+7,Northern High Plains (High Plains),111,-0.2461857914538224,-0.2914
+8,Williston Basin (Northern Great Plains),116,-0.751801182589789,-0.7239
+9,Central Eromanga Depocenter (Great Artesian Basin),78,-1.6561008123448782,-1.9035
+10,Western Parecis Basin (Parecis Basin),71,-1.1549690184453079,-1.141
+11,Upper Gangetic Plain (Indo-Gangetic Plain),73,-1.1624061987554708,-1.6989
+12,Stampriet Kalahari Karoo Aquifer System,73,0.2218282804222159,-0.0788
+13,Northcentral Mega Aquifer System (Mega Aquifer System),65,-0.08626538119873134,-0.1473
+14,Ozark Plateaus Aquifer System,70,-1.6045668517117213,-2.0149
+15,Western Karoo Basin (Main Karoo Basin),52,-2.31805317678625,-3.0
+16,Middle Gangetic Plain (Indo-Gangetic Plain),53,-0.07965017964500931,-0.05
+17,Northern Mega Aquifer System (Mega Aquifer System),54,-0.14360795400134194,-0.1392
+18,Canning Basin,47,-0.3042578527270157,-0.5448
+19,Central Karoo Basin (Main Karoo Basin),49,-0.23208024667903,-0.1173
+20,Southern Carpentaria Basin (Great Artesian Basin),44,-0.014730673778757468,-0.1747
+21,Eastern Parecis Basin (Parecis Basin),38,-1.1283679944548584,-1.0183
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),41,-0.9411453867232182,-0.4593
+23,Wiso Basin (Daly-Wiso-Georgina Basins),40,-0.762199520061697,-0.8586
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),41,-0.09235880855479157,-0.0834
+25,Dakota Aquifer System,51,-0.10042600784298159,-0.2072
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),39,-0.028659870601078188,-0.0883
+27,Trans Gangetic Plain (Indo-Gangetic Plain),40,-0.7432767718361359,-1.0779
+28,Southcentral Mega Aquifer System (Mega Aquifer System),32,-0.4959028124433329,-0.2753
+29,Central Mississippi Embayment (Mississippi Embayment),36,-1.909015861771785,-2.5295
+30,Northern Karoo Basin (Main Karoo Basin),32,-0.10876372560266834,-0.0529
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),36,-0.13529043400880306,-0.2457
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),25,-0.5948746944063231,-1.4324
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),27,1.1051666000381375,-0.0703
+34,Central Huaihe Plain (Huaihe River Basin),29,-1.174320216510765,-0.6839
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,38,-1.0815463918787873,-1.2784
+36,Southern High Plains (High Plains),30,-0.5764639210957514,-0.3659
+37,Southcentral Karoo Basin (Main Karoo Basin),27,-1.1386148443253277,-1.2077
+38,Central High Plains (High Plains),28,-1.320170311118383,-1.7983
+39,Lower Liaohe River Plain (Liaohe River Basin),29,0.24785672616523582,-0.056
+40,Wadi As-Sirhan Basin,25,-0.3810855065070656,-0.0744
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),25,-1.0170713734534513,-1.5162
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),25,-0.16403455514211054,-0.1849
+43,Wisconsin Precambrian Aquifer,29,-0.024628879886066435,-0.165
+44,Lafayette Area (Gulf Coast Regional Aquifer System),26,-1.8369262692556207,-2.8342
+45,Paskapoo-Scollard,36,0.09663514543923077,-0.0593
+46,Western Surat Basin (Great Artesian Basin),23,-1.4918980279574887,-2.1328
+47,Coonamble Embayment (Great Artesian Basin),25,0.014358957522753438,-0.1242
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),22,-0.22734026958413828,-0.3873
+49,Wuyuer-Shuangyang System (Songnen Plain),29,0.30484603962603773,-0.4339
+50,Powder River Basin (Northern Great Plains),29,-0.22687968841457512,-0.3457
+51,Central Eucla Basin (Eucla Basin),23,-0.47801030841115877,-0.7663
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),21,-0.39523406413039547,-0.2322
+53,Michigan Basin,25,-0.05954411888520352,-0.0935
+54,Southern Piedmont Upland (Piedmont Plateau),24,-0.2411606653370579,-0.5147
+55,Eastern Huaihe Plain (Huaihe River Basin),26,-0.6828404818739917,-0.0628
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),22,0.6794112607384033,-0.1559
+57,Eastern Mississippi Embayment (Mississippi Embayment),22,-0.620959251667052,-0.4862
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),28,-0.3140486852792889,-0.6461
+59,Southeastern System (Amadeus Basin),22,-1.272040377470125,-1.6049
+60,Edwards Plateau (Edwards-Trinity Aquifer System),22,-0.20067470428244985,-0.0989
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),18,0.5174789427321131,-0.41
+62,Eastside Lower Indus Valley (Indus Basin),21,0.010822252611382567,-0.2601
+63,Central Piedmont Upland (Piedmont Plateau),22,-0.08239853873744672,-0.0664
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),21,-0.3040653420647947,-0.5767
+65,Jiangsu Coastal Plain (Huaihe River Basin),21,-1.644495606810066,-2.3897
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),22,-0.007487980540260981,-0.1047
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),19,0.4297111444586068,-0.1108
+68,Eastside Middle Indus Plain (Indus Basin),19,-1.1321905104977428,-2.2576
+69,Central Allegheny Plateau (Appalachian Plateaus),21,-0.7076220973545755,-0.962
+70,Northeastern Karoo Basin (Main Karoo Basin),20,-0.7467405304513847,-0.9089
+71,Southern Riverine Plains (Murray Basin),19,0.04209930491994724,-0.2193
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),20,-0.42930246980238623,-0.6104

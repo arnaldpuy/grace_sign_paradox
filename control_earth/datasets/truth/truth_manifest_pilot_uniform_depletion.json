@@ -1,0 +1,13 @@
+{
+  "planet_id": "pilot_uniform_depletion",
+  "spec_sha256": "34452e1b49d8f64accab9daa7bae157e1e88fbcd56b9083515d4b52d0264a5d9",
+  "truth_nc_sha256": "1465f4d52c0b76748e03fff7abd23fbb5261d3979ea8027d5ce699b70b838d4c",
+  "trends_csv_sha256": "7cb8f00b1bafc8a4ce88b4b5851dc1f8d1caf868c2767989a760f1061791bf53",
+  "n_months": 250,
+  "n_aquifers": 73,
+  "tau_true_range": [
+    -1.4198198231827512,
+    -0.4716785896402851
+  ],
+  "created": "2026-07-14T07:19:49.704245Z"
+}

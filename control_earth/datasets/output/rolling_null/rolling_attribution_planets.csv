@@ -1,0 +1,6 @@
+planet,n_aq,rec_flip,truth_flip,rec_flip_truth_flip,rec_flip_truth_stable,aq_any_wrong_window,windows,wrong_windows,wrong_windows_spanning,median_frac_wrong
+pilot_uniform_depletion_v2,73,62,27,26,36,60,1095,205,205,0.13333333333333333
+graded_floor_v2,73,72,54,53,19,70,1095,284,283,0.26666666666666666
+graded_floor_v3,73,69,47,46,23,69,1095,209,209,0.13333333333333333
+graded_balanced_v3,73,71,53,52,19,68,1095,278,278,0.2
+graded_balanced_v3_noise2,73,72,53,52,20,71,1095,287,285,0.2

@@ -1,0 +1,13 @@
+{
+  "planet_id": "graded_floor_v2",
+  "spec_sha256": "20c1fb9ce620ee7c685d2a940629ab1afebf34f14e62597427e482049387c178",
+  "truth_nc_sha256": "cd37392835040edda4248644eec85cdb8779f3215b34560ae2195a5876a7151c",
+  "trends_csv_sha256": "3a743b503a447ad2320f6ea9b852cb95046a34029d90926e585ccc25a2e16625",
+  "n_months": 250,
+  "n_aquifers": 73,
+  "tau_true_range": [
+    -2.2120400855878497,
+    1.9720531554289904
+  ],
+  "created": "2026-07-16T20:16:05.745907Z"
+}

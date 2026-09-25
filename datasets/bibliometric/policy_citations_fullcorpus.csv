@@ -1,0 +1,376 @@
+paper_id,regions,first_author,year,citations,paper_category,flagship,title,doi,n_policy_documents,n_news_mentions
+131,igp,Matthew Rodell,2009,2845,own-SHM,1,Satellite-based estimates of groundwater depletion in India,10.1038/nature08238,40,20
+427,seed-untagged,K. Voss,2013,785,own-SHM,1,Groundwater depletion in the Middle East from GRACE with implications for transboundary water management in the Tigris‐Euphrates‐Western Iran region,10.1002/wrcr.20078,12,13
+291,mississippi,Matthew Rodell,2006,699,own-SHM,1,Estimating groundwater storage changes in the Mississippi River basin (USA) using GRACE,10.1007/s10040-006-0103-7,12,0
+37,central_valley;high_plains,Bridget R. Scanlon,2012,1357,downstream-use,1,Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley,10.1073/pnas.1200311109,11,17
+2,arabian;igp,Petra Döll,2014,808,own-SHM,1,Global‐scale assessment of groundwater depletion and related groundwater abstractions: Combining hydrological modeling with information from well observations and GRACE satellites,10.1002/2014wr015595,11,9
+38,central_valley,J. S. Famiglietti,2011,959,own-SHM,1,Satellites measure recent rates of groundwater depletion in California's Central Valley,10.1029/2010gl046442,10,43
+132,igp,J. S. Famiglietti,2014,1799,downstream-use,1,The global groundwater crisis,10.1038/nclimate2425,9,32
+133,igp,V. M. Tiwari,2009,817,own-SHM,1,"Dwindling groundwater resources in northern India, from satellite gravity observations",10.1029/2009gl039401,7,0
+151,igp,Mohammad Shamsudduha,2020,83,mascon,0,Groundwater storage dynamics in the world's large aquifer systems from GRACE: uncertainty and role of extreme precipitation,10.5194/esd-11-755-2020,5,6
+99,high_plains,Matthew Rodell,2002,291,own-SHM,1,"The potential for satellite-based monitoring of groundwater storage changes using GRACE: the High Plains aquifer, Central US",10.1016/s0022-1694(02)00060-4,4,1
+290,mississippi,Yoshihide Wada,2014,873,non-GRACE,0,"Global modeling of withdrawal, allocation and consumptive use of surface water and groundwater resources",10.5194/esd-5-15-2014,3,1
+343,north_china_plain,Wei Feng,2013,838,own-SHM,0,Evaluation of groundwater depletion in North China using the Gravity Recovery and Climate Experiment (GRACE) data and ground‐based measurements,10.1002/wrcr.20192,3,0
+135,igp,Akarsh Asoka,2017,524,own-SHM,1,Relative contribution of monsoon precipitation and pumping to changes in groundwater storage in India,10.1038/ngeo2869,3,20
+292,mississippi,Benjamin F. Zaitchik,2008,489,downstream-use,1,Assimilation of GRACE Terrestrial Water Storage Data into a Land Surface Model: Results for the Mississippi River Basin,10.1175/2007jhm951.1,3,0
+322,murray,Marc Leblanc,2009,381,own-SHM,1,"Basin‐scale, integrated observations of the early 21st century multiyear drought in southeast Australia",10.1029/2008wr007333,3,0
+101,high_plains,Gil Strassberg,2009,219,own-SHM,0,"Evaluation of groundwater storage monitoring with the GRACE satellite: Case study of the High Plains aquifer, central United States",10.1029/2008wr006892,3,0
+426,central_valley;high_plains;igp;north_china_plain;murray,Frédéric Frappart,2018,317,review,0,Monitoring Groundwater Storage Changes Using the Gravity Recovery and Climate Experiment (GRACE) Satellite Mission: A Review,10.3390/rs10060829,2,0
+138,igp;indus,Jianli Chen,2014,270,own-SHM,1,Long-term groundwater variations in Northwest India from satellite gravity measurements,10.1016/j.gloplacha.2014.02.007,2,0
+294,mississippi,T. H. Syed,2005,209,own-SHM,1,Total basin discharge for the Amazon and Mississippi River basins from GRACE and a land‐atmosphere water balance,10.1029/2005gl024851,2,0
+61,central_valley,Hrishikesh A. Chandanpurkar,2025,26,mascon,0,"Unprecedented continental drying, shrinking freshwater availability, and increasing land contributions to sea level rise",10.1126/sciadv.adx0298,2,241
+39,central_valley,Bridget R. Scanlon,2012,444,own-SHM,1,"Ground referencing GRACE satellite estimates of groundwater storage changes in the California Central Valley, USA",10.1029/2011wr011312,1,0
+100,high_plains,Gil Strassberg,2007,230,own-SHM,0,Comparison of seasonal terrestrial water storage variations from GRACE with groundwater‐level measurements from the High Plains Aquifer (USA),10.1029/2007gl030139,1,0
+242,indus,Longwei Xiang,2016,189,own-SHM,1,Groundwater storage changes in the Tibetan Plateau and adjacent areas revealed from GRACE satellite gravity data,10.1016/j.epsl.2016.06.002,1,1
+43,central_valley,Michelle E. Miro,2018,143,downstream-use,0,Downscaling GRACE Remote Sensing Datasets to High-Resolution Groundwater Storage Change Maps of California’s Central Valley,10.3390/rs10010143,1,0
+87,guarani,Jianli Chen,2010,115,own-SHM,1,Recent La Plata basin drought conditions observed by satellite gravimetry,10.1029/2010jd014689,1,0
+45,central_valley,Chandrakanta Ojha,2019,93,mascon,0,Groundwater Loss and Aquifer System Compaction in San Joaquin Valley During 2012–2015 Drought,10.1029/2018jb016083,1,6
+5,arabian,Julian Xanke,2022,80,mascon,1,Quantification and possible causes of declining groundwater resources in the Euro-Mediterranean region from 2003 to 2020,10.1007/s10040-021-02448-3,1,1
+48,central_valley;high_plains;mississippi,Bridget R. Scanlon,2021,76,mascon,0,Effects of climate and irrigation on GRACE-based estimates of water storage changes in major US aquifers,10.1088/1748-9326/ac16ff,1,35
+49,central_valley,Elias Massoud,2018,75,downstream-use,0,Projecting groundwater storage changes in California’s Central Valley,10.1038/s41598-018-31210-1,1,1
+159,igp,Simon Opie,2020,52,mascon,0,Climate–groundwater dynamics inferred from GRACE and the role of hydraulic memory,10.5194/esd-11-775-2020,1,0
+54,central_valley,D. W. Vasco,2019,48,downstream-use,0,Satellite-based monitoring of groundwater depletion in California’s Central Valley,10.1038/s41598-019-52371-7,1,3
+374,north_china_plain,Juana P. Moiwo,2012,41,own-SHM,0,Analysis of satellite‐based and <i>in situ</i> hydro‐climatic data depicts water storage depletion in North China Region,10.1002/hyp.9276,1,0
+268,indus,Indira Bose,2021,7,mascon,0,Integrating Gravimetry Data With Thermal Infra‐Red Data From Satellites to Improve Efficiency of Operational Irrigation Advisory in South Asia,10.1029/2020wr028654,1,1
+95,high_plains,Di Long,2014,577,own-SHM,1,"Uncertainty in evapotranspiration from land surface modeling, remote sensing, and GRACE satellites",10.1002/2013wr014581,0,0
+96,high_plains,Di Long,2013,394,own-SHM,1,GRACE satellite monitoring of large depletion in water storage in response to the 2011 drought in Texas,10.1002/grl.50655,0,0
+97,high_plains,Laurent Longuevergne,2010,345,own-SHM,1,"GRACE Hydrological estimates for small basins: Evaluating processing approaches on the High Plains Aquifer, USA",10.1029/2009wr008564,0,0
+40,central_valley,Brian Thomas,2017,331,mascon,1,GRACE Groundwater Drought Index: Evaluation of California Central Valley groundwater drought,10.1016/j.rse.2017.06.026,0,0
+41,central_valley,Donald F. Argus,2014,320,downstream-use,1,Seasonal variation in total water storage in California inferred from GPS observations of vertical land motion,10.1002/2014gl059570,0,2
+137,igp,Di Long,2016,277,own-SHM,0,Have GRACE satellites overestimated groundwater depletion in the Northwest India Aquifer?,10.1038/srep24398,0,0
+344,north_china_plain,Zhiyong Huang,2015,265,own-SHM,0,Subregional‐scale groundwater depletion detected by GRACE for both shallow and deep aquifers in North China Plain,10.1002/2014gl062498,0,0
+345,north_china_plain,Xinxin Wang,2020,249,downstream-use,0,Gainers and losers of surface and terrestrial water resources in China during 1989–2016,10.1038/s41467-020-17103-w,0,1
+139,igp,Mohammad Shamsudduha,2012,241,own-SHM,0,Monitoring groundwater storage changes in the highly seasonal humid tropics: Validation of GRACE measurements in the Bengal Basin,10.1029/2011wr010993,0,0
+293,mississippi,Xitian Cai,2013,225,downstream-use,1,Hydrological evaluation of the Noah‐MP land surface model for the Mississippi River Basin,10.1002/2013jd020792,0,0
+346,north_china_plain,Wei Feng,2018,209,own-SHM,0,Groundwater Storage Changes in China from Satellite Gravity: An Overview,10.3390/rs10050674,0,2
+140,igp,Sabyasachi Swain,2022,203,review,0,Impact of climate change on groundwater hydrology: a comprehensive review and current status of the Indian hydrogeology,10.1007/s13201-022-01652-0,0,0
+141,igp,Deep Shah,2019,201,downstream-use,0,Integrated Drought Index (IDI) for Drought Monitoring and Assessment in India,10.1029/2019wr026284,0,0
+347,north_china_plain,Yun Pan,2016,195,own-SHM,0,Detection of human‐induced evapotranspiration using GRACE satellite observations in the Haihe River basin of China,10.1002/2016gl071287,0,1
+142,igp,Soumendra N. Bhanja,2016,192,own-SHM,0,Validation of GRACE based groundwater storage anomaly using in-situ groundwater level measurements in India,10.1016/j.jhydrol.2016.10.042,0,0
+143,igp,Vimal Mishra,2016,180,downstream-use,0,On the frequency of the 2015 monsoon season drought in the Indo‐Gangetic Plain,10.1002/2016gl071407,0,0
+295,mississippi,Ashraf Rateb,2020,170,mascon,1,Comparison of Groundwater Storage Changes From GRACE Satellites With Monitoring and Modeling of Major U.S. Aquifers,10.1029/2020wr027556,0,0
+348,north_china_plain,Fei Wang,2020,167,mascon,0,Utilizing GRACE-based groundwater drought index for drought characterization and teleconnection factors analysis in the North China Plain,10.1016/j.jhydrol.2020.124849,0,0
+243,indus,D. K. Panda,2015,164,own-SHM,1,Spatiotemporal evolution of water storage changes in <scp>I</scp>ndia from the updated <scp>GRACE</scp>‐derived gravity records,10.1002/2015wr017797,0,2
+349,north_china_plain,Wenjie Yin,2018,161,downstream-use,0,Statistical Downscaling of GRACE‐Derived Groundwater Storage Using ET Data in the North China Plain,10.1029/2017jd027468,0,0
+244,indus,Fanchong Meng,2019,158,mascon,1,Changes in Terrestrial Water Storage During 2003–2014 and Possible Causes in Tibetan Plateau,10.1029/2018jd029552,0,1
+323,murray,Maike Schumacher,2017,145,own-SHM,1,Improving drought simulations within the Murray-Darling Basin by combined calibration/assimilation of GRACE data into the WaterGAP Global Hydrology Model,10.1016/j.rse.2017.10.029,0,0
+296,mississippi,Sonia I. Seneviratne,2004,142,non-GRACE,0,Inferring Changes in Terrestrial Water Storage Using ERA-40 Reanalysis Data: The Mississippi River Basin,10.1175/1520-0442(2004)017<2039:icitws>2.0.co;2,0,0
+44,central_valley,Mu Xiao,2017,132,own-SHM,0,How much groundwater did California's Central Valley lose during the 2012–2016 drought?,10.1002/2017gl073333,0,16
+144,igp,Debanjan Sinha,2016,128,own-SHM,0,Characterizing Drought in India Using GRACE Observations of Terrestrial Water Storage Deficit,10.1175/jhm-d-16-0047.1,0,1
+245,igp;indus,Shoaib Ali,2021,127,downstream-use,1,Improving the Resolution of GRACE Data for Spatio-Temporal Groundwater Storage Assessment,10.3390/rs13173513,0,0
+246,indus,Vimal Mishra,2018,121,downstream-use,0,Groundwater Depletion and Associated CO<sub>2</sub> Emissions in India,10.1029/2018ef000939,0,5
+146,igp,Tandrila Sarkar,2020,118,own-SHM,0,Integrated study of GRACE data derived interannual groundwater storage variability over water stressed Indian regions,10.1016/j.gsd.2020.100376,0,0
+297,mississippi,Susanna Werth,2010,118,own-SHM,0,Calibration analysis for water storage variability of the global hydrological model WGHM,10.5194/hess-14-59-2010,0,0
+247,indus,Shoaib Ali,2023,113,downstream-use,0,Spatial Downscaling of GRACE Data Based on XGBoost Model for Improved Understanding of Hydrological Droughts in the Indus Basin Irrigation System (IBIS),10.3390/rs15040873,0,0
+3,arabian,Mohd Anul Haq,2021,108,mascon,1,Deep Learning Based Modeling of Groundwater Storage Change,10.32604/cmc.2022.020495,0,0
+102,high_plains,Wanshu Nie,2018,103,mascon,0,Groundwater Withdrawals Under Drought: Reconciling GRACE and Land Surface Models in the United States High Plains Aquifer,10.1029/2017wr022178,0,0
+147,igp,Amritendu Mukherjee,2018,103,downstream-use,0,"Prediction of GWL with the help of GRACE TWS for unevenly spaced time series data in India : Analysis of comparative performances of SVR, ANN and LRM",10.1016/j.jhydrol.2018.02.005,0,0
+148,igp,Khandu,2016,101,own-SHM,0,Exploring the influence of precipitation extremes and human water use on total water storage (TWS) changes in the <scp>G</scp>anges‐<scp>B</scp>rahmaputra‐<scp>M</scp>eghna River Basin,10.1002/2015wr018113,0,0
+350,north_china_plain,X. Mo,2016,97,downstream-use,0,Variations in water storage in China over recent decades from GRACE observations and GLDAS,10.5194/nhess-16-469-2016,0,0
+4,arabian,Yujin Zeng,2018,95,downstream-use,1,Global Land Surface Modeling Including Lateral Groundwater Flow,10.1029/2018ms001304,0,1
+351,north_china_plain,Qiuhong Tang,2013,94,downstream-use,0,Anthropogenic impacts on mass change in North China,10.1002/grl.50790,0,0
+248,igp;indus,Arfan Arshad,2022,91,own-SHM,0,Combining downscaled-GRACE data with SWAT to improve the estimation of groundwater storage and depletion variations in the Irrigated Indus Basin (IIB),10.1016/j.scitotenv.2022.156044,0,0
+249,indus,Shoaib Ali,2022,90,downstream-use,0,Constructing high-resolution groundwater drought at spatio-temporal scale using GRACE satellite data based on machine learning in the Indus Basin,10.1016/j.jhydrol.2022.128295,0,0
+298,mississippi,Martin Hirschi,2006,88,non-GRACE,0,Seasonal Variations in Terrestrial Water Storage for Major Midlatitude River Basins,10.1175/jhm480.1,0,0
+352,north_china_plain,Julian Koch,2020,88,own-SHM,0,Estimating Net Irrigation Across the North China Plain Through Dual Modeling of Evapotranspiration,10.1029/2020wr027413,0,0
+103,high_plains,Clara Chew,2014,86,downstream-use,0,Terrestrial water storage response to the 2012 drought estimated from GPS vertical position anomalies,10.1002/2014gl061206,0,0
+324,murray,Gavan McGrath,2011,85,downstream-use,1,Tropical cyclones and the ecohydrology of Australia's recent continental‐scale drought,10.1029/2011gl050263,0,0
+150,igp;indus,Shoaib Ali,2021,84,mascon,0,Estimation of spatio-temporal groundwater storage variations in the Lower Transboundary Indus Basin using GRACE satellite,10.1016/j.jhydrol.2021.127315,0,0
+353,north_china_plain,JP Moiwo,2009,82,downstream-use,0,"Comparison of GRACE with in situ hydrological measurement data shows storage depletion in Hai River basin, Northern China",10.4314/wsa.v35i5.49192,0,0
+152,igp,Beas Barik,2017,80,own-SHM,0,Water–food–energy nexus with changing agricultural scenarios in India during recent decades,10.5194/hess-21-3041-2017,0,0
+289,indus;north_china_plain,Yujin Zeng,2016,80,downstream-use,0,Hydrologic and Climatic Responses to Global Anthropogenic Groundwater Extraction,10.1175/jcli-d-16-0209.1,0,9
+46,central_valley;high_plains,Farshid Felfelani,2020,79,downstream-use,0,Representing Intercell Lateral Groundwater Flow and Aquifer Pumping in the Community Land Model,10.1029/2020wr027531,0,0
+47,central_valley,Zhen Liu,2019,76,mascon,0,Monitoring Groundwater Change in California’s Central Valley Using Sentinel-1 and GRACE Observations,10.3390/geosciences9100436,0,0
+105,high_plains,José Agustín Breña‐Naranjo,2014,76,downstream-use,0,Improved methods for satellite‐based groundwater storage estimates: A decade of monitoring the high plains aquifer from space and ground observations,10.1002/2014gl061213,0,0
+107,high_plains,Alexander Y. Sun,2010,75,own-SHM,0,Inferring aquifer storage parameters using satellite and in situ measurements: Estimation under uncertainty,10.1029/2010gl043231,0,0
+325,murray,Albert I. J. M. van Dijk,2011,74,downstream-use,1,Use of Gravity Recovery and Climate Experiment terrestrial water storage retrievals to evaluate model estimates by the Australian water resources assessment system,10.1029/2011wr010714,0,0
+354,north_china_plain,Natthachet Tangdamrongsub,2018,73,own-SHM,0,Evaluation of Groundwater Storage Variations Estimated from GRACE Data Assimilation and State-of-the-Art Land Surface Models in Australia and the North China Plain,10.3390/rs10030483,0,0
+153,igp,Aarti Soni,2015,71,own-SHM,0,Diagnosing Land Water Storage Variations in Major Indian River Basins using GRACE observations,10.1016/j.gloplacha.2015.09.007,0,0
+355,north_china_plain,Yulong Zhong,2019,70,mascon,0,"Human-Induced and Climate-Driven Contributions to Water Storage Variations in the Haihe River Basin, China",10.3390/rs11243050,0,0
+356,north_china_plain,Shoaib Ali,2023,69,mascon,0,The GWR model-based regional downscaling of GRACE/GRACE-FO derived groundwater storage to investigate local-scale variations in the North China Plain,10.1016/j.scitotenv.2023.168239,0,0
+357,north_china_plain,Hong Shen,2014,68,own-SHM,0,"Groundwater depletion in the Hai River Basin, China, from<i>in situ</i>and GRACE observations",10.1080/02626667.2014.916406,0,0
+358,north_china_plain,Shuang Yi,2016,68,own-SHM,0,Basin mass dynamic changes in China from GRACE based on a multibasin inversion method,10.1002/2015jb012608,0,0
+6,arabian,Abdullah Othman,2018,66,mascon,0,Use of Geophysical and Remote Sensing Data for Assessment of Aquifer Depletion and Related Land Deformation,10.1007/s10712-017-9458-7,0,0
+50,central_valley,Grace Carlson,2022,66,mascon,0,Joint Inversion of GNSS and GRACE for Terrestrial Water Storage Change in California,10.1029/2021jb023135,0,0
+108,high_plains,Md. Mafuzur Rahaman,2019,66,own-SHM,0,Estimating High-Resolution Groundwater Storage from GRACE: A Random Forest Approach,10.3390/environments6060063,0,0
+300,mississippi,Mehdi Khaki,2020,66,own-SHM,0,Multi-mission satellite remote sensing data for improving land hydrological models via data assimilation,10.1038/s41598-020-75710-5,0,0
+51,central_valley,Vibhor Agarwal,2022,65,own-SHM,0,"Machine learning based downscaling of GRACE-estimated groundwater in Central Valley, California",10.1016/j.scitotenv.2022.161138,0,0
+251,indus,Naveed Iqbal,2016,65,own-SHM,0,Satellite Gravimetric Estimation of Groundwater Storage Variations Over Indus Basin in Pakistan,10.1109/jstars.2016.2574378,0,0
+154,igp,Abhishek Abhishek,2021,64,own-SHM,0,"Synergetic application of GRACE gravity data, global hydrological model, and in-situ observations to quantify water storage dynamics over Peninsular India during 2002–2017",10.1016/j.jhydrol.2021.126069,0,0
+252,indus,Fazlullah Akhtar,2021,61,downstream-use,0,Evaluation of GRACE derived groundwater storage changes in different agro-ecological zones of the Indus Basin,10.1016/j.jhydrol.2021.127369,0,0
+326,murray,Daniel Rieser,2010,61,own-SHM,1,Relation between GRACE-derived surface mass variations and precipitation over Australia,10.1080/08120099.2010.512645,0,0
+359,north_china_plain,Linsong Wang,2017,61,own-SHM,0,Detecting seasonal and long-term vertical displacement in the North China Plain using GRACE and GPS,10.5194/hess-21-2905-2017,0,0
+109,high_plains,Md. Mafuzur Rahaman,2019,60,downstream-use,0,Modeling of GRACE-Derived Groundwater Information in the Colorado River Basin,10.3390/hydrology6010019,0,0
+155,igp,Bhaskar Kundu,2015,60,downstream-use,0,"Influence of anthropogenic groundwater unloading in Indo‐Gangetic plains on the 25 April 2015 Mw 7.8 Gorkha, Nepal earthquake",10.1002/2015gl066616,0,3
+360,north_china_plain,Jun Liu,2021,59,mascon,0,Impacts of water resources management on land water storage in the North China Plain: Insights from multi-mission earth observations,10.1016/j.jhydrol.2021.126933,0,0
+7,arabian,Youssef Wehbe,2021,58,downstream-use,0,A Remote Sensing-Based Assessment of Water Resources in the Arabian Peninsula,10.3390/rs13020247,0,2
+110,high_plains,Augusto Getirana,2019,58,mascon,0,GRACE Improves Seasonal Groundwater Forecast Initialization over the United States,10.1175/jhm-d-19-0096.1,0,0
+156,igp,Mioara Mandéa,2012,58,downstream-use,0,Recent changes of the Earth’s core derived from satellite observations of magnetic and gravity fields,10.1073/pnas.1207346109,0,3
+361,north_china_plain,Yi Xu,2021,57,mascon,0,Long-term and seasonal variation in groundwater storage in the North China Plain based on GRACE,10.1016/j.jag.2021.102560,0,0
+157,igp,Swarup Dangar,2021,56,mascon,0,Natural and anthropogenic drivers of the lost groundwater from the Ganga River basin,10.1088/1748-9326/ac2ceb,0,0
+253,indus,Yu Zhu,2021,56,mascon,0,Overview of terrestrial water storage changes over the Indus River Basin based on GRACE/GRACE-FO solutions,10.1016/j.scitotenv.2021.149366,0,0
+362,north_china_plain,Li‐Ling Chang,2020,56,own-SHM,0,Why Is the Terrestrial Water Storage in Dryland Regions Declining? A Perspective Based on Gravity Recovery and Climate Experiment Satellite Observations and Noah Land Surface Model With Multiparameterization Schemes Model Simulations,10.1029/2020wr027102,0,0
+158,igp,Mohammad Shamsudduha,2019,54,downstream-use,0,Spatio-temporal changes in terrestrial water storage in the Himalayan river basins and risks to water security in the region: A review,10.1016/j.ijdrr.2019.101068,0,0
+363,north_china_plain,Wanqiu Li,2019,54,own-SHM,0,Bridging Terrestrial Water Storage Anomaly During GRACE/GRACE-FO Gap Using SSA Method: A Case Study in China,10.3390/s19194144,0,0
+8,arabian,Fahad Alshehri,2023,53,mascon,0,"Analysis of Groundwater Storage Fluctuations Using GRACE and Remote Sensing Data in Wadi As-Sirhan, Northern Saudi Arabia",10.3390/w15020282,0,0
+160,igp,Soumendra N. Bhanja,2020,51,own-SHM,0,Groundwater storage change detection from in situ and GRACE-based estimates in major river basins across India,10.1080/02626667.2020.1716238,0,0
+254,indus,Naveed Iqbal,2017,51,own-SHM,0,Integrated groundwater resource management in Indus Basin using satellite gravimetry and physical modeling tools,10.1007/s10661-017-5846-1,0,0
+364,north_china_plain,Jiming Guo,2016,51,own-SHM,0,Surface Subsidence Analysis by Multi-Temporal InSAR and GRACE: A Case Study in Beijing,10.3390/s16091495,0,0
+52,central_valley,Aakash Ahamed,2021,50,downstream-use,0,Assessing the utility of remote sensing data to accurately estimate changes in groundwater storage,10.1016/j.scitotenv.2021.150635,0,1
+365,north_china_plain,Wenjie Yin,2020,50,downstream-use,0,Improved water storage estimates within the North China Plain by assimilating GRACE data into the CABLE model,10.1016/j.jhydrol.2020.125348,0,0
+53,central_valley;north_china_plain,Cheinway Hwang,2016,49,non-GRACE,0,"Time-varying land subsidence detected by radar altimetry: California, Taiwan and north China",10.1038/srep28160,0,0
+9,arabian,Othman Fallatah,2017,48,own-SHM,0,Quantifying temporal variations in water resources of a vulnerable middle eastern transboundary aquifer system,10.1002/hyp.11285,0,0
+161,igp,Naresh Krishna Vissa,2019,48,downstream-use,0,ENSO-induced groundwater changes in India derived from GRACE and GLDAS,10.1007/s12040-019-1148-z,0,0
+301,mississippi,Yoshihide Wada,2013,48,non-GRACE,0,"Global modeling of withdrawal, allocation and consumptive use of surface water and groundwater resources",10.5194/esdd-4-355-2013,0,0
+367,north_china_plain,Hao‐jie Xu,2021,47,mascon,0,Seasonal and aridity influences on the relationships between drought indices and hydrological variables over China,10.1016/j.wace.2021.100393,0,0
+255,indus,Aqil Tariq,2023,46,mascon,0,Terrestrial and groundwater storage characteristics and their quantification in the Chitral (Pakistan) and Kabul (Afghanistan) river basins using GRACE/GRACE-FO satellite data,10.1016/j.gsd.2023.100990,0,0
+368,north_china_plain,Wenjie Yin,2017,46,downstream-use,0,Evaluation of Groundwater Storage Variations in Northern China Using GRACE Data,10.1155/2017/8254824,0,0
+55,central_valley,Sarfaraz Alam,2021,45,mascon,0,Post‐Drought Groundwater Storage Recovery in California's Central Valley,10.1029/2021wr030352,0,89
+111,high_plains,Wondwosen M. Seyoum,2016,45,downstream-use,0,Monitoring and comparison of terrestrial water storage changes in the northern high plains using GRACE and in-situ based integrated hydrologic model estimates,10.1016/j.advwatres.2016.04.014,0,0
+302,mississippi,Qiujie Chen,2019,45,own-SHM,0,An Optimized Short‐Arc Approach: Methodology and Application to Develop Refined Time Series of Tongji‐Grace2018 GRACE Monthly Solutions,10.1029/2018jb016596,0,0
+369,north_china_plain,Youzhe Su,2020,44,mascon,0,"Spatio-Temporal Variations in Groundwater Revealed by GRACE and Its Driving Factors in the Huang-Huai-Hai Plain, China",10.3390/s20030922,0,0
+162,igp,W. G. Burgess,2017,43,downstream-use,0,Terrestrial water load and groundwater fluctuation in the Bengal Basin,10.1038/s41598-017-04159-w,0,0
+370,north_china_plain,Renli Liu,2014,43,own-SHM,0,Earth Surface Deformation in the North China Plain Detected by Joint Analysis of GRACE and GPS Data,10.3390/s141019861,0,0
+371,north_china_plain,Renli Liu,2018,43,own-SHM,0,Vertical Displacements Driven by Groundwater Storage Changes in the North China Plain Detected by GPS Observations,10.3390/rs10020259,0,0
+372,north_china_plain,Renli Liu,2022,43,own-SHM,0,Analysis of groundwater changes (2003–2020) in the North China Plain using geodetic measurements,10.1016/j.ejrh.2022.101085,0,0
+373,north_china_plain,Qingping Liu,2024,43,mascon,0,Characteristics of groundwater drought and its correlation with meteorological and agricultural drought over the North China Plain based on GRACE,10.1016/j.ecolind.2024.111925,0,0
+10,arabian,Ahmed Mohamed,2022,42,own-SHM,0,Application of Time-Variable Gravity to Groundwater Storage Fluctuations in Saudi Arabia,10.3389/feart.2022.873352,0,0
+163,igp,Anuradha Karunakalage,2021,42,own-SHM,0,"The appraisal of groundwater storage dwindling effect, by applying high resolution downscaling GRACE data in and around Mehsana district, Gujarat, India",10.1016/j.gsd.2021.100559,0,0
+164,igp,Qiujie Chen,2020,42,own-SHM,0,High‐Resolution GRACE Monthly Spherical Harmonic Solutions,10.1029/2019jb018892,0,0
+165,igp;indus,Shivam Rawat,2022,41,mascon,0,Drought characterization over Indian sub-continent using GRACE-based indices,10.1038/s41598-022-18511-2,0,0
+375,north_china_plain,Gangqiang Zhang,2020,41,downstream-use,0,Improving the Resolution and Accuracy of Groundwater Level Anomalies Using the Machine Learning-Based Fusion Model in the North China Plain,10.3390/s21010046,0,0
+376,north_china_plain,Jianxin Zhang,2020,40,mascon,0,Seasonal and Interannual Variations in China’s Groundwater Based on GRACE Data and Multisource Hydrological Models,10.3390/rs12050845,0,0
+11,arabian,Ahmed Mohamed,2022,39,mascon,0,Integrated Geophysical Assessment of Groundwater Potential in Southwestern Saudi Arabia,10.3389/feart.2022.937402,0,0
+166,igp,R. S. Chatterjee,2019,39,own-SHM,0,Potential groundwater recharge in north-western India vs spaceborne GRACE gravity anomaly based monsoonal groundwater storage change for evaluation of groundwater potential and sustainability,10.1016/j.gsd.2019.100307,0,0
+56,central_valley,D. W. Vasco,2022,38,mascon,0,"Using Sentinel-1 and GRACE satellite data to monitor the hydrological variations within the Tulare Basin, California",10.1038/s41598-022-07650-1,0,12
+167,igp,Deep Shah,2020,38,mascon,0,Strong Influence of Changes in Terrestrial Water Storage on Flood Potential in India,10.1029/2020jd033566,0,0
+377,north_china_plain,Xiaoli Su,2011,38,own-SHM,0,Terrestrial water variations in the North China Plain revealed by the GRACE mission,10.1007/s11430-011-4280-4,0,0
+378,north_china_plain,Xueliang Zhang,2022,38,own-SHM,0,"Comparison of the shallow groundwater storage change estimated by a distributed hydrological model and GRACE satellite gravimetry in a well-irrigated plain of the Haihe River basin, China",10.1016/j.jhydrol.2022.127799,0,0
+112,high_plains,Andrea E. Brookfield,2018,37,mascon,0,"In Situ and GRACE‐Based Groundwater Observations: Similarities, Discrepancies, and Evaluation in the High Plains Aquifer in Kansas",10.1029/2018wr023836,0,0
+113,high_plains,E. A. Rosenberg,2013,37,downstream-use,0,On the contribution of groundwater storage to interannual streamflow anomalies in the Colorado River basin,10.5194/hess-17-1475-2013,0,0
+168,igp,Pragnaditya Malakar,2021,37,downstream-use,0,Deep Learning-Based Forecasting of Groundwater Level Trends in India: Implications for Crop Production and Drinking Water Supply,10.1021/acsestengg.0c00238,0,0
+257,igp;indus,Arfan Arshad,2024,37,mascon,0,Downscaled‐GRACE Data Reveal Anthropogenic and Climate‐Induced Water Storage Decline Across the Indus Basin,10.1029/2023wr035882,0,0
+170,igp,Ajish P. Saji,2020,36,own-SHM,0,Surface Deformation and Influence of Hydrological Mass Over Himalaya and North India Revealed From a Decade of Continuous GPS and GRACE Observations,10.1029/2018jf004943,0,0
+171,igp,Diksha Gupta,2020,36,downstream-use,0,The potential of GRACE in assessing the flood potential of Peninsular Indian River basins,10.1080/01431161.2020.1797218,0,0
+303,mississippi,Pat J.‐F. Yeh,2018,36,non-GRACE,0,Recent Acceleration of the Terrestrial Hydrologic Cycle in the U.S. Midwest,10.1002/2017jd027706,0,0
+379,north_china_plain,Juana P. Moiwo,2011,36,own-SHM,0,"Comparison of evapotranspiration estimated by ETWatch with that derived from combined GRACE and measured precipitation data in Hai River Basin, North China",10.1080/02626667.2011.553617,0,0
+12,arabian,Ahmed Mohamed,2023,35,mascon,0,"Integrated Geophysical Approach of Groundwater Potential in Wadi Ranyah, Saudi Arabia, Using Gravity, Electrical Resistivity, and Remote-Sensing Techniques",10.3390/rs15071808,0,0
+380,north_china_plain,Longqun Zheng,2020,35,mascon,0,Comparing Groundwater Storage Changes in Two Main Grain Producing Areas in China: Implications for Sustainable Agricultural Water Resources Management,10.3390/rs12132151,0,0
+172,igp;indus,D. K. Panda,2020,34,mascon,0,"Groundwater depletion in northern India: Impacts of the sub‐regional anthropogenic land‐use, socio‐politics and changing climate",10.1002/hyp.14003,0,0
+173,igp,K. Satish Kumar,2022,34,mascon,0,Reconstruction of GRACE terrestrial water storage anomalies using Multi-Layer Perceptrons for South Indian River basins,10.1016/j.scitotenv.2022.159289,0,0
+174,igp,R.D. Meghwal,2019,34,mascon,0,On the Changes in Groundwater Storage Variability in Western India Using GRACE and Well Observations,10.1007/s41976-019-00026-6,0,0
+57,central_valley,Donald F. Argus,2022,33,mascon,0,Subsurface Water Flux in California's Central Valley and Its Source Watershed From Space Geodesy,10.1029/2022gl099583,0,12
+175,igp,D. K. Panda,2022,33,mascon,0,"Groundwater Variability Across India, Under Contrasting Human and Natural Conditions",10.1029/2021ef002513,0,0
+176,igp,Pawan Kumar Gautam,2024,33,downstream-use,0,"Monitoring of the Groundwater Level using GRACE with GLDAS Satellite Data in Ganga Plain, India to Understand the Challenges of Groundwater, Depletion, Problems, and Strategies for Mitigation",10.1016/j.envc.2024.100874,0,0
+177,igp,Hua Xie,2020,31,own-SHM,0,Integrating groundwater irrigation into hydrological simulation of India: Case of improving model representation of anthropogenic water use impact using GRACE,10.1016/j.ejrh.2020.100681,0,1
+304,mississippi,Qian Cao,2019,31,downstream-use,0,"Trends and Interannual Variability in Terrestrial Water Storage Over the Eastern United States, 2003–2016",10.1029/2018wr023278,0,0
+381,north_china_plain,Yifan Shen,2021,31,own-SHM,0,Feature Extraction Algorithm Using a Correlation Coefficient Combined With the VMD and Its Application to the GPS and GRACE,10.1109/access.2021.3049118,0,0
+178,igp,Sreekanth Janardhanan,2023,30,mascon,0,Estimation of groundwater storage loss for the Indian Ganga Basin using multiple lines of evidence,10.1038/s41598-023-28615-y,0,1
+382,north_china_plain,Jianhua Wang,2014,30,downstream-use,0,Drought Analysis of the Haihe River Basin Based on GRACE Terrestrial Water Storage,10.1155/2014/578372,0,0
+58,central_valley,W. C. Hammond,2019,29,downstream-use,0,"Drought‐Triggered Magmatic Inflation, Crustal Strain, and Seismicity Near the Long Valley Caldera, Central Walker Lane",10.1029/2019jb017354,0,0
+383,north_china_plain,Shuya Li,2019,29,own-SHM,0,Surface seasonal mass changes and vertical crustal deformation in North China from GPS and GRACE measurements,10.1016/j.geog.2019.05.002,0,0
+13,arabian,Othman Fallatah,2019,28,mascon,0,Groundwater Quality Patterns and Spatiotemporal Change in Depletion in the Regions of the Arabian Shield and Arabian Shelf,10.1007/s13369-019-04069-1,0,0
+179,igp,Claire Pascal,2022,28,mascon,0,Evaluating downscaling methods of GRACE (Gravity Recovery and Climate Experiment) data: a case study over a fractured crystalline aquifer in southern India,10.5194/hess-26-4169-2022,0,0
+180,igp,Vimal Mishra,2024,28,mascon,0,Summer Monsoon Drying Accelerates India's Groundwater Depletion Under Climate Change,10.1029/2024ef004516,0,5
+259,indus,Dostdar Hussain,2020,28,own-SHM,0,Spatial and Temporal Variations of Terrestrial Water Storage in Upper Indus Basin Using GRACE and Altimetry Data,10.1109/access.2020.2984794,0,0
+59,central_valley,Grace Carlson,2024,27,mascon,0,"A novel hybrid GNSS, GRACE, and InSAR joint inversion approach to constrain water loss during a record-setting drought in California",10.1016/j.rse.2024.114303,0,0
+181,igp,V. M. Tiwari,2014,27,own-SHM,0,"Hydrological changes and vertical crustal deformation in south India: Inference from GRACE, GPS and absolute gravity data",10.1016/j.pepi.2014.03.002,0,0
+60,central_valley,Weijie Tan,2015,26,own-SHM,0,"Analysis of systematic differences from GPS-measured and GRACE-modeled deformation in Central Valley, California",10.1016/j.asr.2015.08.034,0,0
+62,central_valley;high_plains,Hansheng Wang,2021,26,own-SHM,0,GRACE-based estimates of groundwater variations over North America from 2002 to 2017,10.1016/j.geog.2021.10.003,0,0
+182,igp,Anil Kumar Singh,2018,26,downstream-use,0,Monitoring groundwater fluctuations over India during Indian Summer Monsoon (ISM) and Northeast monsoon using GRACE satellite: Impact on agriculture,10.1016/j.quaint.2018.10.036,0,0
+260,indus,Gulraiz Akhter,2021,26,own-SHM,0,Appraisal of Remote Sensing Technology for Groundwater Resource Management Perspective in Indus Basin,10.3390/su13179686,0,0
+384,north_china_plain,Yi Guo,2022,26,mascon,0,"Evaluation of Groundwater Storage Depletion Using GRACE/GRACE Follow-On Data with Land Surface Models and Its Driving Factors in Haihe River Basin, China",10.3390/su14031108,0,0
+385,north_china_plain,Yulong Zhong,2023,26,mascon,0,Separating the Precipitation‐ and Non‐Precipitation‐ Driven Water Storage Trends in China,10.1029/2022wr033261,0,0
+386,north_china_plain,Fangfang Liu,2021,25,downstream-use,0,Analysis of Spatiotemporal Groundwater-Storage Variations in China from GRACE,10.3390/w13172378,0,0
+387,north_china_plain,Chunxiu Shao,2023,25,mascon,0,Analysis of Groundwater Storage Changes and Influencing Factors in China Based on GRACE Data,10.3390/atmos14020250,0,0
+63,central_valley,L. M. Thatch,2020,24,downstream-use,0,Integrated Hydrologic Modeling to Untangle the Impacts of Water Management During Drought,10.1111/gwat.12995,0,0
+115,high_plains,Shuo Zhang,2023,24,downstream-use,0,"Monitoring Terrestrial Water Storage, Drought and Seasonal Changes in Central Oklahoma With Ambient Seismic Noise",10.1029/2023gl103419,0,0
+183,igp;indus,Muhammad Abdus Salam,2020,24,downstream-use,0,GROUNDWATER STORAGE CHANGE ESTIMATION USING GRACE SATELLITE DATA IN INDUS BASIN,10.26480/bdwre.01.2020.13.18,0,0
+388,north_china_plain,Meixia Lv,2020,24,mascon,0,Attributing Terrestrial Water Storage Variations across China to Changes in Groundwater and Human Water Use,10.1175/jhm-d-20-0095.1,0,0
+184,igp,Akhilesh S. Nair,2020,23,mascon,0,Changing groundwater storage trend of India after severe drought,10.1080/01431161.2020.1763503,0,0
+389,north_china_plain,Zhiwei Chen,2021,23,own-SHM,0,Monitoring Terrestrial Water Storage Changes with the Tongji-Grace2018 Model in the Nine Major River Basins of the Chinese Mainland,10.3390/rs13091851,0,0
+1,amadeus,Wei Wang,2021,22,mascon,0,Two Severe Prolonged Hydrological Droughts Analysis over Mainland Australia Using GRACE Satellite Data,10.3390/rs13081432,0,0
+185,igp,Param K. Gautam,2017,22,own-SHM,0,"A comparative appraisal of ground water resources using GRACE-GPS data in highly urbanised regions of Uttar Pradesh, India",10.1007/s40899-017-0109-4,0,0
+14,arabian,Pierre Séraphin,2022,21,mascon,0,"Influence of intensive agriculture and geological heterogeneity on the recharge of an arid aquifer system (Saq–Ram, Arabian Peninsula) inferred from GRACE data",10.5194/hess-26-5757-2022,0,0
+64,central_valley,Elias Massoud,2020,21,mascon,0,Cascading Dynamics of the Hydrologic Cycle in California Explored through Observations and Model Simulations,10.3390/geosciences10020071,0,0
+186,igp,Natthachet Tangdamrongsub,2011,21,own-SHM,0,Water storage loss in central and south Asia from GRACE satellite gravity: correlations with climate data,10.1007/s11069-011-9793-9,0,0
+187,igp,Chandan Banerjee,2018,21,downstream-use,0,Analyzing Large-Scale Hydrologic Processes Using GRACE and Hydrometeorological Datasets,10.1007/s11269-018-2070-x,0,0
+390,north_china_plain,Yuyue Xu,2023,21,downstream-use,0,Continuing Severe Water Shortage in the Water‐Receiving Area of the South‐To‐North Water Diversion Eastern Route Project From 2002 to 2020,10.1029/2022wr034365,0,0
+188,igp,Leelambar Singh,2020,20,downstream-use,0,Satellite-derived GRACE groundwater storage variation in complex aquifer system in India,10.1007/s40899-020-00399-3,0,0
+189,igp,Linfeng Fan,2023,20,downstream-use,0,Streamflow Composition and Water “Imbalance” in the Northern Himalayas,10.1029/2022wr034243,0,0
+305,mississippi,Sarva T. Pulla,2023,20,mascon,0,GRACE Downscaler: A Framework to Develop and Evaluate Downscaling Models for GRACE,10.3390/rs15092247,0,0
+391,north_china_plain,Congcong Li,2023,20,mascon,0,Dominant Drivers for Terrestrial Water Storage Changes Are Different in Northern and Southern China,10.1029/2022jd038074,0,0
+190,igp,Jung‐Rack Kim,2023,19,downstream-use,0,InSAR Time Series Analysis to Evaluate Subsidence Risk of Monumental Chandigarh City (India) and Surroundings,10.1109/tgrs.2023.3305863,0,0
+191,igp,Pranshu Pranjal,2021,18,mascon,0,Interpreting land subsidence impacts due to groundwater depletion using remote sensing-based GRACE gravity anomaly and DInSAR technique: a study on north-western parts of India,10.1007/s12665-021-09905-y,0,0
+192,igp;indus,Jaydeo K. Dharpure,2025,18,mascon,0,Declining Groundwater Storage in the Indus Basin Revealed Using GRACE and GRACE‐FO Data,10.1029/2024wr038279,0,0
+193,igp,Pragay Shourya Moudgil,2023,18,mascon,0,"Groundwater levels estimation from GRACE/GRACE-FO and hydro-meteorological data using deep learning in Ganga River basin, India",10.1007/s12665-023-11137-1,0,0
+306,mississippi,S. M. Klosko,2009,18,own-SHM,0,Evaluation and validation of mascon recovery using GRACE KBRR data with independent mass flux estimates in the Mississippi Basin,10.1007/s00190-009-0301-x,0,0
+327,murray,Valentin Heimhuber,2019,18,downstream-use,0,"The role of GRACE total water storage anomalies, streamflow and rainfall in stream salinity trends across Australia’s Murray-Darling Basin during and post the Millennium Drought",10.1016/j.jag.2019.101927,0,0
+116,high_plains,Sasmita Sahoo,2016,17,review,0,Comment on “Quantifying renewable groundwater stress with GRACE” by Alexandra S. Richey et al.,10.1002/2015wr018085,0,0
+194,igp,Yingjun Pang,2020,17,mascon,0,Spatiotemporal changes in terrestrial water storage in the Beijing-Tianjin Sandstorm Source Region from GRACE satellites,10.1016/j.iswcr.2020.06.004,0,0
+195,igp,Tandrila Sarkar,2022,17,mascon,0,Quantification of groundwater storage variation in Himalayan &amp; Peninsular River basins correlating with land deformation effects observed at different Indian cities,10.31577/congeo.2022.52.1.1,0,0
+196,igp,Ashwani Raju,2024,17,downstream-use,0,"Declining groundwater and its impacts along Ganga riverfronts using combined Sentinel-1, GRACE, water levels, and rainfall data",10.1016/j.scitotenv.2024.170932,0,1
+197,igp,Dilip Kumar,2021,17,downstream-use,0,GRNN Model for prediction of groundwater fluctuation in the state of Uttarakhand of India using GRACE data under limited bore well data,10.2166/hydro.2021.108,0,0
+328,murray,Nicholas Brown,2010,17,own-SHM,0,"Quantifying GRACE data contamination effects on hydrological analysis in the Murray–Darling Basin, southeast Australia",10.1080/08120091003619241,0,0
+392,north_china_plain,Peijun Li,2021,17,mascon,0,Identification of the terrestrial water storage change features in the North China Plain via independent component analysis,10.1016/j.ejrh.2021.100955,0,0
+393,north_china_plain,Yifan Shen,2022,17,mascon,0,"Inverted Algorithm of Groundwater Storage Anomalies by Combining the GNSS, GRACE/GRACE-FO, and GLDAS: A Case Study in the North China Plain",10.3390/rs14225683,0,0
+15,arabian,Esubalew Adem Yibrie,2024,16,mascon,0,Land subsidence and groundwater storage change assessment using InSAR and GRACE in the arid environment of Saudi Arabia,10.1007/s11069-024-06733-8,0,0
+65,central_valley,Kyra H. Kim,2021,16,downstream-use,0,"An Evaluation of Remotely Sensed and In Situ Data Sufficiency for SGMA‐Scale Groundwater Studies in the Central Valley, California",10.1111/1752-1688.12898,0,0
+198,igp,Akarsh Asoka,2020,16,mascon,0,A Strong Linkage between Seasonal Crop Growth and Groundwater Storage Variability in India,10.1175/jhm-d-20-0085.1,0,0
+199,igp;indus,Kashif Mehmood,2022,16,downstream-use,0,"Spatiotemporal Analysis of Groundwater Storage Changes, Controlling Factors, and Management Options over the Transboundary Indus Basin",10.3390/w14203254,0,0
+307,mississippi,Johanna Engström,2021,16,mascon,0,Decreasing water resources in Southeastern U.S. as observed by the GRACE satellites,10.2166/wp.2021.039,0,0
+394,north_china_plain,Jinghua Xiong,2022,16,downstream-use,0,Using GRACE to Detect Groundwater Variation in North China Plain after South–North Water Diversion,10.1111/gwat.13253,0,0
+264,indus,Adeel Ahmad Nadeem,2023,15,mascon,0,"SAFER-ET based assessment of irrigation patterns and impacts on groundwater use in the central Punjab, Pakistan",10.1016/j.agwat.2023.108545,0,0
+395,north_china_plain,Bowen Zhu,2018,15,downstream-use,0,Water storage and vegetation changes in response to the 2009/10 drought over North China,10.2166/nh.2018.087,0,0
+265,indus,Dinesh Chandra Mishra,2012,14,non-GRACE,0,"Gravity and Magnetic Methods in Geological Studies: Principles, Integrated Exploration and Plate Tectonics",10.1007/s12594-012-0180-2,0,0
+16,arabian,Ahmed Mohamed,2023,13,mascon,0,Geophysical monitoring of the groundwater resources in the Southern Arabian Peninsula using satellite gravity data,10.1016/j.aej.2023.11.060,0,0
+66,central_valley;high_plains,Ruijie Zeng,2018,13,downstream-use,0,"Hydrologic Observation, Model, and Theory Congruence on Evapotranspiration Variance: Diagnosis of Multiple Observations and Land Surface Models",10.1029/2018wr022723,0,0
+200,igp,Md. Moniruzzaman Monir,2024,13,downstream-use,0,"Analyzing post-2000 groundwater level and rainfall changes in Rajasthan, India, using well observations and GRACE data",10.1016/j.heliyon.2024.e24481,0,0
+67,central_valley,Joe Yazbeck,2023,12,downstream-use,0,Predicting Short-Term Deformation in the Central Valley Using Machine Learning,10.3390/rs15020449,0,0
+68,central_valley,Pang‐Wei Liu,2022,11,mascon,0,Groundwater Depletion in California’s Central Valley Accelerates During Megadrought,10.21203/rs.3.rs-1614517/v1,0,0
+201,igp,Saurabh Srivastava,2022,11,own-SHM,0,Analysis of groundwater storage (GWS) dynamics and its temporal evolution for The Indo-Gangetic plain using GRACE data,10.1016/j.rsase.2021.100685,0,0
+308,mississippi,Ye-Hong Chen,2023,11,downstream-use,0,Unstructured-grid approach to develop high-fidelity groundwater model to understand groundwater flow and storage responses to excessive groundwater withdrawals in the Southern Hills aquifer system in southeastern Louisiana (USA),10.1016/j.ejrh.2023.101342,0,0
+330,murray,Hong Shen,2017,11,own-SHM,0,A Comparative Study of GRACE with Continental Evapotranspiration Estimates in Australian Semi-Arid and Arid Basins: Sensitivity to Climate Variability and Extremes,10.3390/w9090614,0,0
+331,murray,Norhafizi Mohamad,2020,11,review,0,Monitoring Groundwater Depletion Due to Drought using Satellite Gravimetry: A Review,10.1088/1755-1315/540/1/012054,0,0
+396,north_china_plain,Yuhao Xiong,2025,11,own-SHM,0,High‐Resolution Terrestrial Water Storage Anomalies and Components in China From GRACE/GFO via Joint Inversion Downscaling,10.1029/2024wr038996,0,0
+202,igp,Sourav Kumar,2022,10,mascon,0,A Climate Zone Perspective on Spatiotemporal Variations in GRACE Derived Groundwater Storage (GWS) in India,10.1007/s12524-022-01580-1,0,0
+203,igp,Subimal Nandi,2024,10,mascon,0,"Spatiotemporal distribution of groundwater drought using GRACE-based satellite estimates: a case study of Lower Gangetic Basin, India",10.1007/s10661-024-12309-7,0,0
+204,igp,K. Satish Kumar,2022,10,mascon,0,"Bridging the Data Gap between the GRACE Missions and Assessment of Groundwater Storage Variations for Telangana State, India",10.3390/w14233852,0,0
+205,igp,Akhilesh S. Nair,2018,10,mascon,0,Utilizing GRACE and GLDAS data for estimating groundwater storage variability over the Krishna Basin,10.5194/isprs-annals-iv-5-129-2018,0,0
+397,north_china_plain,Jia Huang,2023,10,mascon,0,Identification and Spatiotemporal Migration Analysis of Groundwater Drought Events in the North China Plain,10.3390/atmos14060961,0,0
+398,north_china_plain,Junchao Zhang,2023,10,mascon,0,Reconstructing Groundwater Storage Changes in the North China Plain Using a Numerical Model and GRACE Data,10.3390/rs15133264,0,0
+17,arabian;igp,Fahad Alshehri,2023,9,mascon,0,"Investigation of groundwater potential using gravity data in Wadi Fatimah and its surroundings, Western Saudi Arabia",10.3389/feart.2023.1225992,0,0
+18,arabian,Hussein A. Mohasseb,2024,9,own-SHM,0,Assessing Groundwater Sustainability in the Arabian Peninsula and Its Impact on Gravity Fields through Gravity Recovery and Climate Experiment Measurements,10.3390/rs16081381,0,0
+88,guarani,Lucas Vituri Santarosa,2024,9,downstream-use,1,Remote sensing to quantify potential aquifer recharge as a complementary tool for groundwater monitoring,10.1080/02626667.2024.2412741,0,0
+266,indus,Mohit Arora,2022,9,downstream-use,0,"Assessment of Water Storage Changes Using Satellite Gravimetry and GLDAS Observations over a Part of Indus Basin, India",10.1007/s41101-022-00169-6,0,0
+309,mississippi,Zahra Ghaffari,2023,9,mascon,0,Using Downscaled GRACE Mascon Data to Assess Total Water Storage in Mississippi Alluvial Plain Aquifer,10.3390/s23146428,0,0
+310,mississippi,Susanna Werth,2009,9,own-SHM,0,Calibration analysis for water storage variability of the global hydrological model WGHM,10.5194/hessd-6-4813-2009,0,0
+399,north_china_plain,Yu Yin,2023,9,mascon,0,Can GRACE and CMIP6 historical data identify groundwater drought in North China Plain?,10.1007/s00704-023-04441-0,0,0
+207,igp;indus,Vasaw Tripathi,2022,8,own-SHM,0,Scaling methods of leakage correction in GRACE mass change estimates revisited for the complex hydro-climatic setting of the Indus Basin,10.5194/hess-26-4515-2022,0,0
+208,igp,Mohd Sayeed Ul Hasan,2023,8,mascon,0,Spatiotemporal Analysis of Future Trends in Terrestrial Water Storage Anomalies at Different Climatic Zones of India Using GRACE/GRACE-FO,10.3390/su15021572,0,0
+400,north_china_plain,Tingye Tao,2023,8,own-SHM,0,Groundwater Storage Variation Characteristics in North China before and after the South-to-North Water Diversion Project Based on GRACE and GPS Data,10.1134/s0097807823010153,0,0
+401,north_china_plain,Peijun Li,2023,8,mascon,0,Reconstructing GRACE-derived terrestrial water storage anomalies with in-situ groundwater level measurements and meteorological forcing data,10.1016/j.ejrh.2023.101528,0,0
+20,arabian,Mohamed A. Yassin,2024,7,mascon,0,Advancing SDGs: Predicting Future Shifts in Saudi Arabia’s Terrestrial Water Storage Using Multi-Step-Ahead Machine Learning Based on GRACE Data,10.3390/w16020246,0,0
+21,arabian,Arfan Arshad,2025,7,mascon,0,Multi-model ensemble machine learning-based downscaling and projection of GRACE data reveals groundwater decline in Saudi Arabia throughout the 21st century,10.1016/j.ejrh.2025.102552,0,0
+89,guarani,Annamária Kiss,2016,7,own-SHM,1,Comparison of seasonal hydrologic variations in the La Plata basin from GRACE monthly solutions with in situ gauge water level data,10.13168/agg.2016.0035,0,0
+118,high_plains,Yuting Zhou,2020,7,mascon,0,Inspecting the Food–Water Nexus in the Ogallala Aquifer Region Using Satellite Remote Sensing Time Series,10.3390/rs12142257,0,0
+209,igp,Anil Kumar Singh,2021,7,downstream-use,0,Seasonal Ground Water Fluctuation Monitoring Using GRACE Satellite Technology Over Punjab and Haryana During 2005–2015,10.1007/978-3-030-67932-3_11,0,0
+402,north_china_plain,Zhao-huan Huang,2025,7,mascon,0,Analysis of driving factors for land subsidence in typical cities of the North China Plain based on geodetector technology,10.26599/jgse.2025.9280040,0,0
+22,arabian;igp,Ahmed Mohamed,2023,6,mascon,0,"Application of gravity and remote sensing data to groundwater potential in Wadi Ar-Ramah, Saudi Arabia",10.3389/feart.2023.1227691,0,0
+23,arabian,Abdullah Othman,2024,6,mascon,0,Monitoring the response of Saudi Arabia's largest fossil aquifer system to climate variability,10.1080/16583655.2024.2331991,0,0
+210,igp,Claire Pascal,2022,6,mascon,0,Evaluating downscaling methods of GRACE data: a case study over a fractured crystalline aquifer in South India,10.5194/hess-2022-39,0,0
+212,igp,Shubham Awasthi,2023,6,mascon,0,"PREDICTING THE IMPACT OF RAPID URBANISATION ON URBAN GROUNDWATER LEVEL VARIATIONS AND ANALYZING CLIMATE DYNAMICS IN PUNJAB'S CITIES, INDIA: AN APPROACH TOWARDS SUSTAINABLE CITIES",10.5194/isprs-archives-xlviii-1-w2-2023-1319-2023,0,0
+213,igp,Haris Hasan Khan,2012,6,downstream-use,0,Terrestrial water dynamics in the lower Ganges—estimates from ENVISAT and GRACE,10.1007/s12517-012-0629-z,0,0
+269,indus,Lilu Cui,2023,6,own-SHM,0,Spatiotemporal Change in Evapotranspiration across the Indus River Basin Detected by Combining GRACE/GRACE-FO and Swarm Observations,10.3390/rs15184469,0,0
+332,murray,Ikechukwu Kalu,2024,6,mascon,0,Unravelling soil moisture uncertainties in GRACE groundwater modelling,10.1016/j.jhydrol.2024.132489,0,0
+403,north_china_plain,LI Zhen,2018,6,own-SHM,0,North China Plain Water Storage Variation Analysis Based on GRACE and Seasonal Influence Considering,10.11947/j.agcs.2018.20170171,0,0
+404,north_china_plain,Huixiang Li,2024,6,own-SHM,0,A New GRACE Downscaling Approach for Deriving High‐Resolution Groundwater Storage Changes Using Ground‐Based Scaling Factors,10.1029/2023wr035210,0,0
+405,north_china_plain,Zhi Ming Zhu,2024,6,own-SHM,0,"Response Analysis of Terrestrial Water Storage Components to Drought Based on Random Forests During 2011–2020 in Yunnan, China",10.1109/jstars.2024.3507853,0,0
+24,arabian,Ahmed Mohamed,2024,5,mascon,0,"Application of gravity and remote sensing data to groundwater storage variation in Wadi Al Dawasir, Saudi Arabia",10.1016/j.jksus.2024.103172,0,0
+25,arabian,Muhammad Usman,2024,5,mascon,0,Satellite gravimetry observations on the state of groundwater level variability in the Arabian Peninsula Region and the associated socio-economic sustainability challenges,10.1016/j.gsd.2024.101270,0,0
+36,canning,Ikechukwu Kalu,2025,5,mascon,0,A simplified drought indicator based on high-resolution GRACE terrestrial water storage anomalies,10.1016/j.jhydrol.2025.134035,0,0
+90,guarani,Julia Pfeffer,2022,5,own-SHM,1,Detection of slow changes in terrestrial water storage with GRACE and GRACE-FO satellite gravity missions,10.5194/egusphere-2022-1032,0,0
+119,high_plains,A. Richey,2016,5,downstream-use,0,Reply to comment by Sahoo et al. on “Quantifying renewable groundwater stress with GRACE”,10.1002/2015wr018329,0,0
+214,igp,Sandip Kumar Rana,2024,5,mascon,0,GRACE-derived groundwater variability and its resilience in north India: impact of climatic and socioeconomic factors,10.1080/02626667.2024.2403720,0,0
+311,mississippi,Padmanava Dash,2024,5,downstream-use,0,Influence of Land Use and Land Cover Changes and Precipitation Patterns on Groundwater Storage in the Mississippi River Watershed: Insights from GRACE Satellite Data,10.3390/rs16224285,0,0
+406,north_china_plain,Rui Zhang,2024,5,mascon,0,A rapid increase of groundwater in 2021 over the North China Plain from GPS and GRACE observations,10.1007/s10291-024-01794-5,0,0
+407,north_china_plain,Yalin Ma,2024,5,own-SHM,0,Improved Estimates of Sub‐Regional Groundwater Storage Anomaly Using Coordinated Forward Modeling,10.1029/2023wr036105,0,0
+408,north_china_plain,Shaoyi Lu,2024,5,mascon,0,The changes prediction on terrestrial water storage in typical regions of China based on neural networks and satellite gravity data,10.1038/s41598-024-67611-8,0,0
+69,central_valley,J. Torquil Smith,2021,4,non-GRACE,0,Adjoint‐Based Inversion of Geodetic Data for Sources of Deformation and Strain,10.1029/2021jb021735,0,0
+70,central_valley,M. L. Stevens,2025,4,downstream-use,0,Groundwater storage loss in the central valley analysis using a novel method based on in situ data compared to GRACE-derived data,10.1016/j.envsoft.2025.106368,0,0
+120,high_plains,Lei Ji,2023,4,downstream-use,0,Temporal trends in agricultural water use and the relationships to hydroclimatic factors in the High Plains aquifer region,10.1111/1752-1688.13133,0,0
+121,high_plains,Yongjun Zhang,2019,4,own-SHM,0,Recent Ogallala Aquifer Region Drought Conditions as Observed by Terrestrial Water Storage Anomalies from GRACE,10.1111/1752-1688.12798,0,0
+215,igp,Pragay Shourya Moudgil,2024,4,mascon,0,Bridging the Temporal Gaps in GRACE/GRACE–FO Terrestrial Water Storage Anomalies over the Major Indian River Basins Using Deep Learning,10.1007/s11053-024-10312-w,0,0
+216,igp,S.K. Sen,2024,4,mascon,0,"Application of GRACE-based satellite estimates in the assessment of flood potential: A case study of Gangetic-Brahmaputra basin, India",10.1007/s10661-024-13174-0,0,0
+217,igp,Abhinav Galodha,2023,4,downstream-use,0,MONITORING GROUNDWATER STORAGE BASINS AND HYDROLOGICAL CHANGES USING THE GRACE SATELLITE AND SENTINEL-1 FOR THE GANGA RIVER BASIN,10.5194/isprs-archives-xlviii-m-3-2023-95-2023,0,0
+218,igp,Mohd Sayeed Ul Hasan,2024,4,downstream-use,0,"Climatic teleconnection of the future trend of meteorological, GRACE-DSI, and vegetation-conditioned-based drought analysis in the Ganga Basin",10.2166/ws.2024.173,0,0
+312,mississippi,Lucas J. Heintzman,2024,4,mascon,0,Assessing Differences in Groundwater Hydrology Dynamics Between In Situ Measurements and GRACE-Derived Estimates via Machine Learning: A Test Case of Consequences for Agroecological Relationships Within the Yazoo–Mississippi Delta (USA),10.3390/hydrology11110186,0,0
+334,murray,Tongqing Li,2019,4,mascon,0,Detection of groundwater storage variability based on GRACE and CABLE model in the Murray-Darling Basin,10.1051/e3sconf/201913101067,0,0
+26,arabian,Pierre Séraphin,2022,3,mascon,0,"Influence of intensive agriculture and geological heterogeneity on the recharge of an arid aquifer system (Saq-Ram, Arabian Peninsula)",10.5194/egusphere-2022-22,0,0
+27,arabian,Abdulrahman Badaoud,2024,3,mascon,0,"Assessment of the Impact of Date Production on Water Resources Using Remote Sensing Techniques, a Case Study for Madinah, Saudi Arabia",10.1109/igarss53475.2024.10642338,0,0
+91,guarani,Vanessa da Conceição Osório,2021,3,own-SHM,1,Water level alterations on the southern rim of the Guarani Aquifer due to the rain regime,10.1590/2317-4889202120200079,0,0
+122,high_plains,Paul C. Adams,2020,3,non-GRACE,0,Language and Groundwater: Symbolic Gradients of the Anthropocene,10.1080/24694452.2020.1782724,0,0
+123,high_plains;igp;indus,Ritesh Agrawal,2014,3,mascon,0,Estimation of regional mass anomalies from Gravity Recovery and Climate Experiment (GRACE) over Himalayan region,10.5194/isprsarchives-xl-8-329-2014,0,0
+220,igp,Balbir Nagal,2025,3,review,0,Groundwater Storage Analysis using Geospatial Techniques: A Comprehensive Review over Asian Region,10.25103/jestr.181.19,0,0
+221,igp,Madhumita Sahoo,2018,3,downstream-use,0,Space-Time Cokriging Approach for Groundwater-Level Prediction with Multiattribute Multiresolution Satellite Data,10.1061/(asce)he.1943-5584.0001670,0,0
+271,indus,Gaurang Mistry,2019,3,mascon,0,"Impact of Precipitation and Agricultural Productivity on Groundwater Storage in Rahim Yar Khan District, Pakistan",10.1061/9780784482322.011,0,0
+272,indus,Arfan Arshad,2022,3,downstream-use,0,Combining Downscaled-Grace Data with Swat to Improve the Estimation of Groundwater Storage and Depletion Variations in the Irrigated Indus Basin,10.2139/ssrn.4044453,0,0
+341,murray-darling,Maike Schumacher,2025,3,own-SHM,1,Space-based natural and human-induced water storage change quantification,10.1038/s41598-025-01938-8,0,0
+410,north_china_plain,Jiancheng Han,2024,3,downstream-use,0,A high-resolution time-variable terrestrial gravity field model of continental North China,10.1038/s43247-024-01209-w,0,0
+222,igp,Kancharla Nitish Sai,2023,2,downstream-use,0,DEEP AND MACHINE LEARNING FOR MONITORING GROUNDWATER STORAGE BASINS AND HYDROLOGICAL CHANGES USING THE GRAVITY RECOVERY AND CLIMATE EXPERIMENT (GRACE) SATELLITE MISSION AND SENTINEL-1 DATA FOR THE GANGA RIVER BASIN IN THE INDIAN REGION,10.5194/isprs-archives-xlviii-1-w2-2023-1265-2023,0,0
+223,igp,Shekhar Singh,2020,2,downstream-use,0,Entropy Analysis of Seasonal Groundwater Level Fluctuations for Delhi and Haridwar Regions of India Using Grace Satellite Data,10.47884/jweam.v1i3pp26-32,0,0
+273,indus,Hamid Gulzar,2025,2,mascon,0,"Assessment of land deformation and groundwater depletion using Sentinel-1 PS InSAR, GRACE, and Borehole data",10.1016/j.rsase.2025.101639,0,0
+274,indus,Aftab Haider Khan,2025,2,mascon,0,Remote sensing-based cropping pattern identification and its impact on groundwater use in canal command areas of an irrigated agriculture region in Pakistan,10.1016/j.agwat.2025.110017,0,0
+411,north_china_plain,Bowen Zhu,2016,2,own-SHM,0,Identifying water deficit and vegetation response during the 2009/10 drought over North China: Implications for the South-to-North Water Diversion project,10.5194/hess-2016-313,0,0
+412,north_china_plain,X. Mo,2015,2,downstream-use,0,Variations in water storage in China over recent decade from GRACE Observations and GLDAS,10.5194/nhessd-3-3251-2015,0,0
+413,north_china_plain,Chuanxun Yang,2022,2,mascon,0,Reconstructing the Historical Terrestrial Water Storage Variations in the Huang–Huai–Hai River Basin With Consideration of Water Withdrawals,10.3389/fenvs.2022.840540,0,0
+414,north_china_plain,Chenxu Zhu,2023,2,own-SHM,0,Comparison of GRACE/GRACE-FO Spherical Harmonic Coefficient and Mascon Products in Explaining the Influence of South-to-North Water Transfer Project on Water Reserves in the North China Plain,10.3390/w15132343,0,0
+415,north_china_plain,Vibhor Agarwal,2025,2,own-SHM,0,Machine Learning Based Spatiotemporal Downscaling of Satellite Gravimetry Groundwater Storage Variations in North China Plain,10.2139/ssrn.5105505,0,0
+29,arabian,Yuhao Xiong,2025,1,own-SHM,0,Refined GRACE/GFO‐Derived Terrestrial Water Storage Anomaly in Middle East Recovered by ICA‐Based Forward Modeling Approach,10.1029/2024wr039837,0,0
+224,igp,Shubham Awasthi,2023,1,downstream-use,0,Assimilating Time-Series SAR Interferometry and Grace for Monitoring Groundwater Dynamics in the Southern Punjab Region of India,10.1109/igarss52108.2023.10283323,0,0
+225,igp,Yanping Cao,2025,1,mascon,0,Groundwater depletion in India: the influence of seasonal precipitation and land use land cover,10.1007/s11356-025-37274-7,0,0
+275,indus,Gaurang Mistry,2020,1,mascon,0,Utilization of Remote Sensing Data for Estimation of the Groundwater Storage Variation,10.34917/15778507,0,0
+276,indus,Shoaib Ali,2020,1,downstream-use,0,Estimation of long-term groundwater storage variation in the Lower Transboundary Indus Basin using GRACE and WGHM model data,10.22541/au.160861850.04202692/v1,0,0
+277,indus,Yahya Sattar,2020,1,own-SHM,0,Estimation of Groundwater Storage Variations in Indus River Basin using\n GRACE Data,10.48550/arxiv.2010.12175,0,0
+278,indus,Pamir Khan,2023,1,downstream-use,0,Forecasting Groundwater Depletion in Quetta Sub-Basin using Remote Sensing Data: Deep Learning Approach,10.1109/icosst60641.2023.10414232,0,0
+315,mississippi,Guillaume Ramillien,2021,1,review,0,Continental Water Storage Changes Sensed by GRACE Satellite Gravimetry,10.5772/intechopen.96109,0,0
+316,mississippi,S. M. Jones,2022,1,downstream-use,0,STUDYING THE POTENTIAL IMPACT OF GROUNDWATER DEPLETION ON SURFACE VEGETATION IN THE MISSISSIPPI DELTA USING REMOTE SENSING,10.5194/isprs-archives-xlvi-m-2-2022-131-2022,0,0
+317,mississippi,Zahra Ghaffari,2025,1,mascon,0,Evaluating an Ensemble-Based Machine Learning Approach for Groundwater Dynamics by Downscaling GRACE Data,10.3390/limnolrev25030039,0,0
+416,north_china_plain,Tao Chen,2025,1,mascon,0,Comparative analysis of the impact of different environmental loading products on contemporary vertical land motion of mainland China from multigeodetic measurements,10.1093/gji/ggaf407,0,0
+417,north_china_plain,Shoaib Ali,2025,1,mascon,0,Weight-Supported Random Forest Downscaled GRACE (-FO) Data Uncovers Groundwater Depletion Linked to Winter Wheat Cultivation in the North China Plain,10.1007/s41748-025-00976-6,0,0
+418,north_china_plain,Hao Zhang,2025,1,mascon,0,Spatiotemporal Differences of Groundwater Recovery in North China Plain Using GRACE and Well Data,10.1111/gwat.13497,0,0
+419,north_china_plain,Jifei Li,2025,1,mascon,0,"Groundwater Crisis in the Eastern Loess Plateau: Evolution of Storage, Linkages with the North China Plain, and Driving Mechanisms",10.3390/rs17162785,0,0
+31,arabian,Abdulrahman Badaoud,2026,0,mascon,0,Evaluating the impact of irrigation on groundwater resources using remote sensing: a case study for Saudi Arabia,10.1080/10106049.2025.2610859,0,0
+32,arabian,Ritshidze Nenweli,2026,0,review,0,Review of GRACE remote sensing applications for groundwater monitoring in water-scarce regions,10.1016/j.gsd.2026.101608,0,0
+33,arabian,Nadhir Al-Ansari,2026,0,mascon,0,"Analysis of the mass variation caused by Terrestrial Water Storage changes using gravity data for Wadi Sahba, Eastern Saudi Arabia",10.2139/ssrn.6533878,0,0
+34,arabian,Pierre Séraphin,2022,0,mascon,0,Reply on RC1,10.5194/egusphere-2022-22-ac1,0,0
+35,arabian,Pierre Séraphin,2022,0,mascon,0,Comment on egusphere-2022-22,10.5194/egusphere-2022-22-rc3,0,0
+71,central_valley,Ernie Tretkoff,2011,0,downstream-use,0,Research Spotlight: Groundwater is being depleted rapidly in California's Central Valley,10.1029/2011eo120015,0,0
+75,central_valley,Jayden Nam,2026,0,mascon,0,Using NASA Satellite Gravity Measurements to Detect Critical Groundwater Depletion Two Months Before Physical Well Networks,10.22541/essoar.15002172/v1,0,0
+76,central_valley,Yong Feng,2025,0,own-SHM,0,Enhanced Detection of Drought Events in California’s Central Valley Basin Using Rauch–Tung–Striebel Smoothed GRACE Level-2 Data: Mechanistic Insights from Climate–Hydrology Interactions,10.3390/rs17223683,0,0
+77,central_valley,A. J. Purdy,2023,0,mascon,0,Groundwater Monitoring with GRACE,10.1007/978-3-031-26588-4_40,0,0
+80,central_valley,Ilir Mehmetaj,2026,0,non-GRACE,0,HCTGS v3.0: California Central Valley Application — Spine-and-Rib Gravity Cascade for Sierra Nevada Water-Energy-Flood Infrastructure,10.5281/zenodo.19412339,0,0
+82,expansion-untagged,,,0,downstream-use,0,,10.26480/bdwre.01.2020.10.15,0,0
+83,expansion-untagged,,,0,mascon,0,,10.5194/egusphere-2022-22-rc2,0,0
+84,expansion-untagged,,,0,own-SHM,0,,10.5194/hess-2022-43-ec2,0,0
+85,expansion-untagged,,,0,own-SHM,0,,10.5194/egusphere-2022-1032-rc2,0,0
+86,expansion-untagged,,,0,non-GRACE,0,,10.3389/fenvs.2025.1672694,0,0
+92,guarani,Everton Pereira Bomfim,2007,0,own-SHM,0,Utilização dos dados do GRACE para caracterização da variabilidade das massas de água do aqüífero Guarani,10.1590/s0102-261x2007000400010,0,0
+125,high_plains,,2000,0,non-GRACE,0,Water project to receive US$37 million in funds,10.1016/s1365-6937(00)90491-x,0,0
+126,high_plains,,2000,0,non-GRACE,0,Suez lyonnaise combines water activities,10.1016/s1365-6937(00)90496-9,0,0
+127,high_plains;mississippi,Ashraf Rateb,2026,0,mascon,0,Freshwater Availability in the Mississippi River Basin and Adjacent Texas Aquifers Under Human and Climate Pressures,10.1029/2025ef006653,0,0
+226,igp,Suraj Dule,2026,0,mascon,0,Unveiling Localized Groundwater Depletion Hotspots in Eastern India via Physically Consistent Machine Learning Downscaling of GRACE Data,10.2139/ssrn.6215477,0,0
+227,igp,Aum Upadhyay,2026,0,mascon,0,"Synergistic utilization of GRACE/GRACE-FO observations to monitor groundwater storage dynamics in Gujarat, India",10.1016/j.rsase.2026.101929,0,0
+228,igp,Bingshi Liu,2020,0,downstream-use,0,Anthropogenic water depletion in the Indo-Gangetic Plain,10.5194/egusphere-egu2020-6125,0,0
+229,igp,Shivprasad More,2026,0,non-GRACE,0,Quantifying Groundwater Storage Loss in The Northwestern Indo-Gangetic Alluvial Plain Using Integrated Geodetic Measurements and Geophysical Modelling,10.5194/egusphere-egu26-1643,0,0
+230,igp,Vihaan Singla,2026,0,downstream-use,0,Spatiotemporal Variability of Water Storage Anomalies and Soil Moisture Dynamics Across India's Diverse Hydroclimatic Zones: A Two-Decade Assessment Using GRACE and GLDAS,10.21275/sr251028130626,0,0
+231,igp,Subimal Nandi,2026,0,mascon,0,Combined hydro-meteorological drought assessment of Ganga-Brahmaputra Basin: insights of the control of total water storage anomaly in drought occurrence,10.1007/s12665-026-12891-8,0,0
+232,igp,Ravi Ande,2025,0,downstream-use,0,"Assessment of Groundwater Storage and Urban Temporal Variations using GRACE Satellite Data: Case Study of Cooum river basin, India",10.3808/jeil.202400163,0,0
+233,igp;indus,Yahya Sattar,2021,0,own-SHM,0,Estimation of Groundwater Storage Variations in Indus River Basin Using Grace Data,10.1109/icassp39728.2021.9413591,0,0
+234,igp,Alexandra Klemme,2023,0,downstream-use,0,Sediment transport in Indian rivers high enough to impact satellite gravimetry,10.5194/hess-2023-37,0,0
+235,igp,Alexandra Klemme,2023,0,downstream-use,0,Comment on hess-2023-37,10.5194/hess-2023-37-rc2,0,0
+236,igp,Alexandra Klemme,2023,0,downstream-use,0,Reply on RC1,10.5194/hess-2023-37-ac1,0,0
+237,igp,Alexandra Klemme,2023,0,downstream-use,0,Reply on RC2,10.5194/hess-2023-37-ac2,0,0
+238,igp,Alexandra Klemme,2024,0,downstream-use,0,Sediment transport in South Asian rivers high enough to impact satellite gravimetry,10.5194/hess-28-1527-2024,0,0
+239,igp,C. DHANALAKSHMI,2025,0,non-GRACE,0,"GROUNDWATER SUSTAINABILITY: INTEGRATED POLICY, TECHNOLOGICAL, AND COMMUNITY-BASED STRATEGIES FOR AQUIFER RESILIENCE",10.64672/ijifr/25.08.12.12.018,0,0
+240,igp,Shubham Rajewar,2026,0,downstream-use,0,Present‐Day Tectonic and Non‐Tectonic Crustal Deformation of and Around the Indian Plate From GNSS and GRACE Measurements,10.1029/2025jb032730,0,0
+280,indus,Li Huang,2021,0,downstream-use,0,Groundwater dynamics in the Indus revealed by integrated flow modeling and satellite data,10.1002/essoar.10508130.1,0,0
+281,indus,Muhammad Hannan,2024,0,mascon,0,Spatio-Temporal Dynamics of Groundwater Storage in Pakistan from Gravimetric Observations,10.21203/rs.3.rs-3864359/v1,0,0
+282,indus,Alexander Prusevich,2025,0,mascon,0,"Decomposing land surface total water storage in the Indus, Ganges, and Brahmaputra basins",10.3389/feart.2025.1551218,0,0
+283,indus,Muhammad Hassan Ali,2025,0,downstream-use,0,Spatiotemporal Analysis of Groundwater Storage Changes and Its Driving Factors in the Semi-Arid Region of the Lower Chenab Canal,10.3390/hydrology12120330,0,0
+284,indus,Aftab Haider Khan,2026,0,mascon,0,Understanding groundwater dynamics of the depleted aquifer in the Indus Basin based on the downscaled GRACE data and groundwater modelling,10.1016/j.ejrh.2026.103278,0,0
+285,indus,Vasaw Tripathi,2022,0,own-SHM,0,Reply on RC2,10.5194/hess-2022-43-ac2,0,0
+286,indus,Vasaw Tripathi,2022,0,downstream-use,0,Reply on RC1,10.5194/hess-2022-43-ac1,0,0
+287,indus,Arfan Arshad,2024,0,downstream-use,0,Downscaling GRACE/GRACE-FO data for improving terrestrial and groundwater storage   monitoring and assessment in transboundary Indus Basin and Its sub-regions,10.22541/essoar.173395770.08839790/v1,0,0
+288,indus,A. A. Prusevich (22186513),2025,0,mascon,0,"Data Sheet 2_Decomposing land surface total water storage in the Indus, Ganges, and Brahmaputra basins.xlsx",10.3389/feart.2025.1551218.s002,0,0
+320,mississippi,Nicholas Schuler,2022,0,mascon,0,GPS Observations of Subsidence in South Louisiana over Seasonal and Sub-seasonal Timescales Associated with Hydrologic Loading,10.31390/gradschool_theses.5513,0,0
+321,mississippi,Md Nasrat Jahan,2026,0,mascon,0,Machine Learning Approaches for Terrestrial Water Storage Assessment in Coastal Lowland Aquifer System Using GRACE/GRACE-FO Satellite Data (2003–2023),10.3390/rs18111680,0,0
+337,murray,Stefanie Schmid,2010,0,own-SHM,0,Assessing hydrological changes in the Murray-Darling basin,10.18419/opus-3838,0,0
+340,murray,Ikechukwu Kalu,2025,0,mascon,0,Basin-scale evaluation of current and future climate influences on groundwater variations using satellite and model observations,10.1016/j.ejrh.2025.102832,0,0
+342,murray-darling,"Prasain, suresh",2025,0,non-GRACE,0,"Developing of Integrated Modelling Framework to Evaluate Sustainability of Climate Smart and Drought-Resilience Agricultural Technologies by Concerning Water, Land and Food Security Network.",10.5281/zenodo.17911502,0,0
+420,north_china_plain,Linsong Wang,2016,0,own-SHM,0,"Supplementary material to ""Detecting seasonal and long-term vertical displacement in the North China Plain using GRACE and GPS""",10.5194/hess-2016-552-supplement,0,0
+421,north_china_plain,Vibhor Agarwal,2025,0,own-SHM,0,Machine Learning Based Spatiotemporal Downscaling of Satellite Gravimetry Groundwater Storage Variations in North China Plain,10.2139/ssrn.5105509,0,0
+422,north_china_plain,Xincheng Wang,2025,0,mascon,0,Unraveling Multiscale Spatiotemporal Linkages of Groundwater Storage and Land Deformation in the North China Plain After the South-to-North Water Diversion Project,10.3390/rs17193336,0,0
+423,north_china_plain,Yijun Li,2026,0,mascon,0,Spatiotemporal evolution and attribution analysis of groundwater drought in the North China Plain: GGDI constructed based on downscaled GRACE GWSA,10.1016/j.ejrh.2026.103103,0,0
+424,north_china_plain,Tingye Tao,2026,0,mascon,0,Coupling Response Mechanisms of Groundwater and Land Subsidence in the North China Plain Under Extreme Rainfall,10.3390/w18030357,0,0
+425,north_china_plain,Zhenyue Han,2026,0,downstream-use,0,A Stacking Ensemble Model for Specific Yield Prediction: Framework Development and Application to Groundwater Storage Change Estimation in the North China Plain,10.1029/2025wr042085,0,0

@@ -1,0 +1,1657 @@
+aquifer_idx,Study_area,centre,truncation,aux_trend_cmyr,n_months
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),CSR,60,-0.3569446416462511,250
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),CSR,96,-0.3569446416462511,250
+1,Northern Guarani Aquifer (Guarani Aquifer System),CSR,60,-0.9715162648987257,250
+1,Northern Guarani Aquifer (Guarani Aquifer System),CSR,96,-0.9715162648987257,250
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),CSR,60,-0.6151922103737812,250
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),CSR,96,-0.6151922103737812,250
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),CSR,60,-0.3246528852953746,250
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),CSR,96,-0.3246528852953746,250
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),CSR,60,0.05752523946862793,250
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),CSR,96,0.05752523946862793,250
+5,Eastern Eromanga Basin (Great Artesian Basin),CSR,60,0.0709836048186794,250
+5,Eastern Eromanga Basin (Great Artesian Basin),CSR,96,0.0709836048186794,250
+6,Northern Eromanga Basin (Great Artesian Basin),CSR,60,0.2213322759987759,250
+6,Northern Eromanga Basin (Great Artesian Basin),CSR,96,0.2213322759987759,250
+7,Northern High Plains (High Plains),CSR,60,0.0023979769057639053,250
+7,Northern High Plains (High Plains),CSR,96,0.0023979769057639053,250
+8,Williston Basin (Northern Great Plains),CSR,60,-0.11173025176584084,250
+8,Williston Basin (Northern Great Plains),CSR,96,-0.11173025176584084,250
+9,Central Eromanga Depocenter (Great Artesian Basin),CSR,60,0.10504061396876445,250
+9,Central Eromanga Depocenter (Great Artesian Basin),CSR,96,0.10504061396876445,250
+10,Western Parecis Basin (Parecis Basin),CSR,60,-0.24454549577360196,250
+10,Western Parecis Basin (Parecis Basin),CSR,96,-0.24454549577360196,250
+11,Upper Gangetic Plain (Indo-Gangetic Plain),CSR,60,0.2636129752593025,250
+11,Upper Gangetic Plain (Indo-Gangetic Plain),CSR,96,0.2636129752593025,250
+12,Stampriet Kalahari Karoo Aquifer System,CSR,60,0.2686618949606742,250
+12,Stampriet Kalahari Karoo Aquifer System,CSR,96,0.2686618949606742,250
+13,Northcentral Mega Aquifer System (Mega Aquifer System),CSR,60,0.03184925605495295,250
+13,Northcentral Mega Aquifer System (Mega Aquifer System),CSR,96,0.03184925605495295,250
+14,Ozark Plateaus Aquifer System,CSR,60,0.1302264681100297,250
+14,Ozark Plateaus Aquifer System,CSR,96,0.1302264681100297,250
+15,Western Karoo Basin (Main Karoo Basin),CSR,60,0.018827260888377367,250
+15,Western Karoo Basin (Main Karoo Basin),CSR,96,0.018827260888377367,250
+16,Middle Gangetic Plain (Indo-Gangetic Plain),CSR,60,0.04718124379850416,250
+16,Middle Gangetic Plain (Indo-Gangetic Plain),CSR,96,0.04718124379850416,250
+17,Northern Mega Aquifer System (Mega Aquifer System),CSR,60,-0.04504512985070657,250
+17,Northern Mega Aquifer System (Mega Aquifer System),CSR,96,-0.04504512985070657,250
+18,Canning Basin,CSR,60,0.08274398975906466,250
+18,Canning Basin,CSR,96,0.08274398975906466,250
+19,Central Karoo Basin (Main Karoo Basin),CSR,60,-0.03344902795457275,250
+19,Central Karoo Basin (Main Karoo Basin),CSR,96,-0.03344902795457275,250
+20,Southern Carpentaria Basin (Great Artesian Basin),CSR,60,0.28743837110452064,250
+20,Southern Carpentaria Basin (Great Artesian Basin),CSR,96,0.28743837110452064,250
+21,Eastern Parecis Basin (Parecis Basin),CSR,60,-0.2861678411305371,250
+21,Eastern Parecis Basin (Parecis Basin),CSR,96,-0.2861678411305371,250
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),CSR,60,-0.6161305275339021,250
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),CSR,96,-0.6161305275339021,250
+23,Wiso Basin (Daly-Wiso-Georgina Basins),CSR,60,-0.14002755251658106,250
+23,Wiso Basin (Daly-Wiso-Georgina Basins),CSR,96,-0.14002755251658106,250
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),CSR,60,0.029324416603980608,250
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),CSR,96,0.029324416603980608,250
+25,Dakota Aquifer System,CSR,60,0.08841707484657399,250
+25,Dakota Aquifer System,CSR,96,0.08841707484657399,250
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),CSR,60,0.05845053975443881,250
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),CSR,96,0.05845053975443881,250
+27,Trans Gangetic Plain (Indo-Gangetic Plain),CSR,60,0.17958877531916478,250
+27,Trans Gangetic Plain (Indo-Gangetic Plain),CSR,96,0.17958877531916478,250
+28,Southcentral Mega Aquifer System (Mega Aquifer System),CSR,60,-0.28931833878694285,250
+28,Southcentral Mega Aquifer System (Mega Aquifer System),CSR,96,-0.28931833878694285,250
+29,Central Mississippi Embayment (Mississippi Embayment),CSR,60,0.1174640423392615,250
+29,Central Mississippi Embayment (Mississippi Embayment),CSR,96,0.1174640423392615,250
+30,Northern Karoo Basin (Main Karoo Basin),CSR,60,0.09481714764721057,250
+30,Northern Karoo Basin (Main Karoo Basin),CSR,96,0.09481714764721057,250
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),CSR,60,0.0478491589531475,250
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),CSR,96,0.0478491589531475,250
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),CSR,60,0.4285687291645585,250
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),CSR,96,0.4285687291645585,250
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,60,1.1737710050263286,250
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,96,1.1737710050263286,250
+34,Central Huaihe Plain (Huaihe River Basin),CSR,60,-0.6617288599048983,250
+34,Central Huaihe Plain (Huaihe River Basin),CSR,96,-0.6617288599048983,250
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,CSR,60,-0.06729838683716995,250
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,CSR,96,-0.06729838683716995,250
+36,Southern High Plains (High Plains),CSR,60,-0.26541065419585314,250
+36,Southern High Plains (High Plains),CSR,96,-0.26541065419585314,250
+37,Southcentral Karoo Basin (Main Karoo Basin),CSR,60,-0.01987331972454343,250
+37,Southcentral Karoo Basin (Main Karoo Basin),CSR,96,-0.01987331972454343,250
+38,Central High Plains (High Plains),CSR,60,-0.12936936852698194,250
+38,Central High Plains (High Plains),CSR,96,-0.12936936852698194,250
+39,Lower Liaohe River Plain (Liaohe River Basin),CSR,60,0.31222928816591206,250
+39,Lower Liaohe River Plain (Liaohe River Basin),CSR,96,0.31222928816591206,250
+40,Wadi As-Sirhan Basin,CSR,60,-0.3390716364475228,250
+40,Wadi As-Sirhan Basin,CSR,96,-0.3390716364475228,250
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),CSR,60,-0.09964059793097525,250
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),CSR,96,-0.09964059793097525,250
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),CSR,60,-0.06390135257154406,250
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),CSR,96,-0.06390135257154406,250
+43,Wisconsin Precambrian Aquifer,CSR,60,0.16481524562068603,250
+43,Wisconsin Precambrian Aquifer,CSR,96,0.16481524562068603,250
+44,Lafayette Area (Gulf Coast Regional Aquifer System),CSR,60,0.2184594733343934,250
+44,Lafayette Area (Gulf Coast Regional Aquifer System),CSR,96,0.2184594733343934,250
+45,Paskapoo-Scollard,CSR,60,0.1137630221775854,250
+45,Paskapoo-Scollard,CSR,96,0.1137630221775854,250
+46,Western Surat Basin (Great Artesian Basin),CSR,60,0.07524702426022019,250
+46,Western Surat Basin (Great Artesian Basin),CSR,96,0.07524702426022019,250
+47,Coonamble Embayment (Great Artesian Basin),CSR,60,0.17786368409608427,250
+47,Coonamble Embayment (Great Artesian Basin),CSR,96,0.17786368409608427,250
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),CSR,60,0.23689061574634046,250
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),CSR,96,0.23689061574634046,250
+49,Wuyuer-Shuangyang System (Songnen Plain),CSR,60,0.5809180213439256,250
+49,Wuyuer-Shuangyang System (Songnen Plain),CSR,96,0.5809180213439256,250
+50,Powder River Basin (Northern Great Plains),CSR,60,0.07533540372088367,250
+50,Powder River Basin (Northern Great Plains),CSR,96,0.07533540372088367,250
+51,Central Eucla Basin (Eucla Basin),CSR,60,-0.0253655265435703,250
+51,Central Eucla Basin (Eucla Basin),CSR,96,-0.0253655265435703,250
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),CSR,60,-0.2455370821136048,250
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),CSR,96,-0.2455370821136048,250
+53,Michigan Basin,CSR,60,0.003572708600472116,250
+53,Michigan Basin,CSR,96,0.003572708600472116,250
+54,Southern Piedmont Upland (Piedmont Plateau),CSR,60,0.13245351883411727,250
+54,Southern Piedmont Upland (Piedmont Plateau),CSR,96,0.13245351883411727,250
+55,Eastern Huaihe Plain (Huaihe River Basin),CSR,60,-0.4349399698720348,250
+55,Eastern Huaihe Plain (Huaihe River Basin),CSR,96,-0.4349399698720348,250
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,60,0.8163592472009665,250
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,96,0.8163592472009665,250
+57,Eastern Mississippi Embayment (Mississippi Embayment),CSR,60,0.06315931396882102,250
+57,Eastern Mississippi Embayment (Mississippi Embayment),CSR,96,0.06315931396882102,250
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,60,0.211751448429913,250
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,96,0.211751448429913,250
+59,Southeastern System (Amadeus Basin),CSR,60,-0.2327637437206782,250
+59,Southeastern System (Amadeus Basin),CSR,96,-0.2327637437206782,250
+60,Edwards Plateau (Edwards-Trinity Aquifer System),CSR,60,-0.09515192170129207,250
+60,Edwards Plateau (Edwards-Trinity Aquifer System),CSR,96,-0.09515192170129207,250
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.8244682189005896,250
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.8244682189005896,250
+62,Eastside Lower Indus Valley (Indus Basin),CSR,60,0.23242445252720195,250
+62,Eastside Lower Indus Valley (Indus Basin),CSR,96,0.23242445252720195,250
+63,Central Piedmont Upland (Piedmont Plateau),CSR,60,-0.026305468932763223,250
+63,Central Piedmont Upland (Piedmont Plateau),CSR,96,-0.026305468932763223,250
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),CSR,60,0.3501479969359545,250
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),CSR,96,0.3501479969359545,250
+65,Jiangsu Coastal Plain (Huaihe River Basin),CSR,60,-0.13892796683496586,250
+65,Jiangsu Coastal Plain (Huaihe River Basin),CSR,96,-0.13892796683496586,250
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,60,0.12968954759810047,250
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,96,0.12968954759810047,250
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.5397449493086252,250
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.5397449493086252,250
+68,Eastside Middle Indus Plain (Indus Basin),CSR,60,0.28566170803470664,250
+68,Eastside Middle Indus Plain (Indus Basin),CSR,96,0.28566170803470664,250
+69,Central Allegheny Plateau (Appalachian Plateaus),CSR,60,-0.08658862247362044,250
+69,Central Allegheny Plateau (Appalachian Plateaus),CSR,96,-0.08658862247362044,250
+70,Northeastern Karoo Basin (Main Karoo Basin),CSR,60,-0.11156759251593149,250
+70,Northeastern Karoo Basin (Main Karoo Basin),CSR,96,-0.11156759251593149,250
+71,Southern Riverine Plains (Murray Basin),CSR,60,0.20775906836456112,250
+71,Southern Riverine Plains (Murray Basin),CSR,96,0.20775906836456112,250
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),CSR,60,0.036338469163192534,250
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),CSR,96,0.036338469163192534,250
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),CSR,60,-0.10657680076219618,250
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),CSR,96,-0.10657680076219618,250
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.35201824481646343,250
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.35201824481646343,250
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),CSR,60,-0.24949468105941655,250
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),CSR,96,-0.24949468105941655,250
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,60,0.7911214882665141,250
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,96,0.7911214882665141,250
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),CSR,60,-0.1511785389409434,250
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),CSR,96,-0.1511785389409434,250
+78,Ivanhoe Plains (Murray Basin),CSR,60,0.0456178050495626,250
+78,Ivanhoe Plains (Murray Basin),CSR,96,0.0456178050495626,250
+79,Southcentral Piedmont Upland (Piedmont Plateau),CSR,60,0.1459624988652428,250
+79,Southcentral Piedmont Upland (Piedmont Plateau),CSR,96,0.1459624988652428,250
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),CSR,60,0.21109954358025465,250
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),CSR,96,0.21109954358025465,250
+81,Western Liaohe River Basin (Liaohe River Basin),CSR,60,0.09687494467553537,250
+81,Western Liaohe River Basin (Liaohe River Basin),CSR,96,0.09687494467553537,250
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),CSR,60,-0.36618585220924293,250
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),CSR,96,-0.36618585220924293,250
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),CSR,60,-0.11467049904068458,250
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),CSR,96,-0.11467049904068458,250
+84,Eastern Karoo Basin (Main Karoo Basin),CSR,60,0.029360086975166993,250
+84,Eastern Karoo Basin (Main Karoo Basin),CSR,96,0.029360086975166993,250
+85,Eastern Paris Basin (Paris Basin),CSR,60,0.06624517108834448,250
+85,Eastern Paris Basin (Paris Basin),CSR,96,0.06624517108834448,250
+86,Bari Doab (Indus Basin),CSR,60,0.08095450952711403,250
+86,Bari Doab (Indus Basin),CSR,96,0.08095450952711403,250
+87,Eastern Dakota Aquifer,CSR,60,-0.11160687554062447,250
+87,Eastern Dakota Aquifer,CSR,96,-0.11160687554062447,250
+88,Springfield Plain (Central Lowland Till Plain),CSR,60,0.15127636241630424,250
+88,Springfield Plain (Central Lowland Till Plain),CSR,96,0.15127636241630424,250
+89,Seymour-Blaine Aquifer System,CSR,60,-0.25281362603379925,250
+89,Seymour-Blaine Aquifer System,CSR,96,-0.25281362603379925,250
+90,Central Alluvial-Laucustrine Plain (North China Plain),CSR,60,-0.18232421264550977,250
+90,Central Alluvial-Laucustrine Plain (North China Plain),CSR,96,-0.18232421264550977,250
+91,Southern Malwa Plateau (Malwa Plateau),CSR,60,0.3801937700402472,250
+91,Southern Malwa Plateau (Malwa Plateau),CSR,96,0.3801937700402472,250
+92,Yellow River Alluvial Plain (North China Plain),CSR,60,-0.42317871917651656,250
+92,Yellow River Alluvial Plain (North China Plain),CSR,96,-0.42317871917651656,250
+93,Eastern Armorican Massif (Armorican Massif),CSR,60,0.10813743715796079,250
+93,Eastern Armorican Massif (Armorican Massif),CSR,96,0.10813743715796079,250
+94,Ocala Uplift (Floridan Aquifer System),CSR,60,0.35358724829498267,250
+94,Ocala Uplift (Floridan Aquifer System),CSR,96,0.35358724829498267,250
+95,Pearl and Chattahoochee Aquifer System,CSR,60,0.08165597272585817,250
+95,Pearl and Chattahoochee Aquifer System,CSR,96,0.08165597272585817,250
+96,Eastern Mekong Delta (Mekong Delta),CSR,60,0.12238442213481492,250
+96,Eastern Mekong Delta (Mekong Delta),CSR,96,0.12238442213481492,250
+97,Jianghan Plain,CSR,60,0.00205482383766264,250
+97,Jianghan Plain,CSR,96,0.00205482383766264,250
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),CSR,60,-0.005438749191390544,250
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),CSR,96,-0.005438749191390544,250
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),CSR,60,0.7090893431447965,250
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),CSR,96,0.7090893431447965,250
+100,Western Mississippi Embayment (Mississippi Embayment),CSR,60,0.1396374907152597,250
+100,Western Mississippi Embayment (Mississippi Embayment),CSR,96,0.1396374907152597,250
+101,Southern Hills (Gulf Coast Regional Aquifer System),CSR,60,0.27218894312527264,250
+101,Southern Hills (Gulf Coast Regional Aquifer System),CSR,96,0.27218894312527264,250
+102,Lake Frome Embayment (Great Artesian Basin),CSR,60,0.11460636011298919,250
+102,Lake Frome Embayment (Great Artesian Basin),CSR,96,0.11460636011298919,250
+103,Peedee and Black Creek and Cape Fear Aquifers,CSR,60,0.006286253676724585,250
+103,Peedee and Black Creek and Cape Fear Aquifers,CSR,96,0.006286253676724585,250
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),CSR,60,-0.06769467842499266,250
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),CSR,96,-0.06769467842499266,250
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),CSR,60,0.15963866188252396,250
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),CSR,96,0.15963866188252396,250
+106,Thal Doab (Indus Basin),CSR,60,0.15426985156040876,250
+106,Thal Doab (Indus Basin),CSR,96,0.15426985156040876,250
+107,Stockton Plateau (Edwards-Trinity Aquifer System),CSR,60,-0.07719276498968138,250
+107,Stockton Plateau (Edwards-Trinity Aquifer System),CSR,96,-0.07719276498968138,250
+108,Rechna Doab (Indus Basin),CSR,60,0.1049307309930885,250
+108,Rechna Doab (Indus Basin),CSR,96,0.1049307309930885,250
+109,Northern Piedmont and Tista Fan (Bengal Basin),CSR,60,-0.007421740083006346,250
+109,Northern Piedmont and Tista Fan (Bengal Basin),CSR,96,-0.007421740083006346,250
+110,Central Paris Basin (Paris Basin),CSR,60,0.2221386547140296,250
+110,Central Paris Basin (Paris Basin),CSR,96,0.2221386547140296,250
+111,Southern Mallee (Murray Basin),CSR,60,-0.01545036149484085,250
+111,Southern Mallee (Murray Basin),CSR,96,-0.01545036149484085,250
+112,Victoria Area (Gulf Coast Regional Aquifer System),CSR,60,-0.3658237047036983,250
+112,Victoria Area (Gulf Coast Regional Aquifer System),CSR,96,-0.3658237047036983,250
+113,Central Urucuia Aquifer (Urucuia Aquifer System),CSR,60,-0.3540173406443296,250
+113,Central Urucuia Aquifer (Urucuia Aquifer System),CSR,96,-0.3540173406443296,250
+114,Southcentral Floodplains (Bengal Basin),CSR,60,-0.02045702459307914,250
+114,Southcentral Floodplains (Bengal Basin),CSR,96,-0.02045702459307914,250
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),CSR,60,0.10982038756086984,250
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),CSR,96,0.10982038756086984,250
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),CSR,60,0.29748152567430425,250
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),CSR,96,0.29748152567430425,250
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),CSR,60,0.13095599754013446,250
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),CSR,96,0.13095599754013446,250
+118,Eastern C Aquifer (The C Aquifer),CSR,60,-0.13865422729759838,250
+118,Eastern C Aquifer (The C Aquifer),CSR,96,-0.13865422729759838,250
+119,Southern Huaihe River Basin (Huaihe River Basin),CSR,60,-0.16597248696572567,250
+119,Southern Huaihe River Basin (Huaihe River Basin),CSR,96,-0.16597248696572567,250
+120,Western Huaihe Plain (Huaihe River Basin),CSR,60,-0.843340821643323,250
+120,Western Huaihe Plain (Huaihe River Basin),CSR,96,-0.843340821643323,250
+121,Southeastern Surat Basin (Great Artesian Basin),CSR,60,0.1289747641439864,250
+121,Southeastern Surat Basin (Great Artesian Basin),CSR,96,0.1289747641439864,250
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),CSR,60,0.22052873154727026,250
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),CSR,96,0.22052873154727026,250
+123,Western Paris Basin (Paris Basin),CSR,60,0.1322582426703902,250
+123,Western Paris Basin (Paris Basin),CSR,96,0.1322582426703902,250
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),CSR,60,-0.014722446523864341,250
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),CSR,96,-0.014722446523864341,250
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),CSR,60,0.0989280872756362,250
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),CSR,96,0.0989280872756362,250
+126,Mount Vernon Hill County (Central Lowland Till Plain),CSR,60,0.10084605751263279,250
+126,Mount Vernon Hill County (Central Lowland Till Plain),CSR,96,0.10084605751263279,250
+127,Eastern Riverine Plains (Murray Basin),CSR,60,0.15251425586933529,250
+127,Eastern Riverine Plains (Murray Basin),CSR,96,0.15251425586933529,250
+128,Central Mallee (Murray Basin),CSR,60,-0.04302756704898375,250
+128,Central Mallee (Murray Basin),CSR,96,-0.04302756704898375,250
+129,Northern Allegheny Plateau (Appalachian Plateaus),CSR,60,-0.059347654154611365,250
+129,Northern Allegheny Plateau (Appalachian Plateaus),CSR,96,-0.059347654154611365,250
+130,Daly Basin (Daly-Wiso-Georgina Basins),CSR,60,-0.3901690642577659,250
+130,Daly Basin (Daly-Wiso-Georgina Basins),CSR,96,-0.3901690642577659,250
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),CSR,60,0.059808730570383106,250
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),CSR,96,0.059808730570383106,250
+132,Western Satpura Basalt Aquifers (Satpura Basalts),CSR,60,0.37307732195838894,250
+132,Western Satpura Basalt Aquifers (Satpura Basalts),CSR,96,0.37307732195838894,250
+133,Northern Aquitaine Basin (Aquitaine Basin),CSR,60,0.280086252406661,250
+133,Northern Aquitaine Basin (Aquitaine Basin),CSR,96,0.280086252406661,250
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),CSR,60,0.0832465754747759,250
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),CSR,96,0.0832465754747759,250
+135,Northern Riverine Plains (Murray Basin),CSR,60,0.1538231837479751,250
+135,Northern Riverine Plains (Murray Basin),CSR,96,0.1538231837479751,250
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),CSR,60,0.07522993793631388,250
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),CSR,96,0.07522993793631388,250
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),CSR,60,0.6368020789855271,250
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),CSR,96,0.6368020789855271,250
+138,Lower Limestone Coast Aquifer System (Murray Basin),CSR,60,-0.10734354277923484,250
+138,Lower Limestone Coast Aquifer System (Murray Basin),CSR,96,-0.10734354277923484,250
+139,Eastern Malwa Plateau (Malwa Plateau),CSR,60,0.28626643021084003,250
+139,Eastern Malwa Plateau (Malwa Plateau),CSR,96,0.28626643021084003,250
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),CSR,60,-0.04068744362801315,250
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),CSR,96,-0.04068744362801315,250
+141,Southern Paris Basin (Paris Basin),CSR,60,0.02460461185319013,250
+141,Southern Paris Basin (Paris Basin),CSR,96,0.02460461185319013,250
+142,Westside Middle Indus Plain (Indus Basin),CSR,60,0.33442549063796023,250
+142,Westside Middle Indus Plain (Indus Basin),CSR,96,0.33442549063796023,250
+143,Northcentral Piedmont Upland (Piedmont Plateau),CSR,60,-0.023707557947307306,250
+143,Northcentral Piedmont Upland (Piedmont Plateau),CSR,96,-0.023707557947307306,250
+144,Osage Plains (Osage Cuestas Aquifer System),CSR,60,0.038765174048709855,250
+144,Osage Plains (Osage Cuestas Aquifer System),CSR,96,0.038765174048709855,250
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,60,-0.10519821447099645,250
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,96,-0.10519821447099645,250
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),CSR,60,1.055643624263946,250
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),CSR,96,1.055643624263946,250
+147,Bluffton Till Plain (Central Lowland Till Plain),CSR,60,-0.09132376413327795,250
+147,Bluffton Till Plain (Central Lowland Till Plain),CSR,96,-0.09132376413327795,250
+148,Vidalia Upland (Floridan Aquifer System),CSR,60,0.3251675864282659,250
+148,Vidalia Upland (Floridan Aquifer System),CSR,96,0.3251675864282659,250
+149,Northern Paris Basin (Paris Basin),CSR,60,0.14653036640360628,250
+149,Northern Paris Basin (Paris Basin),CSR,96,0.14653036640360628,250
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),CSR,60,0.0444155485319035,250
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),CSR,96,0.0444155485319035,250
+151,Barind Tract and Central Floodplains (Bengal Basin),CSR,60,-0.059113161566798286,250
+151,Barind Tract and Central Floodplains (Bengal Basin),CSR,96,-0.059113161566798286,250
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),CSR,60,-0.3060959333114493,250
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),CSR,96,-0.3060959333114493,250
+153,Great Plains Dakota Aquifer,CSR,60,0.006075645997148507,250
+153,Great Plains Dakota Aquifer,CSR,96,0.006075645997148507,250
+154,Western Armorican Massif (Armorican Massif),CSR,60,0.0670675169852528,250
+154,Western Armorican Massif (Armorican Massif),CSR,96,0.0670675169852528,250
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),CSR,60,-0.1574493415081983,250
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),CSR,96,-0.1574493415081983,250
+156,Western Riverine Plains (Murray Basin),CSR,60,0.04010287263849787,250
+156,Western Riverine Plains (Murray Basin),CSR,96,0.04010287263849787,250
+157,Southern Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.7925909601474158,250
+157,Southern Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.7925909601474158,250
+158,Eastern Vindhyan Basin,CSR,60,0.12298970839220258,250
+158,Eastern Vindhyan Basin,CSR,96,0.12298970839220258,250
+159,Catahoula Area (Gulf Coast Regional Aquifer System),CSR,60,0.12492557340808719,250
+159,Catahoula Area (Gulf Coast Regional Aquifer System),CSR,96,0.12492557340808719,250
+160,Milk River,CSR,60,0.12722310293231928,250
+160,Milk River,CSR,96,0.12722310293231928,250
+161,Shawnee Hills (Interior Low Plateaus),CSR,60,0.043712139723360376,250
+161,Shawnee Hills (Interior Low Plateaus),CSR,96,0.043712139723360376,250
+162,Sea Island (Floridan Aquifer System),CSR,60,0.2982000471777719,250
+162,Sea Island (Floridan Aquifer System),CSR,96,0.2982000471777719,250
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),CSR,60,-0.11960014565454749,250
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),CSR,96,-0.11960014565454749,250
+164,Flint Hills Upland (Osage Cuestas Aquifer System),CSR,60,0.013454660112309835,250
+164,Flint Hills Upland (Osage Cuestas Aquifer System),CSR,96,0.013454660112309835,250
+165,Northwestern Malwa Plateau (Malwa Plateau),CSR,60,0.5541949473933663,250
+165,Northwestern Malwa Plateau (Malwa Plateau),CSR,96,0.5541949473933663,250
+166,Sundarbans and Southern Delta (Bengal Basin),CSR,60,0.023277764158472703,250
+166,Sundarbans and Southern Delta (Bengal Basin),CSR,96,0.023277764158472703,250
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),CSR,60,-0.03451350439832546,250
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),CSR,96,-0.03451350439832546,250
+168,Middle Chao Phraya Basin,CSR,60,-0.056207558486816855,250
+168,Middle Chao Phraya Basin,CSR,96,-0.056207558486816855,250
+169,Northern Mallee (Murray Basin),CSR,60,0.025269857394182717,250
+169,Northern Mallee (Murray Basin),CSR,96,0.025269857394182717,250
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),CSR,60,0.13969923132541276,250
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),CSR,96,0.13969923132541276,250
+171,Pecos Valley,CSR,60,-0.11732715605570081,250
+171,Pecos Valley,CSR,96,-0.11732715605570081,250
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.6613789172272334,250
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.6613789172272334,250
+173,Lachlan Alluvium,CSR,60,0.3912439978438102,250
+173,Lachlan Alluvium,CSR,96,0.3912439978438102,250
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),CSR,60,-0.039092338999962735,250
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),CSR,96,-0.039092338999962735,250
+175,Nanyang Basin,CSR,60,-0.38411877061503363,250
+175,Nanyang Basin,CSR,96,-0.38411877061503363,250
+176,Newcastle Till Plain (Central Lowland Till Plain),CSR,60,-0.057547791640821404,250
+176,Newcastle Till Plain (Central Lowland Till Plain),CSR,96,-0.057547791640821404,250
+177,Southern Mekong Delta (Mekong Delta),CSR,60,0.12634380220228547,250
+177,Southern Mekong Delta (Mekong Delta),CSR,96,0.12634380220228547,250
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,60,0.2089371063413881,250
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,96,0.2089371063413881,250
+179,Wimmera Plain (Murray Basin),CSR,60,0.06710476652637216,250
+179,Wimmera Plain (Murray Basin),CSR,96,0.06710476652637216,250
+180,Ghaap Plateau Dolomite Aquifer System,CSR,60,0.013079796735284662,250
+180,Ghaap Plateau Dolomite Aquifer System,CSR,96,0.013079796735284662,250
+181,Bighorn Basin,CSR,60,0.3231975022475124,250
+181,Bighorn Basin,CSR,96,0.3231975022475124,250
+182,Northern San Juan Basin,CSR,60,-0.0865446994376046,250
+182,Northern San Juan Basin,CSR,96,-0.0865446994376046,250
+183,Southwestern Bengal Basin (Bengal Basin),CSR,60,0.10284001844956714,250
+183,Southwestern Bengal Basin (Bengal Basin),CSR,96,0.10284001844956714,250
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),CSR,60,0.17122827951876715,250
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),CSR,96,0.17122827951876715,250
+185,Northern Pitted Karst Plain (Yucatan Peninsula),CSR,60,0.08632809611749531,250
+185,Northern Pitted Karst Plain (Yucatan Peninsula),CSR,96,0.08632809611749531,250
+186,New Brunswick Carboniferous Basin (Maritimes Basin),CSR,60,-0.07012409271321533,250
+186,New Brunswick Carboniferous Basin (Maritimes Basin),CSR,96,-0.07012409271321533,250
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),CSR,60,-0.04043774197522168,250
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),CSR,96,-0.04043774197522168,250
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),CSR,60,-0.019888015822316325,250
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),CSR,96,-0.019888015822316325,250
+189,Black Hills Uplift,CSR,60,0.02124111454914458,250
+189,Black Hills Uplift,CSR,96,0.02124111454914458,250
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,60,-0.0490445668270742,250
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,96,-0.0490445668270742,250
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),CSR,60,0.4384307234076044,250
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),CSR,96,0.4384307234076044,250
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),CSR,60,0.28496653271114203,250
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),CSR,96,0.28496653271114203,250
+193,Lower Coastal Plain (Floridan Aquifer System),CSR,60,0.23880218846413306,250
+193,Lower Coastal Plain (Floridan Aquifer System),CSR,96,0.23880218846413306,250
+194,Lannemezan Plateau (Aquitaine Basin),CSR,60,0.05341858593106701,250
+194,Lannemezan Plateau (Aquitaine Basin),CSR,96,0.05341858593106701,250
+195,Springbok Flats Karoo Basin,CSR,60,0.0730466102150198,250
+195,Springbok Flats Karoo Basin,CSR,96,0.0730466102150198,250
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),CSR,60,-0.006243533698689725,250
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),CSR,96,-0.006243533698689725,250
+197,Northcentral Piedmont Plain (North China Plain),CSR,60,0.10532077451963584,250
+197,Northcentral Piedmont Plain (North China Plain),CSR,96,0.10532077451963584,250
+198,North-central High Plains (High Plains),CSR,60,-0.2109467314335733,250
+198,North-central High Plains (High Plains),CSR,96,-0.2109467314335733,250
+199,Great Bend Prairie (High Plains),CSR,60,-0.11869956767212361,250
+199,Great Bend Prairie (High Plains),CSR,96,-0.11869956767212361,250
+200,Delmarva Peninsula (North Atlantic Coastal Plain),CSR,60,-0.0015291932609758114,250
+200,Delmarva Peninsula (North Atlantic Coastal Plain),CSR,96,-0.0015291932609758114,250
+201,Denver Basin,CSR,60,-0.1349386138072674,250
+201,Denver Basin,CSR,96,-0.1349386138072674,250
+202,Eastern Second Songhuajiang System (Songnen Plain),CSR,60,0.583568976895582,250
+202,Eastern Second Songhuajiang System (Songnen Plain),CSR,96,0.583568976895582,250
+203,Western Bengal Basin (Bengal Basin),CSR,60,0.0007497069158881688,250
+203,Western Bengal Basin (Bengal Basin),CSR,96,0.0007497069158881688,250
+204,Eastern Otway Basin (Otway Basin),CSR,60,0.32868110080844487,250
+204,Eastern Otway Basin (Otway Basin),CSR,96,0.32868110080844487,250
+205,Western Allegheny Plateau (Appalachian Plateaus),CSR,60,-0.01462031789707224,250
+205,Western Allegheny Plateau (Appalachian Plateaus),CSR,96,-0.01462031789707224,250
+206,Laizhou Coastal Plain,CSR,60,-0.45202019160547724,250
+206,Laizhou Coastal Plain,CSR,96,-0.45202019160547724,250
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),CSR,60,0.5392857820123319,250
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),CSR,96,0.5392857820123319,250
+208,Intermediate Aquifer (Floridan Aquifer System),CSR,60,0.5625084081666858,250
+208,Intermediate Aquifer (Floridan Aquifer System),CSR,96,0.5625084081666858,250
+209,Malm Valangnian Aquifer,CSR,60,-0.605699900774927,250
+209,Malm Valangnian Aquifer,CSR,96,-0.605699900774927,250
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),CSR,60,0.15113831663610156,250
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),CSR,96,0.15113831663610156,250
+211,Western Cambay Basin (Cambay Basin),CSR,60,0.14965551402672453,250
+211,Western Cambay Basin (Cambay Basin),CSR,96,0.14965551402672453,250
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,60,0.2288985932264943,250
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),CSR,96,0.2288985932264943,250
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),CSR,60,0.28082087650040477,250
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),CSR,96,0.28082087650040477,250
+214,Central Cambay Basin (Cambay Basin),CSR,60,0.22184525110471595,250
+214,Central Cambay Basin (Cambay Basin),CSR,96,0.22184525110471595,250
+215,Eastern Duero Basin (Duero Basin),CSR,60,0.14133550031768272,250
+215,Eastern Duero Basin (Duero Basin),CSR,96,0.14133550031768272,250
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),CSR,60,0.05530344861811735,250
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),CSR,96,0.05530344861811735,250
+217,Gunnedah Basin and Liverpool Plains,CSR,60,0.2942866705737883,250
+217,Gunnedah Basin and Liverpool Plains,CSR,96,0.2942866705737883,250
+218,Northern Piedmont Upland (Piedmont Plateau),CSR,60,-0.05329751369407124,250
+218,Northern Piedmont Upland (Piedmont Plateau),CSR,96,-0.05329751369407124,250
+219,Lower Athabasca (Lower Athabasca Basin),CSR,60,-0.09322559116255354,250
+219,Lower Athabasca (Lower Athabasca Basin),CSR,96,-0.09322559116255354,250
+220,Southern Nuomin-Taoer System (Songnen Plain),CSR,60,0.558219237952946,250
+220,Southern Nuomin-Taoer System (Songnen Plain),CSR,96,0.558219237952946,250
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),CSR,60,0.16953040117887727,250
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),CSR,96,0.16953040117887727,250
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),CSR,60,0.1296030140797858,250
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),CSR,96,0.1296030140797858,250
+223,Letaba Lowveld,CSR,60,0.020749260134709353,250
+223,Letaba Lowveld,CSR,96,0.020749260134709353,250
+224,Landes Plain (Aquitaine Basin),CSR,60,0.21755264264878935,250
+224,Landes Plain (Aquitaine Basin),CSR,96,0.21755264264878935,250
+225,Transboundary Odanah Shale,CSR,60,-0.4367863832536498,250
+225,Transboundary Odanah Shale,CSR,96,-0.4367863832536498,250
+226,Northern Hirri Basin (Chhattisgarh Basin),CSR,60,0.15540674771841553,250
+226,Northern Hirri Basin (Chhattisgarh Basin),CSR,96,0.15540674771841553,250
+227,Western Second Songhuajiang System (Songnen Plain),CSR,60,0.6691964725943615,250
+227,Western Second Songhuajiang System (Songnen Plain),CSR,96,0.6691964725943615,250
+228,Tifton Upland (Floridan Aquifer System),CSR,60,0.26558965009777563,250
+228,Tifton Upland (Floridan Aquifer System),CSR,96,0.26558965009777563,250
+229,South-central High Plains (High Plains),CSR,60,-0.276404791016727,250
+229,South-central High Plains (High Plains),CSR,96,-0.276404791016727,250
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),CSR,60,0.01171769854878741,250
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),CSR,96,0.01171769854878741,250
+231,Hill Country (Edwards-Trinity Aquifer System),CSR,60,-0.518313031911332,250
+231,Hill Country (Edwards-Trinity Aquifer System),CSR,96,-0.518313031911332,250
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),CSR,60,-0.038541809475610374,250
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),CSR,96,-0.038541809475610374,250
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),CSR,60,0.06568725426822568,250
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),CSR,96,0.06568725426822568,250
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,CSR,60,0.038410636162607245,250
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,CSR,96,0.038410636162607245,250
+235,South Platte Basin,CSR,60,-0.03284023060125117,250
+235,South Platte Basin,CSR,96,-0.03284023060125117,250
+236,North Rewa Basin (Son-Mahandai Valley Basins),CSR,60,0.07434529539078329,250
+236,North Rewa Basin (Son-Mahandai Valley Basins),CSR,96,0.07434529539078329,250
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),CSR,60,0.7220261474281785,250
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),CSR,96,0.7220261474281785,250
+238,Chaj Doab (Indus Basin),CSR,60,-0.05417455137089617,250
+238,Chaj Doab (Indus Basin),CSR,96,-0.05417455137089617,250
+239,Rush Springs Aquifer,CSR,60,-0.2515804644319834,250
+239,Rush Springs Aquifer,CSR,96,-0.2515804644319834,250
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),CSR,60,-0.04977208077741658,250
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),CSR,96,-0.04977208077741658,250
+241,Bangkok Basin (Lower Chao Phraya Basin),CSR,60,0.23615845867940732,250
+241,Bangkok Basin (Lower Chao Phraya Basin),CSR,96,0.23615845867940732,250
+242,Gypsum Hills,CSR,60,-0.14340866241960779,250
+242,Gypsum Hills,CSR,96,-0.14340866241960779,250
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),CSR,60,0.37817337416846214,250
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),CSR,96,0.37817337416846214,250
+244,Hetao Basin,CSR,60,-0.045473557173962766,250
+244,Hetao Basin,CSR,96,-0.045473557173962766,250
+245,Western C Aquifer (The C Aquifer),CSR,60,0.009422461055733147,250
+245,Western C Aquifer (The C Aquifer),CSR,96,0.009422461055733147,250
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),CSR,60,0.029318760308679987,250
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),CSR,96,0.029318760308679987,250
+247,Gambier Embayment (Otway Basin),CSR,60,0.14865570411229614,250
+247,Gambier Embayment (Otway Basin),CSR,96,0.14865570411229614,250
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),CSR,60,0.15278251635768272,250
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),CSR,96,0.15278251635768272,250
+249,San Luis Valley (Middle Rio Grande),CSR,60,-0.10533829241003849,250
+249,San Luis Valley (Middle Rio Grande),CSR,96,-0.10533829241003849,250
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),CSR,60,-0.005936593116434617,250
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),CSR,96,-0.005936593116434617,250
+251,Sylhet Basin (Bengal Basin),CSR,60,-0.0932422693707085,250
+251,Sylhet Basin (Bengal Basin),CSR,96,-0.0932422693707085,250
+252,Tuli Karoo Aquifer,CSR,60,0.23761684196596086,250
+252,Tuli Karoo Aquifer,CSR,96,0.23761684196596086,250
+253,Antlers Aquifer,CSR,60,0.30907044275508666,250
+253,Antlers Aquifer,CSR,96,0.30907044275508666,250
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),CSR,60,-0.06068144724547678,250
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),CSR,96,-0.06068144724547678,250
+255,Upper Deschutes Basin,CSR,60,-0.10335461481042223,250
+255,Upper Deschutes Basin,CSR,96,-0.10335461481042223,250
+256,Southwestern Flatwoods (Floridan Aquifer System),CSR,60,0.8769276953216101,250
+256,Southwestern Flatwoods (Floridan Aquifer System),CSR,96,0.8769276953216101,250
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),CSR,60,0.00927634360267512,250
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),CSR,96,0.00927634360267512,250
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),CSR,60,1.2150145697040862,250
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),CSR,96,1.2150145697040862,250
+259,Northern Duero Basin (Duero Basin),CSR,60,-0.13632301794380394,250
+259,Northern Duero Basin (Duero Basin),CSR,96,-0.13632301794380394,250
+260,Central Littoral Plain (North China Plain),CSR,60,0.0750374447181084,250
+260,Central Littoral Plain (North China Plain),CSR,96,0.0750374447181084,250
+261,Red River Delta,CSR,60,0.18729124701329036,250
+261,Red River Delta,CSR,96,0.18729124701329036,250
+262,Tipton Till Plain (Central Lowland Till Plain),CSR,60,-0.05796989083664079,250
+262,Tipton Till Plain (Central Lowland Till Plain),CSR,96,-0.05796989083664079,250
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),CSR,60,-0.025557958739390395,250
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),CSR,96,-0.025557958739390395,250
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),CSR,60,0.31483045012369937,250
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),CSR,96,0.31483045012369937,250
+265,Kurnool Basin (Cuddapah Sedimentary Basin),CSR,60,0.40754902017359074,250
+265,Kurnool Basin (Cuddapah Sedimentary Basin),CSR,96,0.40754902017359074,250
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),CSR,60,-0.09846648154245416,250
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),CSR,96,-0.09846648154245416,250
+267,Northern Nuomin-Taoer System (Songnen Plain),CSR,60,0.7947875561338993,250
+267,Northern Nuomin-Taoer System (Songnen Plain),CSR,96,0.7947875561338993,250
+268,Hatfield Valley,CSR,60,-0.6076031394736605,250
+268,Hatfield Valley,CSR,96,-0.6076031394736605,250
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),CSR,60,0.27277352020682305,250
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),CSR,96,0.27277352020682305,250
+270,Alsatian Aquifer and Upper Rhine Valley,CSR,60,-0.0037702174665988305,250
+270,Alsatian Aquifer and Upper Rhine Valley,CSR,96,-0.0037702174665988305,250
+271,Southern Odanah Shale,CSR,60,-0.3485019979011288,250
+271,Southern Odanah Shale,CSR,96,-0.3485019979011288,250
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),CSR,60,0.24762283193854517,250
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),CSR,96,0.24762283193854517,250
+273,Southern Hirri Basin (Chhattisgarh Basin),CSR,60,0.1519916112201851,250
+273,Southern Hirri Basin (Chhattisgarh Basin),CSR,96,0.1519916112201851,250
+274,Limpopo Plateau,CSR,60,0.06860980720813324,250
+274,Limpopo Plateau,CSR,96,0.06860980720813324,250
+275,Southeastern Bengal Basin (Bengal Basin),CSR,60,-0.02930823256111226,250
+275,Southeastern Bengal Basin (Bengal Basin),CSR,96,-0.02930823256111226,250
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),JPL,60,-0.357654656557466,251
+1,Northern Guarani Aquifer (Guarani Aquifer System),JPL,60,-0.9706433629555534,251
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),JPL,60,-0.6158397033027149,251
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),JPL,60,-0.3232711097695375,251
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),JPL,60,0.05652385741548894,251
+5,Eastern Eromanga Basin (Great Artesian Basin),JPL,60,0.07056476111006392,251
+6,Northern Eromanga Basin (Great Artesian Basin),JPL,60,0.22129011046144162,251
+7,Northern High Plains (High Plains),JPL,60,0.0021781228036886193,251
+8,Williston Basin (Northern Great Plains),JPL,60,-0.11314389128529001,251
+9,Central Eromanga Depocenter (Great Artesian Basin),JPL,60,0.10471970044621075,251
+10,Western Parecis Basin (Parecis Basin),JPL,60,-0.24346863415943448,251
+11,Upper Gangetic Plain (Indo-Gangetic Plain),JPL,60,0.26181286977234774,251
+12,Stampriet Kalahari Karoo Aquifer System,JPL,60,0.2681501247523595,251
+13,Northcentral Mega Aquifer System (Mega Aquifer System),JPL,60,0.03219753928664509,251
+14,Ozark Plateaus Aquifer System,JPL,60,0.1316018666177013,251
+15,Western Karoo Basin (Main Karoo Basin),JPL,60,0.018794036533810423,251
+16,Middle Gangetic Plain (Indo-Gangetic Plain),JPL,60,0.046295498030114665,251
+17,Northern Mega Aquifer System (Mega Aquifer System),JPL,60,-0.04470983914699806,251
+18,Canning Basin,JPL,60,0.08274027011519945,251
+19,Central Karoo Basin (Main Karoo Basin),JPL,60,-0.03338868577335338,251
+20,Southern Carpentaria Basin (Great Artesian Basin),JPL,60,0.28644780005501547,251
+21,Eastern Parecis Basin (Parecis Basin),JPL,60,-0.2862607152733601,251
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),JPL,60,-0.6157302631395605,251
+23,Wiso Basin (Daly-Wiso-Georgina Basins),JPL,60,-0.14046188592483477,251
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),JPL,60,0.02820423379672288,251
+25,Dakota Aquifer System,JPL,60,0.08751868798613541,251
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),JPL,60,0.05829009335235304,251
+27,Trans Gangetic Plain (Indo-Gangetic Plain),JPL,60,0.177918216326896,251
+28,Southcentral Mega Aquifer System (Mega Aquifer System),JPL,60,-0.28909565321346203,251
+29,Central Mississippi Embayment (Mississippi Embayment),JPL,60,0.12006879676362196,251
+30,Northern Karoo Basin (Main Karoo Basin),JPL,60,0.0949450992507354,251
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),JPL,60,0.04884397528232313,251
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),JPL,60,0.42860371594701846,251
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,60,1.1717381182207627,251
+34,Central Huaihe Plain (Huaihe River Basin),JPL,60,-0.6611390387109265,251
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,JPL,60,-0.06623391351720284,251
+36,Southern High Plains (High Plains),JPL,60,-0.26494550360243435,251
+37,Southcentral Karoo Basin (Main Karoo Basin),JPL,60,-0.019979061294551306,251
+38,Central High Plains (High Plains),JPL,60,-0.12895307280081353,251
+39,Lower Liaohe River Plain (Liaohe River Basin),JPL,60,0.3119425327983592,251
+40,Wadi As-Sirhan Basin,JPL,60,-0.33885214576767453,251
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),JPL,60,-0.09947313983813373,251
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),JPL,60,-0.062268591139015436,251
+43,Wisconsin Precambrian Aquifer,JPL,60,0.16602973650473515,251
+44,Lafayette Area (Gulf Coast Regional Aquifer System),JPL,60,0.22212372911060999,251
+45,Paskapoo-Scollard,JPL,60,0.11457320549661704,251
+46,Western Surat Basin (Great Artesian Basin),JPL,60,0.07492702182517053,251
+47,Coonamble Embayment (Great Artesian Basin),JPL,60,0.17772480039396382,251
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),JPL,60,0.23616291483581783,251
+49,Wuyuer-Shuangyang System (Songnen Plain),JPL,60,0.5822317635045935,251
+50,Powder River Basin (Northern Great Plains),JPL,60,0.07436740826966072,251
+51,Central Eucla Basin (Eucla Basin),JPL,60,-0.025373311562090363,251
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),JPL,60,-0.24480279476434358,251
+53,Michigan Basin,JPL,60,0.0034361602073703953,251
+54,Southern Piedmont Upland (Piedmont Plateau),JPL,60,0.13497622606772397,251
+55,Eastern Huaihe Plain (Huaihe River Basin),JPL,60,-0.4359979108553784,251
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,60,0.815380120014437,251
+57,Eastern Mississippi Embayment (Mississippi Embayment),JPL,60,0.06520060169095904,251
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,60,0.21360716221851225,251
+59,Southeastern System (Amadeus Basin),JPL,60,-0.23312864096897437,251
+60,Edwards Plateau (Edwards-Trinity Aquifer System),JPL,60,-0.09481784974767714,251
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.8235534154239685,251
+62,Eastside Lower Indus Valley (Indus Basin),JPL,60,0.23041967420629456,251
+63,Central Piedmont Upland (Piedmont Plateau),JPL,60,-0.024955115920678016,251
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),JPL,60,0.3534518240952173,251
+65,Jiangsu Coastal Plain (Huaihe River Basin),JPL,60,-0.1399829701842088,251
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,60,0.1305611504174841,251
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.5393342334672282,251
+68,Eastside Middle Indus Plain (Indus Basin),JPL,60,0.28492932046296143,251
+69,Central Allegheny Plateau (Appalachian Plateaus),JPL,60,-0.08698974704900335,251
+70,Northeastern Karoo Basin (Main Karoo Basin),JPL,60,-0.11093932319094098,251
+71,Southern Riverine Plains (Murray Basin),JPL,60,0.2072966890902752,251
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),JPL,60,0.03860837095629889,251
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),JPL,60,-0.10616835565086451,251
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.3515973124802696,251
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),JPL,60,-0.24910503377183632,251
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,60,0.789781974332221,251
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),JPL,60,-0.15061584055070878,251
+78,Ivanhoe Plains (Murray Basin),JPL,60,0.04543703337939425,251
+79,Southcentral Piedmont Upland (Piedmont Plateau),JPL,60,0.14791578834517957,251
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),JPL,60,0.2135800245572119,251
+81,Western Liaohe River Basin (Liaohe River Basin),JPL,60,0.09739323094150189,251
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),JPL,60,-0.3652705601113318,251
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),JPL,60,-0.11630300478184143,251
+84,Eastern Karoo Basin (Main Karoo Basin),JPL,60,0.03052622835890668,251
+85,Eastern Paris Basin (Paris Basin),JPL,60,0.06815657777759877,251
+86,Bari Doab (Indus Basin),JPL,60,0.08063116770918513,251
+87,Eastern Dakota Aquifer,JPL,60,-0.11073405293437233,251
+88,Springfield Plain (Central Lowland Till Plain),JPL,60,0.1516663268306205,251
+89,Seymour-Blaine Aquifer System,JPL,60,-0.2525052031445543,251
+90,Central Alluvial-Laucustrine Plain (North China Plain),JPL,60,-0.18178872474919353,251
+91,Southern Malwa Plateau (Malwa Plateau),JPL,60,0.3793600074046387,251
+92,Yellow River Alluvial Plain (North China Plain),JPL,60,-0.4235769405187746,251
+93,Eastern Armorican Massif (Armorican Massif),JPL,60,0.10999368468223361,251
+94,Ocala Uplift (Floridan Aquifer System),JPL,60,0.3561438910015217,251
+95,Pearl and Chattahoochee Aquifer System,JPL,60,0.08434905501860021,251
+96,Eastern Mekong Delta (Mekong Delta),JPL,60,0.12029994659408942,251
+97,Jianghan Plain,JPL,60,0.002828972330951916,251
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),JPL,60,-0.0046772135595604565,251
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),JPL,60,0.7051592720708081,251
+100,Western Mississippi Embayment (Mississippi Embayment),JPL,60,0.14262615725497868,251
+101,Southern Hills (Gulf Coast Regional Aquifer System),JPL,60,0.27471801440815075,251
+102,Lake Frome Embayment (Great Artesian Basin),JPL,60,0.1141333055962537,251
+103,Peedee and Black Creek and Cape Fear Aquifers,JPL,60,0.009054612438060364,251
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),JPL,60,-0.06684620266985909,251
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),JPL,60,0.1582983738372594,251
+106,Thal Doab (Indus Basin),JPL,60,0.15356831000765317,251
+107,Stockton Plateau (Edwards-Trinity Aquifer System),JPL,60,-0.0769217988529695,251
+108,Rechna Doab (Indus Basin),JPL,60,0.10482280043183743,251
+109,Northern Piedmont and Tista Fan (Bengal Basin),JPL,60,-0.006955080820270832,251
+110,Central Paris Basin (Paris Basin),JPL,60,0.22386197279996634,251
+111,Southern Mallee (Murray Basin),JPL,60,-0.015620406923906828,251
+112,Victoria Area (Gulf Coast Regional Aquifer System),JPL,60,-0.3639171942199287,251
+113,Central Urucuia Aquifer (Urucuia Aquifer System),JPL,60,-0.35431125158602916,251
+114,Southcentral Floodplains (Bengal Basin),JPL,60,-0.02030335350834005,251
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),JPL,60,0.11016918158827906,251
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),JPL,60,0.2957582032916777,251
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),JPL,60,0.13150203802682145,251
+118,Eastern C Aquifer (The C Aquifer),JPL,60,-0.13848381042551192,251
+119,Southern Huaihe River Basin (Huaihe River Basin),JPL,60,-0.16550157059821594,251
+120,Western Huaihe Plain (Huaihe River Basin),JPL,60,-0.8438452629281874,251
+121,Southeastern Surat Basin (Great Artesian Basin),JPL,60,0.12871902477488087,251
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),JPL,60,0.22427479837813358,251
+123,Western Paris Basin (Paris Basin),JPL,60,0.13422245367926244,251
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),JPL,60,-0.014652690706640216,251
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),JPL,60,0.09856563772587476,251
+126,Mount Vernon Hill County (Central Lowland Till Plain),JPL,60,0.1014860746180622,251
+127,Eastern Riverine Plains (Murray Basin),JPL,60,0.15269301561307547,251
+128,Central Mallee (Murray Basin),JPL,60,-0.04302613693088806,251
+129,Northern Allegheny Plateau (Appalachian Plateaus),JPL,60,-0.05984097018672973,251
+130,Daly Basin (Daly-Wiso-Georgina Basins),JPL,60,-0.3898327625901216,251
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),JPL,60,0.061379320584523146,251
+132,Western Satpura Basalt Aquifers (Satpura Basalts),JPL,60,0.3720250435098397,251
+133,Northern Aquitaine Basin (Aquitaine Basin),JPL,60,0.28219980526651545,251
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),JPL,60,0.0842029697036215,251
+135,Northern Riverine Plains (Murray Basin),JPL,60,0.15413607537744514,251
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),JPL,60,0.07552577781079307,251
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),JPL,60,0.6360953502824187,251
+138,Lower Limestone Coast Aquifer System (Murray Basin),JPL,60,-0.10721461691671029,251
+139,Eastern Malwa Plateau (Malwa Plateau),JPL,60,0.28543791216292574,251
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),JPL,60,-0.04015523473542954,251
+141,Southern Paris Basin (Paris Basin),JPL,60,0.02640246863431059,251
+142,Westside Middle Indus Plain (Indus Basin),JPL,60,0.33337989999042866,251
+143,Northcentral Piedmont Upland (Piedmont Plateau),JPL,60,-0.02435834248744442,251
+144,Osage Plains (Osage Cuestas Aquifer System),JPL,60,0.040521279936085966,251
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,60,-0.10486254173721071,251
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),JPL,60,1.05465304299698,251
+147,Bluffton Till Plain (Central Lowland Till Plain),JPL,60,-0.09062334491640214,251
+148,Vidalia Upland (Floridan Aquifer System),JPL,60,0.32660722729996283,251
+149,Northern Paris Basin (Paris Basin),JPL,60,0.14814793507692697,251
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),JPL,60,0.045935910416440545,251
+151,Barind Tract and Central Floodplains (Bengal Basin),JPL,60,-0.05905880603305126,251
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),JPL,60,-0.30616500648476525,251
+153,Great Plains Dakota Aquifer,JPL,60,0.006689332369658349,251
+154,Western Armorican Massif (Armorican Massif),JPL,60,0.06901420696999461,251
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),JPL,60,-0.15712725418799314,251
+156,Western Riverine Plains (Murray Basin),JPL,60,0.04009612142381905,251
+157,Southern Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.7910215306154594,251
+158,Eastern Vindhyan Basin,JPL,60,0.12185951310038091,251
+159,Catahoula Area (Gulf Coast Regional Aquifer System),JPL,60,0.12696386858853054,251
+160,Milk River,JPL,60,0.1269184198612645,251
+161,Shawnee Hills (Interior Low Plateaus),JPL,60,0.04488847157368634,251
+162,Sea Island (Floridan Aquifer System),JPL,60,0.3004360946351219,251
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),JPL,60,-0.12029204644785528,251
+164,Flint Hills Upland (Osage Cuestas Aquifer System),JPL,60,0.014923321105880905,251
+165,Northwestern Malwa Plateau (Malwa Plateau),JPL,60,0.5531028733275715,251
+166,Sundarbans and Southern Delta (Bengal Basin),JPL,60,0.023256941871096348,251
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),JPL,60,-0.03499872280971826,251
+168,Middle Chao Phraya Basin,JPL,60,-0.05814790291790515,251
+169,Northern Mallee (Murray Basin),JPL,60,0.025080561241629256,251
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),JPL,60,0.1422780762578848,251
+171,Pecos Valley,JPL,60,-0.11715559931106145,251
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.6608173835703254,251
+173,Lachlan Alluvium,JPL,60,0.3916599129912157,251
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),JPL,60,-0.03927342411416449,251
+175,Nanyang Basin,JPL,60,-0.3844396186701765,251
+176,Newcastle Till Plain (Central Lowland Till Plain),JPL,60,-0.05694996705042882,251
+177,Southern Mekong Delta (Mekong Delta),JPL,60,0.12480562568121285,251
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,60,0.20954462448171118,251
+179,Wimmera Plain (Murray Basin),JPL,60,0.06701378521636793,251
+180,Ghaap Plateau Dolomite Aquifer System,JPL,60,0.013135754815368725,251
+181,Bighorn Basin,JPL,60,0.3227651141657594,251
+182,Northern San Juan Basin,JPL,60,-0.08616953697568333,251
+183,Southwestern Bengal Basin (Bengal Basin),JPL,60,0.10226436379657218,251
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),JPL,60,0.1742384872796051,251
+185,Northern Pitted Karst Plain (Yucatan Peninsula),JPL,60,0.08493409564761668,251
+186,New Brunswick Carboniferous Basin (Maritimes Basin),JPL,60,-0.06959405196625514,251
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),JPL,60,-0.03981556601397014,251
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),JPL,60,-0.019601702927331287,251
+189,Black Hills Uplift,JPL,60,0.020719168926417064,251
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,60,-0.04878634730880238,251
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),JPL,60,0.4374663068461607,251
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),JPL,60,0.28785164804204594,251
+193,Lower Coastal Plain (Floridan Aquifer System),JPL,60,0.24142174296584204,251
+194,Lannemezan Plateau (Aquitaine Basin),JPL,60,0.05465863612149501,251
+195,Springbok Flats Karoo Basin,JPL,60,0.07329396222060884,251
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),JPL,60,-0.005796684190991083,251
+197,Northcentral Piedmont Plain (North China Plain),JPL,60,0.10569678468117122,251
+198,North-central High Plains (High Plains),JPL,60,-0.210615703925333,251
+199,Great Bend Prairie (High Plains),JPL,60,-0.11783534020480975,251
+200,Delmarva Peninsula (North Atlantic Coastal Plain),JPL,60,-0.0011078836938255197,251
+201,Denver Basin,JPL,60,-0.13472229852834927,251
+202,Eastern Second Songhuajiang System (Songnen Plain),JPL,60,0.5854504028736027,251
+203,Western Bengal Basin (Bengal Basin),JPL,60,0.00046379936239777903,251
+204,Eastern Otway Basin (Otway Basin),JPL,60,0.3274477510449077,251
+205,Western Allegheny Plateau (Appalachian Plateaus),JPL,60,-0.01465925599849957,251
+206,Laizhou Coastal Plain,JPL,60,-0.45310577937950763,251
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),JPL,60,0.5374112133937418,251
+208,Intermediate Aquifer (Floridan Aquifer System),JPL,60,0.5625203523924623,251
+209,Malm Valangnian Aquifer,JPL,60,-0.6047927027250257,251
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),JPL,60,0.14805118618127003,251
+211,Western Cambay Basin (Cambay Basin),JPL,60,0.147624101296557,251
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,60,0.22876384338893976,251
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),JPL,60,0.2829567747073606,251
+214,Central Cambay Basin (Cambay Basin),JPL,60,0.21875890199424677,251
+215,Eastern Duero Basin (Duero Basin),JPL,60,0.14250597618945438,251
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),JPL,60,0.05618347708263021,251
+217,Gunnedah Basin and Liverpool Plains,JPL,60,0.29366939215659027,251
+218,Northern Piedmont Upland (Piedmont Plateau),JPL,60,-0.05481110648057913,251
+219,Lower Athabasca (Lower Athabasca Basin),JPL,60,-0.09153691084048933,251
+220,Southern Nuomin-Taoer System (Songnen Plain),JPL,60,0.5594608363516789,251
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),JPL,60,0.1703718805814387,251
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),JPL,60,0.13042542520878544,251
+223,Letaba Lowveld,JPL,60,0.021070806194709225,251
+224,Landes Plain (Aquitaine Basin),JPL,60,0.2193609476117282,251
+225,Transboundary Odanah Shale,JPL,60,-0.4366661422631272,251
+226,Northern Hirri Basin (Chhattisgarh Basin),JPL,60,0.15481703715920478,251
+227,Western Second Songhuajiang System (Songnen Plain),JPL,60,0.6701327191551238,251
+228,Tifton Upland (Floridan Aquifer System),JPL,60,0.26780079568709697,251
+229,South-central High Plains (High Plains),JPL,60,-0.2760778258371637,251
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),JPL,60,0.009108572365998087,251
+231,Hill Country (Edwards-Trinity Aquifer System),JPL,60,-0.5169105364253427,251
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),JPL,60,-0.038384860859158425,251
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),JPL,60,0.06509221048591346,251
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,JPL,60,0.0380965456460299,251
+235,South Platte Basin,JPL,60,-0.032635099086265135,251
+236,North Rewa Basin (Son-Mahandai Valley Basins),JPL,60,0.07382899114142714,251
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),JPL,60,0.7188397700433199,251
+238,Chaj Doab (Indus Basin),JPL,60,-0.05403706102250258,251
+239,Rush Springs Aquifer,JPL,60,-0.25142800459779224,251
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),JPL,60,-0.049700326300915795,251
+241,Bangkok Basin (Lower Chao Phraya Basin),JPL,60,0.2335270293121018,251
+242,Gypsum Hills,JPL,60,-0.14271238338506115,251
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),JPL,60,0.37665386181705557,251
+244,Hetao Basin,JPL,60,-0.04534986419768418,251
+245,Western C Aquifer (The C Aquifer),JPL,60,0.009655739089134122,251
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),JPL,60,0.02926269930765572,251
+247,Gambier Embayment (Otway Basin),JPL,60,0.14757953895655682,251
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),JPL,60,0.15379450218527674,251
+249,San Luis Valley (Middle Rio Grande),JPL,60,-0.10512047597265656,251
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),JPL,60,-0.0044109389478198925,251
+251,Sylhet Basin (Bengal Basin),JPL,60,-0.0923016174121745,251
+252,Tuli Karoo Aquifer,JPL,60,0.2379542743566658,251
+253,Antlers Aquifer,JPL,60,0.31147333006288497,251
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),JPL,60,-0.06127494652598921,251
+255,Upper Deschutes Basin,JPL,60,-0.10149740430055704,251
+256,Southwestern Flatwoods (Floridan Aquifer System),JPL,60,0.87505899925293,251
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),JPL,60,0.009628172996521767,251
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),JPL,60,1.213649180682857,251
+259,Northern Duero Basin (Duero Basin),JPL,60,-0.1357294737122807,251
+260,Central Littoral Plain (North China Plain),JPL,60,0.07550698518992688,251
+261,Red River Delta,JPL,60,0.18670142666751943,251
+262,Tipton Till Plain (Central Lowland Till Plain),JPL,60,-0.057483763227177194,251
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),JPL,60,-0.023663722371585347,251
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),JPL,60,0.31259117098569433,251
+265,Kurnool Basin (Cuddapah Sedimentary Basin),JPL,60,0.40660770889295084,251
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),JPL,60,-0.09975746131087156,251
+267,Northern Nuomin-Taoer System (Songnen Plain),JPL,60,0.7960752080803085,251
+268,Hatfield Valley,JPL,60,-0.6081381169693052,251
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),JPL,60,0.2716148701039802,251
+270,Alsatian Aquifer and Upper Rhine Valley,JPL,60,-0.0018029767224157487,251
+271,Southern Odanah Shale,JPL,60,-0.3490246793815632,251
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),JPL,60,0.24688208621533175,251
+273,Southern Hirri Basin (Chhattisgarh Basin),JPL,60,0.1513600834338399,251
+274,Limpopo Plateau,JPL,60,0.06862140039539152,251
+275,Southeastern Bengal Basin (Bengal Basin),JPL,60,-0.02899419864341381,251
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),JPL,96,-0.36090423481007483,242
+1,Northern Guarani Aquifer (Guarani Aquifer System),JPL,96,-1.0073147605104653,242
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),JPL,96,-0.6366530055316929,242
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),JPL,96,-0.3260007349974852,242
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),JPL,96,0.05330294202157109,242
+5,Eastern Eromanga Basin (Great Artesian Basin),JPL,96,0.06964069059431673,242
+6,Northern Eromanga Basin (Great Artesian Basin),JPL,96,0.21804815825179097,242
+7,Northern High Plains (High Plains),JPL,96,-0.01300933466645039,242
+8,Williston Basin (Northern Great Plains),JPL,96,-0.12413106220391326,242
+9,Central Eromanga Depocenter (Great Artesian Basin),JPL,96,0.1052952744678698,242
+10,Western Parecis Basin (Parecis Basin),JPL,96,-0.28786300747900595,242
+11,Upper Gangetic Plain (Indo-Gangetic Plain),JPL,96,0.27883370520779166,242
+12,Stampriet Kalahari Karoo Aquifer System,JPL,96,0.2635889114756926,242
+13,Northcentral Mega Aquifer System (Mega Aquifer System),JPL,96,0.03389336185017051,242
+14,Ozark Plateaus Aquifer System,JPL,96,0.11595069365625385,242
+15,Western Karoo Basin (Main Karoo Basin),JPL,96,0.017939574284527818,242
+16,Middle Gangetic Plain (Indo-Gangetic Plain),JPL,96,0.08923221755206238,242
+17,Northern Mega Aquifer System (Mega Aquifer System),JPL,96,-0.044388192779538524,242
+18,Canning Basin,JPL,96,0.09741333104722208,242
+19,Central Karoo Basin (Main Karoo Basin),JPL,96,-0.03534743542524225,242
+20,Southern Carpentaria Basin (Great Artesian Basin),JPL,96,0.26827069214320437,242
+21,Eastern Parecis Basin (Parecis Basin),JPL,96,-0.3348046077822054,242
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),JPL,96,-0.6204539853581914,242
+23,Wiso Basin (Daly-Wiso-Georgina Basins),JPL,96,-0.1396954140438316,242
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),JPL,96,0.024517801133074002,242
+25,Dakota Aquifer System,JPL,96,0.07025200669949358,242
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),JPL,96,0.060643611496160925,242
+27,Trans Gangetic Plain (Indo-Gangetic Plain),JPL,96,0.18035609991546758,242
+28,Southcentral Mega Aquifer System (Mega Aquifer System),JPL,96,-0.28919322530106717,242
+29,Central Mississippi Embayment (Mississippi Embayment),JPL,96,0.10820643830616278,242
+30,Northern Karoo Basin (Main Karoo Basin),JPL,96,0.09163157527402443,242
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),JPL,96,0.03683200641956413,242
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),JPL,96,0.4071577971051577,242
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,96,1.167488268942734,242
+34,Central Huaihe Plain (Huaihe River Basin),JPL,96,-0.6356980032481615,242
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,JPL,96,-0.07512015720331988,242
+36,Southern High Plains (High Plains),JPL,96,-0.2679819340701609,242
+37,Southcentral Karoo Basin (Main Karoo Basin),JPL,96,-0.019222297826052708,242
+38,Central High Plains (High Plains),JPL,96,-0.12845309650340414,242
+39,Lower Liaohe River Plain (Liaohe River Basin),JPL,96,0.3101606936878902,242
+40,Wadi As-Sirhan Basin,JPL,96,-0.336175852850226,242
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),JPL,96,-0.10044992326930673,242
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),JPL,96,-0.06590691849079114,242
+43,Wisconsin Precambrian Aquifer,JPL,96,0.1548443556911311,242
+44,Lafayette Area (Gulf Coast Regional Aquifer System),JPL,96,0.22651202450372754,242
+45,Paskapoo-Scollard,JPL,96,0.1164617423056444,242
+46,Western Surat Basin (Great Artesian Basin),JPL,96,0.07275183317710629,242
+47,Coonamble Embayment (Great Artesian Basin),JPL,96,0.18116058741564894,242
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),JPL,96,0.2336543603777225,242
+49,Wuyuer-Shuangyang System (Songnen Plain),JPL,96,0.580606182407228,242
+50,Powder River Basin (Northern Great Plains),JPL,96,0.05945226801318581,242
+51,Central Eucla Basin (Eucla Basin),JPL,96,-0.01944952001450995,242
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),JPL,96,-0.24843553560611956,242
+53,Michigan Basin,JPL,96,-0.011850856027506068,242
+54,Southern Piedmont Upland (Piedmont Plateau),JPL,96,0.1203389391271097,242
+55,Eastern Huaihe Plain (Huaihe River Basin),JPL,96,-0.4211268879251922,242
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,96,0.8275527193361355,242
+57,Eastern Mississippi Embayment (Mississippi Embayment),JPL,96,0.05502253536034925,242
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,96,0.19949692169696487,242
+59,Southeastern System (Amadeus Basin),JPL,96,-0.22799565921641746,242
+60,Edwards Plateau (Edwards-Trinity Aquifer System),JPL,96,-0.09740122544807582,242
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.8254030280470682,242
+62,Eastside Lower Indus Valley (Indus Basin),JPL,96,0.2261925250895494,242
+63,Central Piedmont Upland (Piedmont Plateau),JPL,96,-0.03069741134315188,242
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),JPL,96,0.36240330277871746,242
+65,Jiangsu Coastal Plain (Huaihe River Basin),JPL,96,-0.15795362746119757,242
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,96,0.1256386151184272,242
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.557403815567965,242
+68,Eastside Middle Indus Plain (Indus Basin),JPL,96,0.28239727080762594,242
+69,Central Allegheny Plateau (Appalachian Plateaus),JPL,96,-0.09365265692351926,242
+70,Northeastern Karoo Basin (Main Karoo Basin),JPL,96,-0.11879014935432,242
+71,Southern Riverine Plains (Murray Basin),JPL,96,0.22152563533155115,242
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),JPL,96,0.031691278290663996,242
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),JPL,96,-0.10240591829065795,242
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.3653318334516101,242
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),JPL,96,-0.26912495859891233,242
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,96,0.7809971936328025,242
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),JPL,96,-0.16229078758697982,242
+78,Ivanhoe Plains (Murray Basin),JPL,96,0.04626226944702937,242
+79,Southcentral Piedmont Upland (Piedmont Plateau),JPL,96,0.13258712188143904,242
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),JPL,96,0.19006865529598801,242
+81,Western Liaohe River Basin (Liaohe River Basin),JPL,96,0.10487730072889771,242
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),JPL,96,-0.36677465517959196,242
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),JPL,96,-0.12895248441442786,242
+84,Eastern Karoo Basin (Main Karoo Basin),JPL,96,0.011574327929886762,242
+85,Eastern Paris Basin (Paris Basin),JPL,96,0.03532942595654808,242
+86,Bari Doab (Indus Basin),JPL,96,0.07719678574408355,242
+87,Eastern Dakota Aquifer,JPL,96,-0.13026750112922814,242
+88,Springfield Plain (Central Lowland Till Plain),JPL,96,0.12138522578095605,242
+89,Seymour-Blaine Aquifer System,JPL,96,-0.2609579593806329,242
+90,Central Alluvial-Laucustrine Plain (North China Plain),JPL,96,-0.15191296442674293,242
+91,Southern Malwa Plateau (Malwa Plateau),JPL,96,0.41421096981538946,242
+92,Yellow River Alluvial Plain (North China Plain),JPL,96,-0.3809983439667504,242
+93,Eastern Armorican Massif (Armorican Massif),JPL,96,0.08155308229520465,242
+94,Ocala Uplift (Floridan Aquifer System),JPL,96,0.38092650678862927,242
+95,Pearl and Chattahoochee Aquifer System,JPL,96,0.07975163394003465,242
+96,Eastern Mekong Delta (Mekong Delta),JPL,96,0.15215647483515307,242
+97,Jianghan Plain,JPL,96,0.027470550468687262,242
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),JPL,96,-0.01392342265234927,242
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),JPL,96,0.7197480732216013,242
+100,Western Mississippi Embayment (Mississippi Embayment),JPL,96,0.14000824256481373,242
+101,Southern Hills (Gulf Coast Regional Aquifer System),JPL,96,0.277314229403196,242
+102,Lake Frome Embayment (Great Artesian Basin),JPL,96,0.11466441123659218,242
+103,Peedee and Black Creek and Cape Fear Aquifers,JPL,96,0.015430481632992005,242
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),JPL,96,-0.02312783858599393,242
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),JPL,96,0.14957173828575981,242
+106,Thal Doab (Indus Basin),JPL,96,0.14247488805600386,242
+107,Stockton Plateau (Edwards-Trinity Aquifer System),JPL,96,-0.07463633893228398,242
+108,Rechna Doab (Indus Basin),JPL,96,0.09516927980240301,242
+109,Northern Piedmont and Tista Fan (Bengal Basin),JPL,96,0.050404536100079673,242
+110,Central Paris Basin (Paris Basin),JPL,96,0.19578776293225722,242
+111,Southern Mallee (Murray Basin),JPL,96,-0.006793703884725854,242
+112,Victoria Area (Gulf Coast Regional Aquifer System),JPL,96,-0.3556245220374536,242
+113,Central Urucuia Aquifer (Urucuia Aquifer System),JPL,96,-0.38280238959286544,242
+114,Southcentral Floodplains (Bengal Basin),JPL,96,0.031435100239162836,242
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),JPL,96,0.09912846613602057,242
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),JPL,96,0.32377507641828485,242
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),JPL,96,0.1097098874859689,242
+118,Eastern C Aquifer (The C Aquifer),JPL,96,-0.14795689553453797,242
+119,Southern Huaihe River Basin (Huaihe River Basin),JPL,96,-0.15862395301554286,242
+120,Western Huaihe Plain (Huaihe River Basin),JPL,96,-0.8078116184112681,242
+121,Southeastern Surat Basin (Great Artesian Basin),JPL,96,0.1293996471110893,242
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),JPL,96,0.23527202243666212,242
+123,Western Paris Basin (Paris Basin),JPL,96,0.10506622165692561,242
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),JPL,96,-0.019471091660432673,242
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),JPL,96,0.09603191585315397,242
+126,Mount Vernon Hill County (Central Lowland Till Plain),JPL,96,0.07513284818599898,242
+127,Eastern Riverine Plains (Murray Basin),JPL,96,0.1620480597233115,242
+128,Central Mallee (Murray Basin),JPL,96,-0.03920451084224633,242
+129,Northern Allegheny Plateau (Appalachian Plateaus),JPL,96,-0.06372403071244095,242
+130,Daly Basin (Daly-Wiso-Georgina Basins),JPL,96,-0.39005050558316307,242
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),JPL,96,0.03436676401841042,242
+132,Western Satpura Basalt Aquifers (Satpura Basalts),JPL,96,0.40035975741778057,242
+133,Northern Aquitaine Basin (Aquitaine Basin),JPL,96,0.26534147882316605,242
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),JPL,96,0.06049912489136478,242
+135,Northern Riverine Plains (Murray Basin),JPL,96,0.15751827361935689,242
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),JPL,96,0.05897457605812275,242
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),JPL,96,0.6595663255893135,242
+138,Lower Limestone Coast Aquifer System (Murray Basin),JPL,96,-0.08446672963201483,242
+139,Eastern Malwa Plateau (Malwa Plateau),JPL,96,0.31679923982689523,242
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),JPL,96,-0.06677950566248321,242
+141,Southern Paris Basin (Paris Basin),JPL,96,-0.001152741440538912,242
+142,Westside Middle Indus Plain (Indus Basin),JPL,96,0.3212270708174265,242
+143,Northcentral Piedmont Upland (Piedmont Plateau),JPL,96,-0.035203911871156485,242
+144,Osage Plains (Osage Cuestas Aquifer System),JPL,96,0.043136539857273365,242
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,96,-0.09852144905872033,242
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),JPL,96,1.0681351701774997,242
+147,Bluffton Till Plain (Central Lowland Till Plain),JPL,96,-0.11290114927309652,242
+148,Vidalia Upland (Floridan Aquifer System),JPL,96,0.32770021225373697,242
+149,Northern Paris Basin (Paris Basin),JPL,96,0.11840963907106147,242
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),JPL,96,0.03635332447969455,242
+151,Barind Tract and Central Floodplains (Bengal Basin),JPL,96,-0.005614180181500574,242
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),JPL,96,-0.31862809804867787,242
+153,Great Plains Dakota Aquifer,JPL,96,-8.300573709026316e-05,242
+154,Western Armorican Massif (Armorican Massif),JPL,96,0.04712790327653329,242
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),JPL,96,-0.16270429876606912,242
+156,Western Riverine Plains (Murray Basin),JPL,96,0.04282802127742477,242
+157,Southern Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.7953806144075147,242
+158,Eastern Vindhyan Basin,JPL,96,0.155448220197582,242
+159,Catahoula Area (Gulf Coast Regional Aquifer System),JPL,96,0.12372622843939918,242
+160,Milk River,JPL,96,0.11668121565217952,242
+161,Shawnee Hills (Interior Low Plateaus),JPL,96,0.015857877283953024,242
+162,Sea Island (Floridan Aquifer System),JPL,96,0.32027919462937565,242
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),JPL,96,-0.11462357744081843,242
+164,Flint Hills Upland (Osage Cuestas Aquifer System),JPL,96,0.013199418166210234,242
+165,Northwestern Malwa Plateau (Malwa Plateau),JPL,96,0.5795824135815517,242
+166,Sundarbans and Southern Delta (Bengal Basin),JPL,96,0.06844705013026488,242
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),JPL,96,-0.03991540526967244,242
+168,Middle Chao Phraya Basin,JPL,96,-0.04610754552770608,242
+169,Northern Mallee (Murray Basin),JPL,96,0.02449208796574874,242
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),JPL,96,0.15320754706180498,242
+171,Pecos Valley,JPL,96,-0.11823079753534024,242
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.6701463508183214,242
+173,Lachlan Alluvium,JPL,96,0.40134771250146334,242
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),JPL,96,-0.05193829317035002,242
+175,Nanyang Basin,JPL,96,-0.36318031044718335,242
+176,Newcastle Till Plain (Central Lowland Till Plain),JPL,96,-0.08468908666661647,242
+177,Southern Mekong Delta (Mekong Delta),JPL,96,0.16218903403513144,242
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,96,0.2077699168079111,242
+179,Wimmera Plain (Murray Basin),JPL,96,0.08244462773291863,242
+180,Ghaap Plateau Dolomite Aquifer System,JPL,96,0.007410425847711277,242
+181,Bighorn Basin,JPL,96,0.31680079865818744,242
+182,Northern San Juan Basin,JPL,96,-0.10067390803575563,242
+183,Southwestern Bengal Basin (Bengal Basin),JPL,96,0.13731831480566487,242
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),JPL,96,0.1862828280578709,242
+185,Northern Pitted Karst Plain (Yucatan Peninsula),JPL,96,0.07531822228823382,242
+186,New Brunswick Carboniferous Basin (Maritimes Basin),JPL,96,-0.11259350263750696,242
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),JPL,96,0.007497113398601655,242
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),JPL,96,-0.029832545138946783,242
+189,Black Hills Uplift,JPL,96,0.0008265756830063736,242
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,96,-0.050559952198611646,242
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),JPL,96,0.4634152070291074,242
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),JPL,96,0.29096660335736996,242
+193,Lower Coastal Plain (Floridan Aquifer System),JPL,96,0.2515789559255609,242
+194,Lannemezan Plateau (Aquitaine Basin),JPL,96,0.02398044457455852,242
+195,Springbok Flats Karoo Basin,JPL,96,0.07040320048351416,242
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),JPL,96,-0.008170269553511484,242
+197,Northcentral Piedmont Plain (North China Plain),JPL,96,0.13618702617651762,242
+198,North-central High Plains (High Plains),JPL,96,-0.2074635809423033,242
+199,Great Bend Prairie (High Plains),JPL,96,-0.1206883173887376,242
+200,Delmarva Peninsula (North Atlantic Coastal Plain),JPL,96,-0.007086610053156967,242
+201,Denver Basin,JPL,96,-0.1391774610955402,242
+202,Eastern Second Songhuajiang System (Songnen Plain),JPL,96,0.5773598505965133,242
+203,Western Bengal Basin (Bengal Basin),JPL,96,0.04578045892475028,242
+204,Eastern Otway Basin (Otway Basin),JPL,96,0.3558349427425196,242
+205,Western Allegheny Plateau (Appalachian Plateaus),JPL,96,-0.020417380502867774,242
+206,Laizhou Coastal Plain,JPL,96,-0.4180954233518097,242
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),JPL,96,0.5056881153427124,242
+208,Intermediate Aquifer (Floridan Aquifer System),JPL,96,0.603574384353893,242
+209,Malm Valangnian Aquifer,JPL,96,-0.6331090848323232,242
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),JPL,96,0.15425167430012512,242
+211,Western Cambay Basin (Cambay Basin),JPL,96,0.1555939382256285,242
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),JPL,96,0.22652630345045968,242
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),JPL,96,0.2962692796620185,242
+214,Central Cambay Basin (Cambay Basin),JPL,96,0.22293126366691468,242
+215,Eastern Duero Basin (Duero Basin),JPL,96,0.13309344350945132,242
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),JPL,96,0.038424218580124445,242
+217,Gunnedah Basin and Liverpool Plains,JPL,96,0.30337119668572377,242
+218,Northern Piedmont Upland (Piedmont Plateau),JPL,96,-0.06595308220206231,242
+219,Lower Athabasca (Lower Athabasca Basin),JPL,96,-0.10952056385045732,242
+220,Southern Nuomin-Taoer System (Songnen Plain),JPL,96,0.5663463982034989,242
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),JPL,96,0.15361345743988108,242
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),JPL,96,0.10904182407331786,242
+223,Letaba Lowveld,JPL,96,0.011885088086145548,242
+224,Landes Plain (Aquitaine Basin),JPL,96,0.19960092818710623,242
+225,Transboundary Odanah Shale,JPL,96,-0.4260145331328365,242
+226,Northern Hirri Basin (Chhattisgarh Basin),JPL,96,0.19494019987805278,242
+227,Western Second Songhuajiang System (Songnen Plain),JPL,96,0.6619624186251759,242
+228,Tifton Upland (Floridan Aquifer System),JPL,96,0.2740793468175625,242
+229,South-central High Plains (High Plains),JPL,96,-0.28187427535517856,242
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),JPL,96,0.027139512209917158,242
+231,Hill Country (Edwards-Trinity Aquifer System),JPL,96,-0.5165646407050002,242
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),JPL,96,-0.06297123386938532,242
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),JPL,96,0.06403521942203362,242
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,JPL,96,0.0215969983616397,242
+235,South Platte Basin,JPL,96,-0.03731227252535698,242
+236,North Rewa Basin (Son-Mahandai Valley Basins),JPL,96,0.10157977807750439,242
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),JPL,96,0.6862074990534485,242
+238,Chaj Doab (Indus Basin),JPL,96,-0.06841131807518391,242
+239,Rush Springs Aquifer,JPL,96,-0.25672803568655794,242
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),JPL,96,-0.06710498144567045,242
+241,Bangkok Basin (Lower Chao Phraya Basin),JPL,96,0.2266845508190121,242
+242,Gypsum Hills,JPL,96,-0.1456594687575122,242
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),JPL,96,0.3724142721909477,242
+244,Hetao Basin,JPL,96,-0.041476895553815604,242
+245,Western C Aquifer (The C Aquifer),JPL,96,-0.006171353580729748,242
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),JPL,96,0.03578551732557428,242
+247,Gambier Embayment (Otway Basin),JPL,96,0.185440862275764,242
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),JPL,96,0.13242152839023535,242
+249,San Luis Valley (Middle Rio Grande),JPL,96,-0.11324959839485157,242
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),JPL,96,-0.016644403547420507,242
+251,Sylhet Basin (Bengal Basin),JPL,96,-0.04068557441312879,242
+252,Tuli Karoo Aquifer,JPL,96,0.23618748306891635,242
+253,Antlers Aquifer,JPL,96,0.3108399211694518,242
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),JPL,96,-0.08222912775674524,242
+255,Upper Deschutes Basin,JPL,96,-0.13753522506080368,242
+256,Southwestern Flatwoods (Floridan Aquifer System),JPL,96,0.9006140436365454,242
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),JPL,96,0.0028132379576927447,242
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),JPL,96,1.2314617215398898,242
+259,Northern Duero Basin (Duero Basin),JPL,96,-0.15021570881254945,242
+260,Central Littoral Plain (North China Plain),JPL,96,0.11481401682908121,242
+261,Red River Delta,JPL,96,0.1990409081399285,242
+262,Tipton Till Plain (Central Lowland Till Plain),JPL,96,-0.09141185619726075,242
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),JPL,96,-0.0411659006006734,242
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),JPL,96,0.33019958653861875,242
+265,Kurnool Basin (Cuddapah Sedimentary Basin),JPL,96,0.4009258412398778,242
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),JPL,96,-0.07497101169326778,242
+267,Northern Nuomin-Taoer System (Songnen Plain),JPL,96,0.7985140064554312,242
+268,Hatfield Valley,JPL,96,-0.6333242934258044,242
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),JPL,96,0.25591499126629547,242
+270,Alsatian Aquifer and Upper Rhine Valley,JPL,96,-0.04457465742160067,242
+271,Southern Odanah Shale,JPL,96,-0.3514885770808632,242
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),JPL,96,0.26832599463183987,242
+273,Southern Hirri Basin (Chhattisgarh Basin),JPL,96,0.19896400830934433,242
+274,Limpopo Plateau,JPL,96,0.0599310963803344,242
+275,Southeastern Bengal Basin (Bengal Basin),JPL,96,0.025718469009077146,242
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),GFZ,60,-0.3569446416462511,250
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),GFZ,96,-0.3569446416462511,250
+1,Northern Guarani Aquifer (Guarani Aquifer System),GFZ,60,-0.9715162648987257,250
+1,Northern Guarani Aquifer (Guarani Aquifer System),GFZ,96,-0.9715162648987257,250
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),GFZ,60,-0.6151922103737812,250
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),GFZ,96,-0.6151922103737812,250
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),GFZ,60,-0.3246528852953746,250
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),GFZ,96,-0.3246528852953746,250
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),GFZ,60,0.05752523946862793,250
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),GFZ,96,0.05752523946862793,250
+5,Eastern Eromanga Basin (Great Artesian Basin),GFZ,60,0.0709836048186794,250
+5,Eastern Eromanga Basin (Great Artesian Basin),GFZ,96,0.0709836048186794,250
+6,Northern Eromanga Basin (Great Artesian Basin),GFZ,60,0.2213322759987759,250
+6,Northern Eromanga Basin (Great Artesian Basin),GFZ,96,0.2213322759987759,250
+7,Northern High Plains (High Plains),GFZ,60,0.0023979769057639053,250
+7,Northern High Plains (High Plains),GFZ,96,0.0023979769057639053,250
+8,Williston Basin (Northern Great Plains),GFZ,60,-0.11173025176584084,250
+8,Williston Basin (Northern Great Plains),GFZ,96,-0.11173025176584084,250
+9,Central Eromanga Depocenter (Great Artesian Basin),GFZ,60,0.10504061396876445,250
+9,Central Eromanga Depocenter (Great Artesian Basin),GFZ,96,0.10504061396876445,250
+10,Western Parecis Basin (Parecis Basin),GFZ,60,-0.24454549577360196,250
+10,Western Parecis Basin (Parecis Basin),GFZ,96,-0.24454549577360196,250
+11,Upper Gangetic Plain (Indo-Gangetic Plain),GFZ,60,0.2636129752593025,250
+11,Upper Gangetic Plain (Indo-Gangetic Plain),GFZ,96,0.2636129752593025,250
+12,Stampriet Kalahari Karoo Aquifer System,GFZ,60,0.2686618949606742,250
+12,Stampriet Kalahari Karoo Aquifer System,GFZ,96,0.2686618949606742,250
+13,Northcentral Mega Aquifer System (Mega Aquifer System),GFZ,60,0.03184925605495295,250
+13,Northcentral Mega Aquifer System (Mega Aquifer System),GFZ,96,0.03184925605495295,250
+14,Ozark Plateaus Aquifer System,GFZ,60,0.1302264681100297,250
+14,Ozark Plateaus Aquifer System,GFZ,96,0.1302264681100297,250
+15,Western Karoo Basin (Main Karoo Basin),GFZ,60,0.018827260888377367,250
+15,Western Karoo Basin (Main Karoo Basin),GFZ,96,0.018827260888377367,250
+16,Middle Gangetic Plain (Indo-Gangetic Plain),GFZ,60,0.04718124379850416,250
+16,Middle Gangetic Plain (Indo-Gangetic Plain),GFZ,96,0.04718124379850416,250
+17,Northern Mega Aquifer System (Mega Aquifer System),GFZ,60,-0.04504512985070657,250
+17,Northern Mega Aquifer System (Mega Aquifer System),GFZ,96,-0.04504512985070657,250
+18,Canning Basin,GFZ,60,0.08274398975906466,250
+18,Canning Basin,GFZ,96,0.08274398975906466,250
+19,Central Karoo Basin (Main Karoo Basin),GFZ,60,-0.03344902795457275,250
+19,Central Karoo Basin (Main Karoo Basin),GFZ,96,-0.03344902795457275,250
+20,Southern Carpentaria Basin (Great Artesian Basin),GFZ,60,0.28743837110452064,250
+20,Southern Carpentaria Basin (Great Artesian Basin),GFZ,96,0.28743837110452064,250
+21,Eastern Parecis Basin (Parecis Basin),GFZ,60,-0.2861678411305371,250
+21,Eastern Parecis Basin (Parecis Basin),GFZ,96,-0.2861678411305371,250
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),GFZ,60,-0.6161305275339021,250
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),GFZ,96,-0.6161305275339021,250
+23,Wiso Basin (Daly-Wiso-Georgina Basins),GFZ,60,-0.14002755251658106,250
+23,Wiso Basin (Daly-Wiso-Georgina Basins),GFZ,96,-0.14002755251658106,250
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),GFZ,60,0.029324416603980608,250
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),GFZ,96,0.029324416603980608,250
+25,Dakota Aquifer System,GFZ,60,0.08841707484657399,250
+25,Dakota Aquifer System,GFZ,96,0.08841707484657399,250
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),GFZ,60,0.05845053975443881,250
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),GFZ,96,0.05845053975443881,250
+27,Trans Gangetic Plain (Indo-Gangetic Plain),GFZ,60,0.17958877531916478,250
+27,Trans Gangetic Plain (Indo-Gangetic Plain),GFZ,96,0.17958877531916478,250
+28,Southcentral Mega Aquifer System (Mega Aquifer System),GFZ,60,-0.28931833878694285,250
+28,Southcentral Mega Aquifer System (Mega Aquifer System),GFZ,96,-0.28931833878694285,250
+29,Central Mississippi Embayment (Mississippi Embayment),GFZ,60,0.1174640423392615,250
+29,Central Mississippi Embayment (Mississippi Embayment),GFZ,96,0.1174640423392615,250
+30,Northern Karoo Basin (Main Karoo Basin),GFZ,60,0.09481714764721057,250
+30,Northern Karoo Basin (Main Karoo Basin),GFZ,96,0.09481714764721057,250
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),GFZ,60,0.0478491589531475,250
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),GFZ,96,0.0478491589531475,250
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),GFZ,60,0.4285687291645585,250
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),GFZ,96,0.4285687291645585,250
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,60,1.1737710050263286,250
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,96,1.1737710050263286,250
+34,Central Huaihe Plain (Huaihe River Basin),GFZ,60,-0.6617288599048983,250
+34,Central Huaihe Plain (Huaihe River Basin),GFZ,96,-0.6617288599048983,250
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,GFZ,60,-0.06729838683716995,250
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,GFZ,96,-0.06729838683716995,250
+36,Southern High Plains (High Plains),GFZ,60,-0.26541065419585314,250
+36,Southern High Plains (High Plains),GFZ,96,-0.26541065419585314,250
+37,Southcentral Karoo Basin (Main Karoo Basin),GFZ,60,-0.01987331972454343,250
+37,Southcentral Karoo Basin (Main Karoo Basin),GFZ,96,-0.01987331972454343,250
+38,Central High Plains (High Plains),GFZ,60,-0.12936936852698194,250
+38,Central High Plains (High Plains),GFZ,96,-0.12936936852698194,250
+39,Lower Liaohe River Plain (Liaohe River Basin),GFZ,60,0.31222928816591206,250
+39,Lower Liaohe River Plain (Liaohe River Basin),GFZ,96,0.31222928816591206,250
+40,Wadi As-Sirhan Basin,GFZ,60,-0.3390716364475228,250
+40,Wadi As-Sirhan Basin,GFZ,96,-0.3390716364475228,250
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),GFZ,60,-0.09964059793097525,250
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),GFZ,96,-0.09964059793097525,250
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),GFZ,60,-0.06390135257154406,250
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),GFZ,96,-0.06390135257154406,250
+43,Wisconsin Precambrian Aquifer,GFZ,60,0.16481524562068603,250
+43,Wisconsin Precambrian Aquifer,GFZ,96,0.16481524562068603,250
+44,Lafayette Area (Gulf Coast Regional Aquifer System),GFZ,60,0.2184594733343934,250
+44,Lafayette Area (Gulf Coast Regional Aquifer System),GFZ,96,0.2184594733343934,250
+45,Paskapoo-Scollard,GFZ,60,0.1137630221775854,250
+45,Paskapoo-Scollard,GFZ,96,0.1137630221775854,250
+46,Western Surat Basin (Great Artesian Basin),GFZ,60,0.07524702426022019,250
+46,Western Surat Basin (Great Artesian Basin),GFZ,96,0.07524702426022019,250
+47,Coonamble Embayment (Great Artesian Basin),GFZ,60,0.17786368409608427,250
+47,Coonamble Embayment (Great Artesian Basin),GFZ,96,0.17786368409608427,250
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),GFZ,60,0.23689061574634046,250
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),GFZ,96,0.23689061574634046,250
+49,Wuyuer-Shuangyang System (Songnen Plain),GFZ,60,0.5809180213439256,250
+49,Wuyuer-Shuangyang System (Songnen Plain),GFZ,96,0.5809180213439256,250
+50,Powder River Basin (Northern Great Plains),GFZ,60,0.07533540372088367,250
+50,Powder River Basin (Northern Great Plains),GFZ,96,0.07533540372088367,250
+51,Central Eucla Basin (Eucla Basin),GFZ,60,-0.0253655265435703,250
+51,Central Eucla Basin (Eucla Basin),GFZ,96,-0.0253655265435703,250
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),GFZ,60,-0.2455370821136048,250
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),GFZ,96,-0.2455370821136048,250
+53,Michigan Basin,GFZ,60,0.003572708600472116,250
+53,Michigan Basin,GFZ,96,0.003572708600472116,250
+54,Southern Piedmont Upland (Piedmont Plateau),GFZ,60,0.13245351883411727,250
+54,Southern Piedmont Upland (Piedmont Plateau),GFZ,96,0.13245351883411727,250
+55,Eastern Huaihe Plain (Huaihe River Basin),GFZ,60,-0.4349399698720348,250
+55,Eastern Huaihe Plain (Huaihe River Basin),GFZ,96,-0.4349399698720348,250
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,60,0.8163592472009665,250
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,96,0.8163592472009665,250
+57,Eastern Mississippi Embayment (Mississippi Embayment),GFZ,60,0.06315931396882102,250
+57,Eastern Mississippi Embayment (Mississippi Embayment),GFZ,96,0.06315931396882102,250
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,60,0.211751448429913,250
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,96,0.211751448429913,250
+59,Southeastern System (Amadeus Basin),GFZ,60,-0.2327637437206782,250
+59,Southeastern System (Amadeus Basin),GFZ,96,-0.2327637437206782,250
+60,Edwards Plateau (Edwards-Trinity Aquifer System),GFZ,60,-0.09515192170129207,250
+60,Edwards Plateau (Edwards-Trinity Aquifer System),GFZ,96,-0.09515192170129207,250
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.8244682189005896,250
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.8244682189005896,250
+62,Eastside Lower Indus Valley (Indus Basin),GFZ,60,0.23242445252720195,250
+62,Eastside Lower Indus Valley (Indus Basin),GFZ,96,0.23242445252720195,250
+63,Central Piedmont Upland (Piedmont Plateau),GFZ,60,-0.026305468932763223,250
+63,Central Piedmont Upland (Piedmont Plateau),GFZ,96,-0.026305468932763223,250
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),GFZ,60,0.3501479969359545,250
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),GFZ,96,0.3501479969359545,250
+65,Jiangsu Coastal Plain (Huaihe River Basin),GFZ,60,-0.13892796683496586,250
+65,Jiangsu Coastal Plain (Huaihe River Basin),GFZ,96,-0.13892796683496586,250
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,60,0.12968954759810047,250
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,96,0.12968954759810047,250
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.5397449493086252,250
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.5397449493086252,250
+68,Eastside Middle Indus Plain (Indus Basin),GFZ,60,0.28566170803470664,250
+68,Eastside Middle Indus Plain (Indus Basin),GFZ,96,0.28566170803470664,250
+69,Central Allegheny Plateau (Appalachian Plateaus),GFZ,60,-0.08658862247362044,250
+69,Central Allegheny Plateau (Appalachian Plateaus),GFZ,96,-0.08658862247362044,250
+70,Northeastern Karoo Basin (Main Karoo Basin),GFZ,60,-0.11156759251593149,250
+70,Northeastern Karoo Basin (Main Karoo Basin),GFZ,96,-0.11156759251593149,250
+71,Southern Riverine Plains (Murray Basin),GFZ,60,0.20775906836456112,250
+71,Southern Riverine Plains (Murray Basin),GFZ,96,0.20775906836456112,250
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),GFZ,60,0.036338469163192534,250
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),GFZ,96,0.036338469163192534,250
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),GFZ,60,-0.10657680076219618,250
+73,North Carolina and Virginia Coastal Plain (North Atlantic Coastal Plain),GFZ,96,-0.10657680076219618,250
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.35201824481646343,250
+74,Northeastern Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.35201824481646343,250
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),GFZ,60,-0.24949468105941655,250
+75,Ribstone Creek and Northern Judith River Aquifer (Bearpaw-Judith River Aquifer System),GFZ,96,-0.24949468105941655,250
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,60,0.7911214882665141,250
+76,Southern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GFZ,96,0.7911214882665141,250
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),GFZ,60,-0.1511785389409434,250
+77,Northcentral Valley and Ridge (Valley and Ridge Aquifer System),GFZ,96,-0.1511785389409434,250
+78,Ivanhoe Plains (Murray Basin),GFZ,60,0.0456178050495626,250
+78,Ivanhoe Plains (Murray Basin),GFZ,96,0.0456178050495626,250
+79,Southcentral Piedmont Upland (Piedmont Plateau),GFZ,60,0.1459624988652428,250
+79,Southcentral Piedmont Upland (Piedmont Plateau),GFZ,96,0.1459624988652428,250
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),GFZ,60,0.21109954358025465,250
+80,Weipa Depression and Northern Carpentaria Basin (Great Artesian Basin),GFZ,96,0.21109954358025465,250
+81,Western Liaohe River Basin (Liaohe River Basin),GFZ,60,0.09687494467553537,250
+81,Western Liaohe River Basin (Liaohe River Basin),GFZ,96,0.09687494467553537,250
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),GFZ,60,-0.36618585220924293,250
+82,Western Carrizo-Wilcox (Carrizo-Wilcox),GFZ,96,-0.36618585220924293,250
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),GFZ,60,-0.11467049904068458,250
+83,Northern Valley and Ridge (Valley and Ridge Aquifer System),GFZ,96,-0.11467049904068458,250
+84,Eastern Karoo Basin (Main Karoo Basin),GFZ,60,0.029360086975166993,250
+84,Eastern Karoo Basin (Main Karoo Basin),GFZ,96,0.029360086975166993,250
+85,Eastern Paris Basin (Paris Basin),GFZ,60,0.06624517108834448,250
+85,Eastern Paris Basin (Paris Basin),GFZ,96,0.06624517108834448,250
+86,Bari Doab (Indus Basin),GFZ,60,0.08095450952711403,250
+86,Bari Doab (Indus Basin),GFZ,96,0.08095450952711403,250
+87,Eastern Dakota Aquifer,GFZ,60,-0.11160687554062447,250
+87,Eastern Dakota Aquifer,GFZ,96,-0.11160687554062447,250
+88,Springfield Plain (Central Lowland Till Plain),GFZ,60,0.15127636241630424,250
+88,Springfield Plain (Central Lowland Till Plain),GFZ,96,0.15127636241630424,250
+89,Seymour-Blaine Aquifer System,GFZ,60,-0.25281362603379925,250
+89,Seymour-Blaine Aquifer System,GFZ,96,-0.25281362603379925,250
+90,Central Alluvial-Laucustrine Plain (North China Plain),GFZ,60,-0.18232421264550977,250
+90,Central Alluvial-Laucustrine Plain (North China Plain),GFZ,96,-0.18232421264550977,250
+91,Southern Malwa Plateau (Malwa Plateau),GFZ,60,0.3801937700402472,250
+91,Southern Malwa Plateau (Malwa Plateau),GFZ,96,0.3801937700402472,250
+92,Yellow River Alluvial Plain (North China Plain),GFZ,60,-0.42317871917651656,250
+92,Yellow River Alluvial Plain (North China Plain),GFZ,96,-0.42317871917651656,250
+93,Eastern Armorican Massif (Armorican Massif),GFZ,60,0.10813743715796079,250
+93,Eastern Armorican Massif (Armorican Massif),GFZ,96,0.10813743715796079,250
+94,Ocala Uplift (Floridan Aquifer System),GFZ,60,0.35358724829498267,250
+94,Ocala Uplift (Floridan Aquifer System),GFZ,96,0.35358724829498267,250
+95,Pearl and Chattahoochee Aquifer System,GFZ,60,0.08165597272585817,250
+95,Pearl and Chattahoochee Aquifer System,GFZ,96,0.08165597272585817,250
+96,Eastern Mekong Delta (Mekong Delta),GFZ,60,0.12238442213481492,250
+96,Eastern Mekong Delta (Mekong Delta),GFZ,96,0.12238442213481492,250
+97,Jianghan Plain,GFZ,60,0.00205482383766264,250
+97,Jianghan Plain,GFZ,96,0.00205482383766264,250
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),GFZ,60,-0.005438749191390544,250
+98,Middle-Upper Devonian Aquifer System (Baltic Artesian Basin),GFZ,96,-0.005438749191390544,250
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),GFZ,60,0.7090893431447965,250
+99,Upper Cauvery Banded Gneiss Aquifers (Dharwar Craton Banded Gneiss Complex),GFZ,96,0.7090893431447965,250
+100,Western Mississippi Embayment (Mississippi Embayment),GFZ,60,0.1396374907152597,250
+100,Western Mississippi Embayment (Mississippi Embayment),GFZ,96,0.1396374907152597,250
+101,Southern Hills (Gulf Coast Regional Aquifer System),GFZ,60,0.27218894312527264,250
+101,Southern Hills (Gulf Coast Regional Aquifer System),GFZ,96,0.27218894312527264,250
+102,Lake Frome Embayment (Great Artesian Basin),GFZ,60,0.11460636011298919,250
+102,Lake Frome Embayment (Great Artesian Basin),GFZ,96,0.11460636011298919,250
+103,Peedee and Black Creek and Cape Fear Aquifers,GFZ,60,0.006286253676724585,250
+103,Peedee and Black Creek and Cape Fear Aquifers,GFZ,96,0.006286253676724585,250
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),GFZ,60,-0.06769467842499266,250
+104,Western Brahmaputra Basin Aquifer (Brahmaputra Basin Aquifer),GFZ,96,-0.06769467842499266,250
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),GFZ,60,0.15963866188252396,250
+105,Roma Shelf and Northern Surat Basin (Great Artesian Basin),GFZ,96,0.15963866188252396,250
+106,Thal Doab (Indus Basin),GFZ,60,0.15426985156040876,250
+106,Thal Doab (Indus Basin),GFZ,96,0.15426985156040876,250
+107,Stockton Plateau (Edwards-Trinity Aquifer System),GFZ,60,-0.07719276498968138,250
+107,Stockton Plateau (Edwards-Trinity Aquifer System),GFZ,96,-0.07719276498968138,250
+108,Rechna Doab (Indus Basin),GFZ,60,0.1049307309930885,250
+108,Rechna Doab (Indus Basin),GFZ,96,0.1049307309930885,250
+109,Northern Piedmont and Tista Fan (Bengal Basin),GFZ,60,-0.007421740083006346,250
+109,Northern Piedmont and Tista Fan (Bengal Basin),GFZ,96,-0.007421740083006346,250
+110,Central Paris Basin (Paris Basin),GFZ,60,0.2221386547140296,250
+110,Central Paris Basin (Paris Basin),GFZ,96,0.2221386547140296,250
+111,Southern Mallee (Murray Basin),GFZ,60,-0.01545036149484085,250
+111,Southern Mallee (Murray Basin),GFZ,96,-0.01545036149484085,250
+112,Victoria Area (Gulf Coast Regional Aquifer System),GFZ,60,-0.3658237047036983,250
+112,Victoria Area (Gulf Coast Regional Aquifer System),GFZ,96,-0.3658237047036983,250
+113,Central Urucuia Aquifer (Urucuia Aquifer System),GFZ,60,-0.3540173406443296,250
+113,Central Urucuia Aquifer (Urucuia Aquifer System),GFZ,96,-0.3540173406443296,250
+114,Southcentral Floodplains (Bengal Basin),GFZ,60,-0.02045702459307914,250
+114,Southcentral Floodplains (Bengal Basin),GFZ,96,-0.02045702459307914,250
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),GFZ,60,0.10982038756086984,250
+115,Eastern Silurian-Devonian Aquifers (Northern Midwest Aquifer System),GFZ,96,0.10982038756086984,250
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),GFZ,60,0.29748152567430425,250
+116,Southern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),GFZ,96,0.29748152567430425,250
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),GFZ,60,0.13095599754013446,250
+117,Northeast Missouri Carbonates (Northern Midwest Aquifer System),GFZ,96,0.13095599754013446,250
+118,Eastern C Aquifer (The C Aquifer),GFZ,60,-0.13865422729759838,250
+118,Eastern C Aquifer (The C Aquifer),GFZ,96,-0.13865422729759838,250
+119,Southern Huaihe River Basin (Huaihe River Basin),GFZ,60,-0.16597248696572567,250
+119,Southern Huaihe River Basin (Huaihe River Basin),GFZ,96,-0.16597248696572567,250
+120,Western Huaihe Plain (Huaihe River Basin),GFZ,60,-0.843340821643323,250
+120,Western Huaihe Plain (Huaihe River Basin),GFZ,96,-0.843340821643323,250
+121,Southeastern Surat Basin (Great Artesian Basin),GFZ,60,0.1289747641439864,250
+121,Southeastern Surat Basin (Great Artesian Basin),GFZ,96,0.1289747641439864,250
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),GFZ,60,0.22052873154727026,250
+122,Houston-Galveston Area (Gulf Coast Regional Aquifer System),GFZ,96,0.22052873154727026,250
+123,Western Paris Basin (Paris Basin),GFZ,60,0.1322582426703902,250
+123,Western Paris Basin (Paris Basin),GFZ,96,0.1322582426703902,250
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),GFZ,60,-0.014722446523864341,250
+124,Northern Cumberland Plateau and Mountains (Appalachian Plateaus),GFZ,96,-0.014722446523864341,250
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),GFZ,60,0.0989280872756362,250
+125,Southeastern Coastal Karoo Basin (Main Karoo Basin),GFZ,96,0.0989280872756362,250
+126,Mount Vernon Hill County (Central Lowland Till Plain),GFZ,60,0.10084605751263279,250
+126,Mount Vernon Hill County (Central Lowland Till Plain),GFZ,96,0.10084605751263279,250
+127,Eastern Riverine Plains (Murray Basin),GFZ,60,0.15251425586933529,250
+127,Eastern Riverine Plains (Murray Basin),GFZ,96,0.15251425586933529,250
+128,Central Mallee (Murray Basin),GFZ,60,-0.04302756704898375,250
+128,Central Mallee (Murray Basin),GFZ,96,-0.04302756704898375,250
+129,Northern Allegheny Plateau (Appalachian Plateaus),GFZ,60,-0.059347654154611365,250
+129,Northern Allegheny Plateau (Appalachian Plateaus),GFZ,96,-0.059347654154611365,250
+130,Daly Basin (Daly-Wiso-Georgina Basins),GFZ,60,-0.3901690642577659,250
+130,Daly Basin (Daly-Wiso-Georgina Basins),GFZ,96,-0.3901690642577659,250
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),GFZ,60,0.059808730570383106,250
+131,Blue Mountains and Clearwater Embayment (Columbia Plateau Regional Aquifer System),GFZ,96,0.059808730570383106,250
+132,Western Satpura Basalt Aquifers (Satpura Basalts),GFZ,60,0.37307732195838894,250
+132,Western Satpura Basalt Aquifers (Satpura Basalts),GFZ,96,0.37307732195838894,250
+133,Northern Aquitaine Basin (Aquitaine Basin),GFZ,60,0.280086252406661,250
+133,Northern Aquitaine Basin (Aquitaine Basin),GFZ,96,0.280086252406661,250
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),GFZ,60,0.0832465754747759,250
+134,Central Wabash and Bloomington Ridged Plain (Central Lowland Till Plain),GFZ,96,0.0832465754747759,250
+135,Northern Riverine Plains (Murray Basin),GFZ,60,0.1538231837479751,250
+135,Northern Riverine Plains (Murray Basin),GFZ,96,0.1538231837479751,250
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),GFZ,60,0.07522993793631388,250
+136,Upper Peninsula Jacobsville Sandstone and Cambrian-Ordovician and Silurian-Devonian Aquifers (Northern Midwest Aquifer System),GFZ,96,0.07522993793631388,250
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),GFZ,60,0.6368020789855271,250
+137,Eastern Flatwoods Southshores (Floridan Aquifer System),GFZ,96,0.6368020789855271,250
+138,Lower Limestone Coast Aquifer System (Murray Basin),GFZ,60,-0.10734354277923484,250
+138,Lower Limestone Coast Aquifer System (Murray Basin),GFZ,96,-0.10734354277923484,250
+139,Eastern Malwa Plateau (Malwa Plateau),GFZ,60,0.28626643021084003,250
+139,Eastern Malwa Plateau (Malwa Plateau),GFZ,96,0.28626643021084003,250
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),GFZ,60,-0.04068744362801315,250
+140,Southern St. Lawrence Lowlands (St. Lawrence Lowlands),GFZ,96,-0.04068744362801315,250
+141,Southern Paris Basin (Paris Basin),GFZ,60,0.02460461185319013,250
+141,Southern Paris Basin (Paris Basin),GFZ,96,0.02460461185319013,250
+142,Westside Middle Indus Plain (Indus Basin),GFZ,60,0.33442549063796023,250
+142,Westside Middle Indus Plain (Indus Basin),GFZ,96,0.33442549063796023,250
+143,Northcentral Piedmont Upland (Piedmont Plateau),GFZ,60,-0.023707557947307306,250
+143,Northcentral Piedmont Upland (Piedmont Plateau),GFZ,96,-0.023707557947307306,250
+144,Osage Plains (Osage Cuestas Aquifer System),GFZ,60,0.038765174048709855,250
+144,Osage Plains (Osage Cuestas Aquifer System),GFZ,96,0.038765174048709855,250
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,60,-0.10519821447099645,250
+145,Eastern Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,96,-0.10519821447099645,250
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),GFZ,60,1.055643624263946,250
+146,Malwa Plateau Gneiss Complex (Malwa Plateau),GFZ,96,1.055643624263946,250
+147,Bluffton Till Plain (Central Lowland Till Plain),GFZ,60,-0.09132376413327795,250
+147,Bluffton Till Plain (Central Lowland Till Plain),GFZ,96,-0.09132376413327795,250
+148,Vidalia Upland (Floridan Aquifer System),GFZ,60,0.3251675864282659,250
+148,Vidalia Upland (Floridan Aquifer System),GFZ,96,0.3251675864282659,250
+149,Northern Paris Basin (Paris Basin),GFZ,60,0.14653036640360628,250
+149,Northern Paris Basin (Paris Basin),GFZ,96,0.14653036640360628,250
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),GFZ,60,0.0444155485319035,250
+150,Southern Valley and Ridge (Valley and Ridge Aquifer System),GFZ,96,0.0444155485319035,250
+151,Barind Tract and Central Floodplains (Bengal Basin),GFZ,60,-0.059113161566798286,250
+151,Barind Tract and Central Floodplains (Bengal Basin),GFZ,96,-0.059113161566798286,250
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),GFZ,60,-0.3060959333114493,250
+152,Northeastern Judith River (Bearpaw-Judith River Aquifer System),GFZ,96,-0.3060959333114493,250
+153,Great Plains Dakota Aquifer,GFZ,60,0.006075645997148507,250
+153,Great Plains Dakota Aquifer,GFZ,96,0.006075645997148507,250
+154,Western Armorican Massif (Armorican Massif),GFZ,60,0.0670675169852528,250
+154,Western Armorican Massif (Armorican Massif),GFZ,96,0.0670675169852528,250
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),GFZ,60,-0.1574493415081983,250
+155,Southeastern Allegheny Plateau (Appalachian Plateaus),GFZ,96,-0.1574493415081983,250
+156,Western Riverine Plains (Murray Basin),GFZ,60,0.04010287263849787,250
+156,Western Riverine Plains (Murray Basin),GFZ,96,0.04010287263849787,250
+157,Southern Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.7925909601474158,250
+157,Southern Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.7925909601474158,250
+158,Eastern Vindhyan Basin,GFZ,60,0.12298970839220258,250
+158,Eastern Vindhyan Basin,GFZ,96,0.12298970839220258,250
+159,Catahoula Area (Gulf Coast Regional Aquifer System),GFZ,60,0.12492557340808719,250
+159,Catahoula Area (Gulf Coast Regional Aquifer System),GFZ,96,0.12492557340808719,250
+160,Milk River,GFZ,60,0.12722310293231928,250
+160,Milk River,GFZ,96,0.12722310293231928,250
+161,Shawnee Hills (Interior Low Plateaus),GFZ,60,0.043712139723360376,250
+161,Shawnee Hills (Interior Low Plateaus),GFZ,96,0.043712139723360376,250
+162,Sea Island (Floridan Aquifer System),GFZ,60,0.2982000471777719,250
+162,Sea Island (Floridan Aquifer System),GFZ,96,0.2982000471777719,250
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),GFZ,60,-0.11960014565454749,250
+163,Missionary Plains Syncline and Mereenie Anticline (Amadeus Basin),GFZ,96,-0.11960014565454749,250
+164,Flint Hills Upland (Osage Cuestas Aquifer System),GFZ,60,0.013454660112309835,250
+164,Flint Hills Upland (Osage Cuestas Aquifer System),GFZ,96,0.013454660112309835,250
+165,Northwestern Malwa Plateau (Malwa Plateau),GFZ,60,0.5541949473933663,250
+165,Northwestern Malwa Plateau (Malwa Plateau),GFZ,96,0.5541949473933663,250
+166,Sundarbans and Southern Delta (Bengal Basin),GFZ,60,0.023277764158472703,250
+166,Sundarbans and Southern Delta (Bengal Basin),GFZ,96,0.023277764158472703,250
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),GFZ,60,-0.03451350439832546,250
+167,Transboundary Judith River Aquifer (Bearpaw-Judith River Aquifer System),GFZ,96,-0.03451350439832546,250
+168,Middle Chao Phraya Basin,GFZ,60,-0.056207558486816855,250
+168,Middle Chao Phraya Basin,GFZ,96,-0.056207558486816855,250
+169,Northern Mallee (Murray Basin),GFZ,60,0.025269857394182717,250
+169,Northern Mallee (Murray Basin),GFZ,96,0.025269857394182717,250
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),GFZ,60,0.13969923132541276,250
+170,Alabama Coastal Lowlands (Gulf Coast Regional Aquifer System),GFZ,96,0.13969923132541276,250
+171,Pecos Valley,GFZ,60,-0.11732715605570081,250
+171,Pecos Valley,GFZ,96,-0.11732715605570081,250
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.6613789172272334,250
+172,Eastern Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.6613789172272334,250
+173,Lachlan Alluvium,GFZ,60,0.3912439978438102,250
+173,Lachlan Alluvium,GFZ,96,0.3912439978438102,250
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),GFZ,60,-0.039092338999962735,250
+174,Devonian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),GFZ,96,-0.039092338999962735,250
+175,Nanyang Basin,GFZ,60,-0.38411877061503363,250
+175,Nanyang Basin,GFZ,96,-0.38411877061503363,250
+176,Newcastle Till Plain (Central Lowland Till Plain),GFZ,60,-0.057547791640821404,250
+176,Newcastle Till Plain (Central Lowland Till Plain),GFZ,96,-0.057547791640821404,250
+177,Southern Mekong Delta (Mekong Delta),GFZ,60,0.12634380220228547,250
+177,Southern Mekong Delta (Mekong Delta),GFZ,96,0.12634380220228547,250
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,60,0.2089371063413881,250
+178,Northern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GFZ,96,0.2089371063413881,250
+179,Wimmera Plain (Murray Basin),GFZ,60,0.06710476652637216,250
+179,Wimmera Plain (Murray Basin),GFZ,96,0.06710476652637216,250
+180,Ghaap Plateau Dolomite Aquifer System,GFZ,60,0.013079796735284662,250
+180,Ghaap Plateau Dolomite Aquifer System,GFZ,96,0.013079796735284662,250
+181,Bighorn Basin,GFZ,60,0.3231975022475124,250
+181,Bighorn Basin,GFZ,96,0.3231975022475124,250
+182,Northern San Juan Basin,GFZ,60,-0.0865446994376046,250
+182,Northern San Juan Basin,GFZ,96,-0.0865446994376046,250
+183,Southwestern Bengal Basin (Bengal Basin),GFZ,60,0.10284001844956714,250
+183,Southwestern Bengal Basin (Bengal Basin),GFZ,96,0.10284001844956714,250
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),GFZ,60,0.17122827951876715,250
+184,Central Carrizo-Wilcox (Carrizo-Wilcox),GFZ,96,0.17122827951876715,250
+185,Northern Pitted Karst Plain (Yucatan Peninsula),GFZ,60,0.08632809611749531,250
+185,Northern Pitted Karst Plain (Yucatan Peninsula),GFZ,96,0.08632809611749531,250
+186,New Brunswick Carboniferous Basin (Maritimes Basin),GFZ,60,-0.07012409271321533,250
+186,New Brunswick Carboniferous Basin (Maritimes Basin),GFZ,96,-0.07012409271321533,250
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),GFZ,60,-0.04043774197522168,250
+187,Madhupur Tract and Eastern Floodplains (Bengal Basin),GFZ,96,-0.04043774197522168,250
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),GFZ,60,-0.019888015822316325,250
+188,Southwestern Allegheny Plateau (Appalachian Plateaus),GFZ,96,-0.019888015822316325,250
+189,Black Hills Uplift,GFZ,60,0.02124111454914458,250
+189,Black Hills Uplift,GFZ,96,0.02124111454914458,250
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,60,-0.0490445668270742,250
+190,Central Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,96,-0.0490445668270742,250
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),GFZ,60,0.4384307234076044,250
+191,Northwestern Deccan Basalt Plateau (Deccan Plateau),GFZ,96,0.4384307234076044,250
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),GFZ,60,0.28496653271114203,250
+192,Dougherty Plain and Marianna Lowlands (Floridan Aquifer System),GFZ,96,0.28496653271114203,250
+193,Lower Coastal Plain (Floridan Aquifer System),GFZ,60,0.23880218846413306,250
+193,Lower Coastal Plain (Floridan Aquifer System),GFZ,96,0.23880218846413306,250
+194,Lannemezan Plateau (Aquitaine Basin),GFZ,60,0.05341858593106701,250
+194,Lannemezan Plateau (Aquitaine Basin),GFZ,96,0.05341858593106701,250
+195,Springbok Flats Karoo Basin,GFZ,60,0.0730466102150198,250
+195,Springbok Flats Karoo Basin,GFZ,96,0.0730466102150198,250
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),GFZ,60,-0.006243533698689725,250
+196,Southcentral Valley and Ridge (Valley and Ridge Aquifer System),GFZ,96,-0.006243533698689725,250
+197,Northcentral Piedmont Plain (North China Plain),GFZ,60,0.10532077451963584,250
+197,Northcentral Piedmont Plain (North China Plain),GFZ,96,0.10532077451963584,250
+198,North-central High Plains (High Plains),GFZ,60,-0.2109467314335733,250
+198,North-central High Plains (High Plains),GFZ,96,-0.2109467314335733,250
+199,Great Bend Prairie (High Plains),GFZ,60,-0.11869956767212361,250
+199,Great Bend Prairie (High Plains),GFZ,96,-0.11869956767212361,250
+200,Delmarva Peninsula (North Atlantic Coastal Plain),GFZ,60,-0.0015291932609758114,250
+200,Delmarva Peninsula (North Atlantic Coastal Plain),GFZ,96,-0.0015291932609758114,250
+201,Denver Basin,GFZ,60,-0.1349386138072674,250
+201,Denver Basin,GFZ,96,-0.1349386138072674,250
+202,Eastern Second Songhuajiang System (Songnen Plain),GFZ,60,0.583568976895582,250
+202,Eastern Second Songhuajiang System (Songnen Plain),GFZ,96,0.583568976895582,250
+203,Western Bengal Basin (Bengal Basin),GFZ,60,0.0007497069158881688,250
+203,Western Bengal Basin (Bengal Basin),GFZ,96,0.0007497069158881688,250
+204,Eastern Otway Basin (Otway Basin),GFZ,60,0.32868110080844487,250
+204,Eastern Otway Basin (Otway Basin),GFZ,96,0.32868110080844487,250
+205,Western Allegheny Plateau (Appalachian Plateaus),GFZ,60,-0.01462031789707224,250
+205,Western Allegheny Plateau (Appalachian Plateaus),GFZ,96,-0.01462031789707224,250
+206,Laizhou Coastal Plain,GFZ,60,-0.45202019160547724,250
+206,Laizhou Coastal Plain,GFZ,96,-0.45202019160547724,250
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),GFZ,60,0.5392857820123319,250
+207,Central Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),GFZ,96,0.5392857820123319,250
+208,Intermediate Aquifer (Floridan Aquifer System),GFZ,60,0.5625084081666858,250
+208,Intermediate Aquifer (Floridan Aquifer System),GFZ,96,0.5625084081666858,250
+209,Malm Valangnian Aquifer,GFZ,60,-0.605699900774927,250
+209,Malm Valangnian Aquifer,GFZ,96,-0.605699900774927,250
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),GFZ,60,0.15113831663610156,250
+210,Southwestern Khorat Plateau (Khorat Plateau Aquifer System),GFZ,96,0.15113831663610156,250
+211,Western Cambay Basin (Cambay Basin),GFZ,60,0.14965551402672453,250
+211,Western Cambay Basin (Cambay Basin),GFZ,96,0.14965551402672453,250
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,60,0.2288985932264943,250
+212,Western Pilbara Granite-Greenstone Terrane (Pilbara Craton),GFZ,96,0.2288985932264943,250
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),GFZ,60,0.28082087650040477,250
+213,Mississippi Delta (Gulf Coast Regional Aquifer System),GFZ,96,0.28082087650040477,250
+214,Central Cambay Basin (Cambay Basin),GFZ,60,0.22184525110471595,250
+214,Central Cambay Basin (Cambay Basin),GFZ,96,0.22184525110471595,250
+215,Eastern Duero Basin (Duero Basin),GFZ,60,0.14133550031768272,250
+215,Eastern Duero Basin (Duero Basin),GFZ,96,0.14133550031768272,250
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),GFZ,60,0.05530344861811735,250
+216,Eastern Pennyroyal Plateau (Interior Low Plateaus),GFZ,96,0.05530344861811735,250
+217,Gunnedah Basin and Liverpool Plains,GFZ,60,0.2942866705737883,250
+217,Gunnedah Basin and Liverpool Plains,GFZ,96,0.2942866705737883,250
+218,Northern Piedmont Upland (Piedmont Plateau),GFZ,60,-0.05329751369407124,250
+218,Northern Piedmont Upland (Piedmont Plateau),GFZ,96,-0.05329751369407124,250
+219,Lower Athabasca (Lower Athabasca Basin),GFZ,60,-0.09322559116255354,250
+219,Lower Athabasca (Lower Athabasca Basin),GFZ,96,-0.09322559116255354,250
+220,Southern Nuomin-Taoer System (Songnen Plain),GFZ,60,0.558219237952946,250
+220,Southern Nuomin-Taoer System (Songnen Plain),GFZ,96,0.558219237952946,250
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),GFZ,60,0.16953040117887727,250
+221,Umatilla Basin and Horse Heaven Hills (Columbia Plateau Regional Aquifer System),GFZ,96,0.16953040117887727,250
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),GFZ,60,0.1296030140797858,250
+222,Palouse Slope (Columbia Plateau Regional Aquifer System),GFZ,96,0.1296030140797858,250
+223,Letaba Lowveld,GFZ,60,0.020749260134709353,250
+223,Letaba Lowveld,GFZ,96,0.020749260134709353,250
+224,Landes Plain (Aquitaine Basin),GFZ,60,0.21755264264878935,250
+224,Landes Plain (Aquitaine Basin),GFZ,96,0.21755264264878935,250
+225,Transboundary Odanah Shale,GFZ,60,-0.4367863832536498,250
+225,Transboundary Odanah Shale,GFZ,96,-0.4367863832536498,250
+226,Northern Hirri Basin (Chhattisgarh Basin),GFZ,60,0.15540674771841553,250
+226,Northern Hirri Basin (Chhattisgarh Basin),GFZ,96,0.15540674771841553,250
+227,Western Second Songhuajiang System (Songnen Plain),GFZ,60,0.6691964725943615,250
+227,Western Second Songhuajiang System (Songnen Plain),GFZ,96,0.6691964725943615,250
+228,Tifton Upland (Floridan Aquifer System),GFZ,60,0.26558965009777563,250
+228,Tifton Upland (Floridan Aquifer System),GFZ,96,0.26558965009777563,250
+229,South-central High Plains (High Plains),GFZ,60,-0.276404791016727,250
+229,South-central High Plains (High Plains),GFZ,96,-0.276404791016727,250
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),GFZ,60,0.01171769854878741,250
+230,Northern Khorat Plateau (Khorat Plateau Aquifer System),GFZ,96,0.01171769854878741,250
+231,Hill Country (Edwards-Trinity Aquifer System),GFZ,60,-0.518313031911332,250
+231,Hill Country (Edwards-Trinity Aquifer System),GFZ,96,-0.518313031911332,250
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),GFZ,60,-0.038541809475610374,250
+232,Northern St. Lawrence Lowlands (St. Lawrence Lowlands),GFZ,96,-0.038541809475610374,250
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),GFZ,60,0.06568725426822568,250
+233,Chicxulub Sedimentary Basin (Yucatan Peninsula),GFZ,96,0.06568725426822568,250
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,GFZ,60,0.038410636162607245,250
+234,West Jutland Quaternary and Tertiary Sand Aquifer System,GFZ,96,0.038410636162607245,250
+235,South Platte Basin,GFZ,60,-0.03284023060125117,250
+235,South Platte Basin,GFZ,96,-0.03284023060125117,250
+236,North Rewa Basin (Son-Mahandai Valley Basins),GFZ,60,0.07434529539078329,250
+236,North Rewa Basin (Son-Mahandai Valley Basins),GFZ,96,0.07434529539078329,250
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),GFZ,60,0.7220261474281785,250
+237,Southern Coromandel Fractured Charnockite and Gneiss Aquifers (Coromandel Coastal Plain),GFZ,96,0.7220261474281785,250
+238,Chaj Doab (Indus Basin),GFZ,60,-0.05417455137089617,250
+238,Chaj Doab (Indus Basin),GFZ,96,-0.05417455137089617,250
+239,Rush Springs Aquifer,GFZ,60,-0.2515804644319834,250
+239,Rush Springs Aquifer,GFZ,96,-0.2515804644319834,250
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),GFZ,60,-0.04977208077741658,250
+240,Silurian and Overlying Unconsolidated Aquifers (Southern Ontario Paleozoic Aquifer System),GFZ,96,-0.04977208077741658,250
+241,Bangkok Basin (Lower Chao Phraya Basin),GFZ,60,0.23615845867940732,250
+241,Bangkok Basin (Lower Chao Phraya Basin),GFZ,96,0.23615845867940732,250
+242,Gypsum Hills,GFZ,60,-0.14340866241960779,250
+242,Gypsum Hills,GFZ,96,-0.14340866241960779,250
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),GFZ,60,0.37817337416846214,250
+243,Clarence-Moreton Basin and Cecil Plains (Great Artesian Basin),GFZ,96,0.37817337416846214,250
+244,Hetao Basin,GFZ,60,-0.045473557173962766,250
+244,Hetao Basin,GFZ,96,-0.045473557173962766,250
+245,Western C Aquifer (The C Aquifer),GFZ,60,0.009422461055733147,250
+245,Western C Aquifer (The C Aquifer),GFZ,96,0.009422461055733147,250
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),GFZ,60,0.029318760308679987,250
+246,Arrowsmith and Dandaragan Plateau (Perth Basin),GFZ,96,0.029318760308679987,250
+247,Gambier Embayment (Otway Basin),GFZ,60,0.14865570411229614,250
+247,Gambier Embayment (Otway Basin),GFZ,96,0.14865570411229614,250
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),GFZ,60,0.15278251635768272,250
+248,Northern Columbia River Basin (Columbia Plateau Regional Aquifer System),GFZ,96,0.15278251635768272,250
+249,San Luis Valley (Middle Rio Grande),GFZ,60,-0.10533829241003849,250
+249,San Luis Valley (Middle Rio Grande),GFZ,96,-0.10533829241003849,250
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),GFZ,60,-0.005936593116434617,250
+250,Southern Cumberland Plateau - Pottsville Aquifer (Appalachian Plateaus),GFZ,96,-0.005936593116434617,250
+251,Sylhet Basin (Bengal Basin),GFZ,60,-0.0932422693707085,250
+251,Sylhet Basin (Bengal Basin),GFZ,96,-0.0932422693707085,250
+252,Tuli Karoo Aquifer,GFZ,60,0.23761684196596086,250
+252,Tuli Karoo Aquifer,GFZ,96,0.23761684196596086,250
+253,Antlers Aquifer,GFZ,60,0.30907044275508666,250
+253,Antlers Aquifer,GFZ,96,0.30907044275508666,250
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),GFZ,60,-0.06068144724547678,250
+254,New Jersey Coastal Plain (North Atlantic Coastal Plain),GFZ,96,-0.06068144724547678,250
+255,Upper Deschutes Basin,GFZ,60,-0.10335461481042223,250
+255,Upper Deschutes Basin,GFZ,96,-0.10335461481042223,250
+256,Southwestern Flatwoods (Floridan Aquifer System),GFZ,60,0.8769276953216101,250
+256,Southwestern Flatwoods (Floridan Aquifer System),GFZ,96,0.8769276953216101,250
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),GFZ,60,0.00927634360267512,250
+257,Central Cumberland Plateau and Sequatchie Valley (Appalachian Plateaus),GFZ,96,0.00927634360267512,250
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),GFZ,60,1.2150145697040862,250
+258,Eastern Malwa Plateau Alluvial Aquifer (Malwa Plateau),GFZ,96,1.2150145697040862,250
+259,Northern Duero Basin (Duero Basin),GFZ,60,-0.13632301794380394,250
+259,Northern Duero Basin (Duero Basin),GFZ,96,-0.13632301794380394,250
+260,Central Littoral Plain (North China Plain),GFZ,60,0.0750374447181084,250
+260,Central Littoral Plain (North China Plain),GFZ,96,0.0750374447181084,250
+261,Red River Delta,GFZ,60,0.18729124701329036,250
+261,Red River Delta,GFZ,96,0.18729124701329036,250
+262,Tipton Till Plain (Central Lowland Till Plain),GFZ,60,-0.05796989083664079,250
+262,Tipton Till Plain (Central Lowland Till Plain),GFZ,96,-0.05796989083664079,250
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),GFZ,60,-0.025557958739390395,250
+263,Upper Carbonate Aquifer (Northern Midwest Aquifer System),GFZ,96,-0.025557958739390395,250
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),GFZ,60,0.31483045012369937,250
+264,Northern Saurashtra Deccan Trap Basalts (Saurashtra Deccan Trap Basalts),GFZ,96,0.31483045012369937,250
+265,Kurnool Basin (Cuddapah Sedimentary Basin),GFZ,60,0.40754902017359074,250
+265,Kurnool Basin (Cuddapah Sedimentary Basin),GFZ,96,0.40754902017359074,250
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),GFZ,60,-0.09846648154245416,250
+266,Coatzacoalcos Coastal Aquifer (Coastal Plain of Veracruz),GFZ,96,-0.09846648154245416,250
+267,Northern Nuomin-Taoer System (Songnen Plain),GFZ,60,0.7947875561338993,250
+267,Northern Nuomin-Taoer System (Songnen Plain),GFZ,96,0.7947875561338993,250
+268,Hatfield Valley,GFZ,60,-0.6076031394736605,250
+268,Hatfield Valley,GFZ,96,-0.6076031394736605,250
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),GFZ,60,0.27277352020682305,250
+269,Northcentral Coromandel Schist Aquifers (Coromandel Coastal Plain),GFZ,96,0.27277352020682305,250
+270,Alsatian Aquifer and Upper Rhine Valley,GFZ,60,-0.0037702174665988305,250
+270,Alsatian Aquifer and Upper Rhine Valley,GFZ,96,-0.0037702174665988305,250
+271,Southern Odanah Shale,GFZ,60,-0.3485019979011288,250
+271,Southern Odanah Shale,GFZ,96,-0.3485019979011288,250
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),GFZ,60,0.24762283193854517,250
+272,Eastern Satpura Basalt Aquifers (Satpura Basalts),GFZ,96,0.24762283193854517,250
+273,Southern Hirri Basin (Chhattisgarh Basin),GFZ,60,0.1519916112201851,250
+273,Southern Hirri Basin (Chhattisgarh Basin),GFZ,96,0.1519916112201851,250
+274,Limpopo Plateau,GFZ,60,0.06860980720813324,250
+274,Limpopo Plateau,GFZ,96,0.06860980720813324,250
+275,Southeastern Bengal Basin (Bengal Basin),GFZ,60,-0.02930823256111226,250
+275,Southeastern Bengal Basin (Bengal Basin),GFZ,96,-0.02930823256111226,250

@@ -1,0 +1,220 @@
+aquifer_idx,Study_area,product,trend_cm_yr
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),CSR,0.219067290425301
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),JPL,0.326079994440079
+0,Central Parana Basin and Torres Syncline (Guarani Aquifer System),GSFC,0.612797021865845
+1,Northern Guarani Aquifer (Guarani Aquifer System),CSR,-1.33133089542389
+1,Northern Guarani Aquifer (Guarani Aquifer System),JPL,-1.31578207015991
+1,Northern Guarani Aquifer (Guarani Aquifer System),GSFC,-0.854816138744354
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),CSR,-0.193390414118767
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),JPL,-0.17752593755722
+2,Southwestern Chaco-Lower Parana Basin (Guarani Aquifer System),GSFC,-0.309189945459366
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),CSR,0.425366908311844
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),JPL,0.517649412155151
+3,Amazonas Basin and Alter de Chao Aquifer System (Amazon Aquifer System),GSFC,0.767470002174377
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),CSR,0.020177885890007
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),JPL,0.0353259406983852
+4,Poolowanna Trough and Western Eromanga Basin (Great Artesian Basin),GSFC,0.141475856304169
+5,Eastern Eromanga Basin (Great Artesian Basin),CSR,0.118388123810291
+5,Eastern Eromanga Basin (Great Artesian Basin),JPL,0.107517242431641
+5,Eastern Eromanga Basin (Great Artesian Basin),GSFC,0.139541298151016
+6,Northern Eromanga Basin (Great Artesian Basin),CSR,0.15931436419487
+6,Northern Eromanga Basin (Great Artesian Basin),JPL,0.175375536084175
+6,Northern Eromanga Basin (Great Artesian Basin),GSFC,-0.00508082285523415
+7,Northern High Plains (High Plains),CSR,0.365992605686188
+7,Northern High Plains (High Plains),JPL,0.316169559955597
+7,Northern High Plains (High Plains),GSFC,0.423652172088623
+8,Williston Basin (Northern Great Plains),CSR,0.325713455677032
+8,Williston Basin (Northern Great Plains),JPL,0.176003590226173
+8,Williston Basin (Northern Great Plains),GSFC,0.569560348987579
+9,Central Eromanga Depocenter (Great Artesian Basin),CSR,0.102550484240055
+9,Central Eromanga Depocenter (Great Artesian Basin),JPL,0.069590300321579
+9,Central Eromanga Depocenter (Great Artesian Basin),GSFC,0.0272741988301277
+10,Western Parecis Basin (Parecis Basin),CSR,-0.515230715274811
+10,Western Parecis Basin (Parecis Basin),JPL,-0.513933479785919
+10,Western Parecis Basin (Parecis Basin),GSFC,-0.429946750402451
+11,Upper Gangetic Plain (Indo-Gangetic Plain),CSR,-2.11932110786438
+11,Upper Gangetic Plain (Indo-Gangetic Plain),JPL,-2.04782700538635
+11,Upper Gangetic Plain (Indo-Gangetic Plain),GSFC,-2.32204389572144
+12,Stampriet Kalahari Karoo Aquifer System,CSR,0.160642594099045
+12,Stampriet Kalahari Karoo Aquifer System,JPL,0.150277018547058
+12,Stampriet Kalahari Karoo Aquifer System,GSFC,0.398368567228317
+13,Northcentral Mega Aquifer System (Mega Aquifer System),CSR,-0.354456216096878
+13,Northcentral Mega Aquifer System (Mega Aquifer System),JPL,-0.614450991153717
+13,Northcentral Mega Aquifer System (Mega Aquifer System),GSFC,-0.449627757072449
+14,Ozark Plateaus Aquifer System,CSR,0.133534103631973
+14,Ozark Plateaus Aquifer System,JPL,0.273862093687058
+14,Ozark Plateaus Aquifer System,GSFC,0.421131283044815
+15,Western Karoo Basin (Main Karoo Basin),CSR,0.148208051919937
+15,Western Karoo Basin (Main Karoo Basin),JPL,0.0131793171167374
+15,Western Karoo Basin (Main Karoo Basin),GSFC,0.163248986005783
+16,Middle Gangetic Plain (Indo-Gangetic Plain),CSR,-1.01165080070496
+16,Middle Gangetic Plain (Indo-Gangetic Plain),JPL,-1.09369719028473
+16,Middle Gangetic Plain (Indo-Gangetic Plain),GSFC,-1.23303425312042
+17,Northern Mega Aquifer System (Mega Aquifer System),CSR,-0.425623625516892
+17,Northern Mega Aquifer System (Mega Aquifer System),JPL,-0.777522265911102
+17,Northern Mega Aquifer System (Mega Aquifer System),GSFC,-0.368725746870041
+18,Canning Basin,CSR,0.157809108495712
+18,Canning Basin,JPL,-0.228642582893372
+18,Canning Basin,GSFC,0.101780913770199
+19,Central Karoo Basin (Main Karoo Basin),CSR,0.273287564516068
+19,Central Karoo Basin (Main Karoo Basin),JPL,0.323980927467346
+19,Central Karoo Basin (Main Karoo Basin),GSFC,0.109611548483372
+20,Southern Carpentaria Basin (Great Artesian Basin),CSR,0.3001449406147
+20,Southern Carpentaria Basin (Great Artesian Basin),JPL,0.111281141638756
+20,Southern Carpentaria Basin (Great Artesian Basin),GSFC,0.0954634845256805
+21,Eastern Parecis Basin (Parecis Basin),CSR,-0.385806202888489
+21,Eastern Parecis Basin (Parecis Basin),JPL,-0.103290297091007
+21,Eastern Parecis Basin (Parecis Basin),GSFC,0.213774234056473
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),CSR,0.138869896531105
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),JPL,-0.0564000830054283
+22,Eastern Poti and Piaui and Cabecas and Serra Grande Aquifers (Parnaiba Basin),GSFC,-0.358025819063187
+23,Wiso Basin (Daly-Wiso-Georgina Basins),CSR,0.869828104972839
+23,Wiso Basin (Daly-Wiso-Georgina Basins),JPL,0.596087336540222
+23,Wiso Basin (Daly-Wiso-Georgina Basins),GSFC,0.960471451282501
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),CSR,0.82284152507782
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),JPL,1.15027916431427
+24,Northern Georgina Basin (Daly-Wiso-Georgina Basins),GSFC,0.881266534328461
+25,Dakota Aquifer System,CSR,0.395930975675583
+25,Dakota Aquifer System,JPL,0.595176160335541
+25,Dakota Aquifer System,GSFC,0.200030267238617
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),CSR,0.0274061001837254
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),JPL,0.00144413381349295
+26,Arckaringa Basin and Southwestern Great Artesian Basin (Great Artesian Basin),GSFC,-0.283845245838165
+27,Trans Gangetic Plain (Indo-Gangetic Plain),CSR,-5.91181421279907
+27,Trans Gangetic Plain (Indo-Gangetic Plain),JPL,-4.69758319854736
+27,Trans Gangetic Plain (Indo-Gangetic Plain),GSFC,-4.93014240264893
+28,Southcentral Mega Aquifer System (Mega Aquifer System),CSR,-0.442005962133408
+28,Southcentral Mega Aquifer System (Mega Aquifer System),JPL,-0.611739873886108
+28,Southcentral Mega Aquifer System (Mega Aquifer System),GSFC,-0.425390481948853
+29,Central Mississippi Embayment (Mississippi Embayment),CSR,0.112448573112488
+29,Central Mississippi Embayment (Mississippi Embayment),JPL,0.29486358165741
+29,Central Mississippi Embayment (Mississippi Embayment),GSFC,0.0897699072957039
+30,Northern Karoo Basin (Main Karoo Basin),CSR,0.215053915977478
+30,Northern Karoo Basin (Main Karoo Basin),JPL,0.314026147127152
+30,Northern Karoo Basin (Main Karoo Basin),GSFC,0.233171910047531
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),CSR,0.01564035192132
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),JPL,0.0225416980683804
+31,Mississippian-Silurian-Devonian Carbonates (Northern Midwest Aquifer System),GSFC,-0.15107761323452
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),CSR,0.485083729028702
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),JPL,0.672020316123962
+32,Staten River Embayment and Central Carpentaria Basin (Great Artesian Basin),GSFC,0.31556448340416
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,0.520492851734161
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,0.696226894855499
+33,Central Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GSFC,0.308224469423294
+34,Central Huaihe Plain (Huaihe River Basin),CSR,-0.606287479400635
+34,Central Huaihe Plain (Huaihe River Basin),JPL,-0.394553750753403
+34,Central Huaihe Plain (Huaihe River Basin),GSFC,-1.28445065021515
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,CSR,-0.151131808757782
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,JPL,-0.216619193553925
+35,Central Minnesota Surficial and Buried Sand and Gravel Aquifers,GSFC,-0.599789977073669
+36,Southern High Plains (High Plains),CSR,-1.43596243858337
+36,Southern High Plains (High Plains),JPL,-1.58526968955994
+36,Southern High Plains (High Plains),GSFC,-1.57787144184113
+37,Southcentral Karoo Basin (Main Karoo Basin),CSR,0.193217098712921
+37,Southcentral Karoo Basin (Main Karoo Basin),JPL,0.0949549227952957
+37,Southcentral Karoo Basin (Main Karoo Basin),GSFC,0.221844613552094
+38,Central High Plains (High Plains),CSR,-1.26564395427704
+38,Central High Plains (High Plains),JPL,-1.6709851026535
+38,Central High Plains (High Plains),GSFC,-2.21754050254822
+39,Lower Liaohe River Plain (Liaohe River Basin),CSR,-0.159216210246086
+39,Lower Liaohe River Plain (Liaohe River Basin),JPL,0.0557696335017681
+39,Lower Liaohe River Plain (Liaohe River Basin),GSFC,-0.62195348739624
+40,Wadi As-Sirhan Basin,CSR,-1.43346953392029
+40,Wadi As-Sirhan Basin,JPL,-0.891799569129944
+40,Wadi As-Sirhan Basin,GSFC,-1.58471918106079
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),CSR,-1.27907681465149
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),JPL,-1.02818262577057
+41,Eastern Saq Aquifer (Ram-Saq Aquifer System),GSFC,-1.85868549346924
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),CSR,-0.229362905025482
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),JPL,-1.11465299129486
+42,Trinity Aquifer System (Edwards-Trinity Aquifer System),GSFC,-0.230811417102814
+43,Wisconsin Precambrian Aquifer,CSR,0.54085499048233
+43,Wisconsin Precambrian Aquifer,JPL,0.794105291366577
+43,Wisconsin Precambrian Aquifer,GSFC,0.580175817012787
+44,Lafayette Area (Gulf Coast Regional Aquifer System),CSR,0.16202774643898
+44,Lafayette Area (Gulf Coast Regional Aquifer System),JPL,0.0957375094294548
+44,Lafayette Area (Gulf Coast Regional Aquifer System),GSFC,0.154716804623604
+45,Paskapoo-Scollard,CSR,-0.464728772640228
+45,Paskapoo-Scollard,JPL,0.0114419301971793
+45,Paskapoo-Scollard,GSFC,-0.761860609054565
+46,Western Surat Basin (Great Artesian Basin),CSR,0.212810024619102
+46,Western Surat Basin (Great Artesian Basin),JPL,0.299850434064865
+46,Western Surat Basin (Great Artesian Basin),GSFC,0.0416803918778896
+47,Coonamble Embayment (Great Artesian Basin),CSR,0.428155869245529
+47,Coonamble Embayment (Great Artesian Basin),JPL,0.445375204086304
+47,Coonamble Embayment (Great Artesian Basin),GSFC,0.119166396558285
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),CSR,0.23349367082119
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),JPL,0.185003042221069
+48,Mimosa Syncline and Eastern Surat Basin (Great Artesian Basin),GSFC,0.346066176891327
+49,Wuyuer-Shuangyang System (Songnen Plain),CSR,0.590906500816345
+49,Wuyuer-Shuangyang System (Songnen Plain),JPL,0.482946336269379
+49,Wuyuer-Shuangyang System (Songnen Plain),GSFC,0.303461283445358
+50,Powder River Basin (Northern Great Plains),CSR,0.305346786975861
+50,Powder River Basin (Northern Great Plains),JPL,0.295539736747742
+50,Powder River Basin (Northern Great Plains),GSFC,0.535655558109283
+51,Central Eucla Basin (Eucla Basin),CSR,0.16405625641346
+51,Central Eucla Basin (Eucla Basin),JPL,0.107147328555584
+51,Central Eucla Basin (Eucla Basin),GSFC,0.0103790583088994
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),CSR,-0.0884021446108818
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),JPL,-0.740925490856171
+52,Rio Grande Delta (Gulf Coast Regional Aquifer System),GSFC,-0.484078168869019
+53,Michigan Basin,CSR,1.68149220943451
+53,Michigan Basin,JPL,1.55716264247894
+53,Michigan Basin,GSFC,1.28592121601105
+54,Southern Piedmont Upland (Piedmont Plateau),CSR,0.38512459397316
+54,Southern Piedmont Upland (Piedmont Plateau),JPL,0.476897716522217
+54,Southern Piedmont Upland (Piedmont Plateau),GSFC,-0.053064625710249
+55,Eastern Huaihe Plain (Huaihe River Basin),CSR,-0.479387551546097
+55,Eastern Huaihe Plain (Huaihe River Basin),JPL,-0.537429094314575
+55,Eastern Huaihe Plain (Huaihe River Basin),GSFC,-1.23616540431976
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),CSR,0.582416117191315
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),JPL,0.519936501979828
+56,Northern Dharwar Craton Banded Gneiss Complex (Dharwar Craton Banded Gneiss Complex),GSFC,0.363613396883011
+57,Eastern Mississippi Embayment (Mississippi Embayment),CSR,0.0759605392813683
+57,Eastern Mississippi Embayment (Mississippi Embayment),JPL,-0.0826252028346062
+57,Eastern Mississippi Embayment (Mississippi Embayment),GSFC,-0.156184613704681
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,0.116460025310516
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,0.229977756738663
+58,Western Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GSFC,-0.185647383332253
+59,Southeastern System (Amadeus Basin),CSR,-0.15126197040081
+59,Southeastern System (Amadeus Basin),JPL,-0.404223650693893
+59,Southeastern System (Amadeus Basin),GSFC,-0.140780046582222
+60,Edwards Plateau (Edwards-Trinity Aquifer System),CSR,-0.571432054042816
+60,Edwards Plateau (Edwards-Trinity Aquifer System),JPL,-0.643089234828949
+60,Edwards Plateau (Edwards-Trinity Aquifer System),GSFC,-0.673602342605591
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),CSR,0.622156143188477
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),JPL,0.293321251869202
+61,Southcentral Deccan Basalt Plateau (Deccan Plateau),GSFC,0.15483133494854
+62,Eastside Lower Indus Valley (Indus Basin),CSR,-0.04813302308321
+62,Eastside Lower Indus Valley (Indus Basin),JPL,-0.125824242830277
+62,Eastside Lower Indus Valley (Indus Basin),GSFC,0.680705726146698
+63,Central Piedmont Upland (Piedmont Plateau),CSR,0.209336265921593
+63,Central Piedmont Upland (Piedmont Plateau),JPL,0.183495044708252
+63,Central Piedmont Upland (Piedmont Plateau),GSFC,-0.181872501969337
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),CSR,0.0661004632711411
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),JPL,0.130724042654037
+64,Eastern Carrizo-Wilcox (Carrizo-Wilcox),GSFC,0.0834673717617989
+65,Jiangsu Coastal Plain (Huaihe River Basin),CSR,0.00728392181918025
+65,Jiangsu Coastal Plain (Huaihe River Basin),JPL,-0.0676716566085815
+65,Jiangsu Coastal Plain (Huaihe River Basin),GSFC,-0.159352347254753
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),CSR,0.17907427251339
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),JPL,0.211243405938149
+66,Eastern Cambrian-Ordovician Aquifers (Northern Midwest Aquifer System),GSFC,0.0950970128178596
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),CSR,0.787143528461456
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),JPL,0.641748249530792
+67,Northcentral Deccan Basalt Plateau (Deccan Plateau),GSFC,0.315631747245789
+68,Eastside Middle Indus Plain (Indus Basin),CSR,-1.10842096805573
+68,Eastside Middle Indus Plain (Indus Basin),JPL,-0.453456431627274
+68,Eastside Middle Indus Plain (Indus Basin),GSFC,-1.55894339084625
+69,Central Allegheny Plateau (Appalachian Plateaus),CSR,-0.000633071584161371
+69,Central Allegheny Plateau (Appalachian Plateaus),JPL,0.0168459732085466
+69,Central Allegheny Plateau (Appalachian Plateaus),GSFC,-0.117062345147133
+70,Northeastern Karoo Basin (Main Karoo Basin),CSR,0.226835489273071
+70,Northeastern Karoo Basin (Main Karoo Basin),JPL,0.552938580513001
+70,Northeastern Karoo Basin (Main Karoo Basin),GSFC,0.0847543105483055
+71,Southern Riverine Plains (Murray Basin),CSR,0.393308490514755
+71,Southern Riverine Plains (Murray Basin),JPL,0.374551981687546
+71,Southern Riverine Plains (Murray Basin),GSFC,0.219312816858292
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),CSR,0.119390442967415
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),JPL,-0.0950765609741211
+72,Black Warrior River Aquifer System (Eutaw and McShan Formations and Tuscaloosa Group),GSFC,-0.310814201831818

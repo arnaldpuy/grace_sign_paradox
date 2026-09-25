@@ -1,0 +1,11 @@
+{
+  "planet_id": "pilot_uniform_depletion",
+  "comment": "Minimal pilot per METHODOLOGY section 14: uniform -1.0 cm/yr EWH groundwater trend across the 73 Tier-1 aquifers on top of GLDAS-Noah rest-of-world hydrology. Blinding-ready: per-aquifer overrides keyed by aquifer_idx take precedence over __default__.",
+  "seed": 20260714,
+  "aquifer_trends_cm_yr": { "__default__": -1.0 },
+  "seasonal_amp_cm": { "__default__": 2.0 },
+  "seasonal_phase_month": { "__default__": 3 },
+  "trend_ref_epoch": "2014-01-01",
+  "gia_truth_gfc": "visc3d_0.5_s16_min196_naice.sh.gfc",
+  "snow_tower_threshold_cm": 100.0
+}

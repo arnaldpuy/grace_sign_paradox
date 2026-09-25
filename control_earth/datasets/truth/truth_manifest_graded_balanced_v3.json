@@ -1,0 +1,13 @@
+{
+  "planet_id": "graded_balanced_v3",
+  "spec_sha256": "25f47003d6b7e7e328ea8a693ecbe3ac51b772fa45ea830a27dafd5369b261bd",
+  "truth_nc_sha256": "f32cdaa0d52e3b958c3be4b67eb02006a09f926ec8feb4e93ef368c65f083af9",
+  "trends_csv_sha256": "9ff1ba42435d80e7a66f330cfb231b521f23d1757ae9b047a0f270682586ab0c",
+  "n_months": 250,
+  "n_aquifers": 73,
+  "tau_true_range": [
+    -2.1628239231719486,
+    2.0846584068816667
+  ],
+  "created": "2026-08-06T22:05:17.969927Z"
+}
